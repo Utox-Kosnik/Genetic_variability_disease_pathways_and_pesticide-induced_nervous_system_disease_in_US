@@ -1,0 +1,289 @@
+State,Region,Disease,PestHits,Metric,DiseaseOccurrence
+Alabama,Southeast,Alzheimer's Disease,52.2313284864508,Incidence,183.651297284712
+Arizona,Southwest,Alzheimer's Disease,59.9548319327731,Incidence,191.041043990159
+Arkansas,Southeast,Alzheimer's Disease,46.7149722735675,Incidence,192.93033068765
+California,West,Alzheimer's Disease,54.2928954423593,Incidence,170.890843957619
+Colorado,West,Alzheimer's Disease,55.009349289454,Incidence,178.108974484281
+Connecticut,Northeast,Alzheimer's Disease,60.5799004074242,Incidence,242.579338794861
+Delaware,Northeast,Alzheimer's Disease,59.8741753063148,Incidence,205.001080271807
+Florida,Southeast,Alzheimer's Disease,56.3265807243708,Incidence,256.464817963793
+Georgia,Southeast,Alzheimer's Disease,53.3091231178034,Incidence,149.213338507527
+Idaho,West,Alzheimer's Disease,56.5404326123128,Incidence,166.654811662179
+Illinois,Midwest,Alzheimer's Disease,53.7458757458758,Incidence,194.525388477769
+Indiana,Midwest,Alzheimer's Disease,54.3788899582932,Incidence,214.833204188008
+Iowa,Midwest,Alzheimer's Disease,52.1429166666667,Incidence,204.903898403608
+Kansas,Midwest,Alzheimer's Disease,50.5645875251509,Incidence,199.60968859069
+Kentucky,Southeast,Alzheimer's Disease,54.6428571428572,Incidence,202.404492728947
+Louisiana,Southeast,Alzheimer's Disease,45.3306613226453,Incidence,194.612803801738
+Maine,Northeast,Alzheimer's Disease,59.1349621873182,Incidence,254.150005046145
+Maryland,Northeast,Alzheimer's Disease,55.0421300977418,Incidence,202.47957256285
+Massachusetts,Northeast,Alzheimer's Disease,61.1588001764446,Incidence,237.057759217269
+Michigan,Midwest,Alzheimer's Disease,54.7181989924433,Incidence,233.085800008891
+Minnesota,Midwest,Alzheimer's Disease,52.3506629448709,Incidence,191.305688318083
+Mississippi,Southeast,Alzheimer's Disease,48.230461650309,Incidence,169.385610622705
+Missouri,Midwest,Alzheimer's Disease,49.8826941669352,Incidence,222.562573344265
+Montana,West,Alzheimer's Disease,51.1636597938144,Incidence,226.020560147788
+Nebraska,Midwest,Alzheimer's Disease,54.6577319587629,Incidence,196.090972557107
+Nevada,West,Alzheimer's Disease,57.7076302274395,Incidence,138.112964584795
+New Hampshire,Northeast,Alzheimer's Disease,61.8220983274202,Incidence,230.593101614132
+New Jersey,Northeast,Alzheimer's Disease,57.7253708634462,Incidence,211.942200507771
+New Mexico,Southwest,Alzheimer's Disease,52.6923815620999,Incidence,205.662049525738
+New York,Northeast,Alzheimer's Disease,58.0674277559757,Incidence,225.444833621701
+North Carolina,Southeast,Alzheimer's Disease,52.964776119403,Incidence,181.133259107328
+North Dakota,Midwest,Alzheimer's Disease,48.9337044534413,Incidence,243.98553993377
+Ohio,Midwest,Alzheimer's Disease,54.0064575645757,Incidence,232.944539848321
+Oklahoma,Southwest,Alzheimer's Disease,48.5239122617763,Incidence,198.019126217243
+Oregon,West,Alzheimer's Disease,55.6068656716418,Incidence,205.851029637481
+Pennsylvania,Northeast,Alzheimer's Disease,55.5729434447301,Incidence,244.557059730533
+Rhode Island,Northeast,Alzheimer's Disease,62.8871054039593,Incidence,255.475970846781
+South Carolina,Southeast,Alzheimer's Disease,53.9127795527157,Incidence,189.565708062693
+South Dakota,Midwest,Alzheimer's Disease,50.8877649325626,Incidence,195.473008341809
+Tennessee,Southeast,Alzheimer's Disease,52.0171463563993,Incidence,195.099507502469
+Texas,Southwest,Alzheimer's Disease,50.8746626686657,Incidence,164.678279180272
+Utah,West,Alzheimer's Disease,55.4584095063985,Incidence,100.01967729575
+Vermont,Northeast,Alzheimer's Disease,61.2259592610137,Incidence,229.170088152368
+Virginia,Southeast,Alzheimer's Disease,52.3327205882353,Incidence,186.533443133339
+Washington,West,Alzheimer's Disease,55.7867078825348,Incidence,177.546327658036
+West Virginia,Southeast,Alzheimer's Disease,54.9019902365753,Incidence,246.397293208741
+Wisconsin,Midwest,Alzheimer's Disease,54.677500902853,Incidence,207.485906784764
+Wyoming,West,Alzheimer's Disease,55.5354645354645,Incidence,173.551599018126
+Alabama,Southeast,Alzheimer's Disease,52.2269596589046,Prevalence,1389.06505723321
+Arizona,Southwest,Alzheimer's Disease,59.919512195122,Prevalence,1383.15767569293
+Arkansas,Southeast,Alzheimer's Disease,46.771711249542,Prevalence,1406.33386592482
+California,West,Alzheimer's Disease,54.3849734042553,Prevalence,1209.88363516809
+Colorado,West,Alzheimer's Disease,55.0709219858156,Prevalence,1289.53791677092
+Connecticut,Northeast,Alzheimer's Disease,60.5799004074242,Prevalence,1808.95144112275
+Delaware,Northeast,Alzheimer's Disease,59.8741753063148,Prevalence,1498.30846166423
+Florida,Southeast,Alzheimer's Disease,56.2860628240317,Prevalence,1902.91733544823
+Georgia,Southeast,Alzheimer's Disease,53.2877676738046,Prevalence,1099.74641009135
+Idaho,West,Alzheimer's Disease,56.6031218864165,Prevalence,1221.45261046928
+Illinois,Midwest,Alzheimer's Disease,53.7939011566772,Prevalence,1416.30802292335
+Indiana,Midwest,Alzheimer's Disease,54.411217948718,Prevalence,1640.36485485092
+Iowa,Midwest,Alzheimer's Disease,52.1876820640866,Prevalence,1405.84058403825
+Kansas,Midwest,Alzheimer's Disease,50.6492834394905,Prevalence,1469.48113219243
+Kentucky,Southeast,Alzheimer's Disease,54.6895104895105,Prevalence,1516.51883977495
+Louisiana,Southeast,Alzheimer's Disease,45.3714739769567,Prevalence,1488.53285357638
+Maine,Northeast,Alzheimer's Disease,59.1349621873182,Prevalence,1883.53602751439
+Maryland,Northeast,Alzheimer's Disease,55.0643314247221,Prevalence,1540.06864073941
+Massachusetts,Northeast,Alzheimer's Disease,61.1588001764446,Prevalence,1775.8541035194
+Michigan,Midwest,Alzheimer's Disease,54.7286748504879,Prevalence,1787.50578490159
+Minnesota,Midwest,Alzheimer's Disease,52.425139275766,Prevalence,1420.59326101927
+Mississippi,Southeast,Alzheimer's Disease,48.2588320115357,Prevalence,1236.36904915091
+Missouri,Midwest,Alzheimer's Disease,49.9565633982753,Prevalence,1670.79941311553
+Montana,West,Alzheimer's Disease,51.2583547557841,Prevalence,1630.52616702313
+Nebraska,Midwest,Alzheimer's Disease,54.7400246812012,Prevalence,1436.4984976957
+Nevada,West,Alzheimer's Disease,57.7630904430612,Prevalence,977.427242714465
+New Hampshire,Northeast,Alzheimer's Disease,61.8220983274202,Prevalence,1709.58248353359
+New Jersey,Northeast,Alzheimer's Disease,57.7253708634462,Prevalence,1551.39029609126
+New Mexico,Southwest,Alzheimer's Disease,52.7296096477309,Prevalence,1481.98151579545
+New York,Northeast,Alzheimer's Disease,58.0674277559757,Prevalence,1670.76188227628
+North Carolina,Southeast,Alzheimer's Disease,52.9558256744738,Prevalence,1318.74113841672
+North Dakota,Midwest,Alzheimer's Disease,49.0519677093845,Prevalence,1831.89797416004
+Ohio,Midwest,Alzheimer's Disease,54.0377880184332,Prevalence,1765.74700710752
+Oklahoma,Southwest,Alzheimer's Disease,48.6057692307692,Prevalence,1465.00391026505
+Oregon,West,Alzheimer's Disease,55.6551415797317,Prevalence,1503.89968167694
+Pennsylvania,Northeast,Alzheimer's Disease,55.5729434447301,Prevalence,1811.55327706982
+Rhode Island,Northeast,Alzheimer's Disease,62.8871054039593,Prevalence,1935.31252831537
+South Carolina,Southeast,Alzheimer's Disease,53.8854695431472,Prevalence,1382.19257849726
+South Dakota,Midwest,Alzheimer's Disease,50.9947166186359,Prevalence,1372.57852137616
+Tennessee,Southeast,Alzheimer's Disease,52.0255319148936,Prevalence,1453.85438183995
+Texas,Southwest,Alzheimer's Disease,50.9241522903034,Prevalence,1237.189887684
+Utah,West,Alzheimer's Disease,55.5177919708029,Prevalence,709.387167355901
+Vermont,Northeast,Alzheimer's Disease,61.2259592610137,Prevalence,1649.0958061531
+Virginia,Southeast,Alzheimer's Disease,52.3388077858881,Prevalence,1380.27367930327
+Washington,West,Alzheimer's Disease,55.8364197530864,Prevalence,1270.29075890444
+West Virginia,Southeast,Alzheimer's Disease,54.9019902365753,Prevalence,1868.78708907877
+Wisconsin,Midwest,Alzheimer's Disease,54.6895306859206,Prevalence,1504.62890393489
+Wyoming,West,Alzheimer's Disease,55.6324701195219,Prevalence,1229.19619872237
+Alabama,Southeast,Multiple Sclerosis,30.3973647711512,Incidence,2.56894680439416
+Arizona,Southwest,Multiple Sclerosis,33.9173069886572,Incidence,3.10164204097261
+Arkansas,Southeast,Multiple Sclerosis,28.8055555555556,Incidence,2.50431759472485
+California,West,Multiple Sclerosis,32.2396324222432,Incidence,2.60084290609488
+Colorado,West,Multiple Sclerosis,31.0330448465775,Incidence,4.43331667508891
+Connecticut,Northeast,Multiple Sclerosis,35.3979007633588,Incidence,3.8034519095293
+Delaware,Northeast,Multiple Sclerosis,33.4507669470559,Incidence,3.46445715634636
+Florida,Southeast,Multiple Sclerosis,31.997108898169,Incidence,2.47857251121869
+Georgia,Southeast,Multiple Sclerosis,31.1255035636814,Incidence,2.72550297609724
+Idaho,West,Multiple Sclerosis,32.9406570116567,Incidence,4.36765989078352
+Illinois,Midwest,Multiple Sclerosis,32.0519044062733,Incidence,3.36281776135228
+Indiana,Midwest,Multiple Sclerosis,32.1619598502892,Incidence,3.25411021923213
+Iowa,Midwest,Multiple Sclerosis,31.4160035366932,Incidence,3.15516534856936
+Kansas,Midwest,Multiple Sclerosis,29.6860514117151,Incidence,3.28441410018523
+Kentucky,Southeast,Multiple Sclerosis,32.0841713221602,Incidence,2.95604387978677
+Louisiana,Southeast,Multiple Sclerosis,28.2501056189269,Incidence,2.2766345884621
+Maine,Northeast,Multiple Sclerosis,34.7532228360958,Incidence,3.6221216306249
+Maryland,Northeast,Multiple Sclerosis,31.7729864575909,Incidence,3.47711656822518
+Massachusetts,Northeast,Multiple Sclerosis,35.5431637890807,Incidence,3.99874986511203
+Michigan,Midwest,Multiple Sclerosis,31.9005964214712,Incidence,4.0497415166024
+Minnesota,Midwest,Multiple Sclerosis,31.3244246473645,Incidence,3.78138016519678
+Mississippi,Southeast,Multiple Sclerosis,28.9927147239264,Incidence,2.08189449280306
+Missouri,Midwest,Multiple Sclerosis,30.6353061922682,Incidence,3.30878578302412
+Montana,West,Multiple Sclerosis,30.5184174624829,Incidence,4.54811617284947
+Nebraska,Midwest,Multiple Sclerosis,30.5479862896315,Incidence,3.85416758491753
+Nevada,West,Multiple Sclerosis,33.5154236626318,Incidence,3.71626374048273
+New Hampshire,Northeast,Multiple Sclerosis,36.2443609022556,Incidence,3.87485410247806
+New Jersey,Northeast,Multiple Sclerosis,33.9152884227511,Incidence,3.28189398245924
+New Mexico,Southwest,Multiple Sclerosis,31.1049983227105,Incidence,3.01079884881167
+New York,Northeast,Multiple Sclerosis,33.7553956834532,Incidence,3.75119215931432
+North Carolina,Southeast,Multiple Sclerosis,31.1153362664991,Incidence,3.02481156645244
+North Dakota,Midwest,Multiple Sclerosis,29.9946695095949,Incidence,4.14230958394942
+Ohio,Midwest,Multiple Sclerosis,32.3099510603589,Incidence,3.61073632441671
+Oklahoma,Southwest,Multiple Sclerosis,29.1121495327103,Incidence,2.6316694725895
+Oregon,West,Multiple Sclerosis,32.5332492908919,Incidence,3.98668055570305
+Pennsylvania,Northeast,Multiple Sclerosis,32.4137813985065,Incidence,3.82373111962932
+Rhode Island,Northeast,Multiple Sclerosis,36.2993235625705,Incidence,4.72786610036684
+South Carolina,Southeast,Multiple Sclerosis,31.1456375838926,Incidence,2.75116321058522
+South Dakota,Midwest,Multiple Sclerosis,30.0934815563416,Incidence,3.9021813727345
+Tennessee,Southeast,Multiple Sclerosis,31.0064850843061,Incidence,2.89071157709392
+Texas,Southwest,Multiple Sclerosis,30.0820288040075,Incidence,2.4198645723701
+Utah,West,Multiple Sclerosis,32.3709990300679,Incidence,5.35515895682654
+Vermont,Northeast,Multiple Sclerosis,35.947234906139,Incidence,3.78979775344571
+Virginia,Southeast,Multiple Sclerosis,30.946434333656,Incidence,3.36797909348352
+Washington,West,Multiple Sclerosis,32.4362984685565,Incidence,4.22376187673366
+West Virginia,Southeast,Multiple Sclerosis,32.3871866295265,Incidence,2.89731997929232
+Wisconsin,Midwest,Multiple Sclerosis,32.498280473825,Incidence,3.98368275437535
+Wyoming,West,Multiple Sclerosis,31.7381454162276,Incidence,4.59476158326081
+Alabama,Southeast,Multiple Sclerosis,30.3973647711512,Prevalence,103.561954426802
+Arizona,Southwest,Multiple Sclerosis,33.9173069886572,Prevalence,118.899274501885
+Arkansas,Southeast,Multiple Sclerosis,28.8055555555556,Prevalence,95.4348689899128
+California,West,Multiple Sclerosis,32.2396324222432,Prevalence,92.2794762860933
+Colorado,West,Multiple Sclerosis,31.0330448465775,Prevalence,170.290931995203
+Connecticut,Northeast,Multiple Sclerosis,35.3979007633588,Prevalence,165.742248032351
+Delaware,Northeast,Multiple Sclerosis,33.4507669470559,Prevalence,145.54817303248
+Florida,Southeast,Multiple Sclerosis,31.997108898169,Prevalence,109.60009967049
+Georgia,Southeast,Multiple Sclerosis,31.1255035636814,Prevalence,102.616478193857
+Idaho,West,Multiple Sclerosis,32.9406570116567,Prevalence,160.64010333069
+Illinois,Midwest,Multiple Sclerosis,32.0519044062733,Prevalence,126.779997782658
+Indiana,Midwest,Multiple Sclerosis,32.1619598502892,Prevalence,122.015740064721
+Iowa,Midwest,Multiple Sclerosis,31.4160035366932,Prevalence,118.540884196405
+Kansas,Midwest,Multiple Sclerosis,29.6860514117151,Prevalence,119.682952556173
+Kentucky,Southeast,Multiple Sclerosis,32.0841713221602,Prevalence,119.968948431635
+Louisiana,Southeast,Multiple Sclerosis,28.2501056189269,Prevalence,86.1513344730687
+Maine,Northeast,Multiple Sclerosis,34.7532228360958,Prevalence,164.882861289634
+Maryland,Northeast,Multiple Sclerosis,31.7729864575909,Prevalence,135.474778196827
+Massachusetts,Northeast,Multiple Sclerosis,35.5431637890807,Prevalence,158.197105214185
+Michigan,Midwest,Multiple Sclerosis,31.9005964214712,Prevalence,164.604201573863
+Minnesota,Midwest,Multiple Sclerosis,31.3244246473645,Prevalence,143.405887965433
+Mississippi,Southeast,Multiple Sclerosis,28.9927147239264,Prevalence,76.5552283992881
+Missouri,Midwest,Multiple Sclerosis,30.6353061922682,Prevalence,130.585092387579
+Montana,West,Multiple Sclerosis,30.5184174624829,Prevalence,184.338465418355
+Nebraska,Midwest,Multiple Sclerosis,30.5479862896315,Prevalence,141.164685288367
+Nevada,West,Multiple Sclerosis,33.5154236626318,Prevalence,139.702696479683
+New Hampshire,Northeast,Multiple Sclerosis,36.2443609022556,Prevalence,173.412467837696
+New Jersey,Northeast,Multiple Sclerosis,33.9152884227511,Prevalence,135.141932580486
+New Mexico,Southwest,Multiple Sclerosis,31.1049983227105,Prevalence,116.875394709982
+New York,Northeast,Multiple Sclerosis,33.7553956834532,Prevalence,152.421905467364
+North Carolina,Southeast,Multiple Sclerosis,31.1153362664991,Prevalence,120.444627612992
+North Dakota,Midwest,Multiple Sclerosis,29.9946695095949,Prevalence,148.997646106916
+Ohio,Midwest,Multiple Sclerosis,32.3099510603589,Prevalence,144.657987137699
+Oklahoma,Southwest,Multiple Sclerosis,29.1121495327103,Prevalence,94.7401526740191
+Oregon,West,Multiple Sclerosis,32.5332492908919,Prevalence,156.093882689611
+Pennsylvania,Northeast,Multiple Sclerosis,32.4137813985065,Prevalence,160.069154132544
+Rhode Island,Northeast,Multiple Sclerosis,36.2993235625705,Prevalence,194.324215924951
+South Carolina,Southeast,Multiple Sclerosis,31.1456375838926,Prevalence,110.759654020835
+South Dakota,Midwest,Multiple Sclerosis,30.0934815563416,Prevalence,147.803429144902
+Tennessee,Southeast,Multiple Sclerosis,31.0064850843061,Prevalence,115.19718362145
+Texas,Southwest,Multiple Sclerosis,30.0820288040075,Prevalence,86.4050293947688
+Utah,West,Multiple Sclerosis,32.3709990300679,Prevalence,168.19507999845
+Vermont,Northeast,Multiple Sclerosis,35.947234906139,Prevalence,165.813112458995
+Virginia,Southeast,Multiple Sclerosis,30.946434333656,Prevalence,131.870839619281
+Washington,West,Multiple Sclerosis,32.4362984685565,Prevalence,160.942139550298
+West Virginia,Southeast,Multiple Sclerosis,32.3871866295265,Prevalence,124.843511589192
+Wisconsin,Midwest,Multiple Sclerosis,32.498280473825,Prevalence,157.514114203157
+Wyoming,West,Multiple Sclerosis,31.7381454162276,Prevalence,176.010704967762
+Alabama,Southeast,Parkinson Disease,37.9378531073446,Incidence,45.1086880861181
+Arizona,Southwest,Parkinson Disease,42.6217634709587,Incidence,49.0379557829478
+Arkansas,Southeast,Parkinson Disease,34.9959107806691,Incidence,39.7051937086139
+California,West,Parkinson Disease,39.5604713205869,Incidence,42.6570787640437
+Colorado,West,Parkinson Disease,38.5187265917603,Incidence,45.6667030769096
+Connecticut,Northeast,Parkinson Disease,43.1359669269637,Incidence,49.0449515483868
+Delaware,Northeast,Parkinson Disease,42.2775683317625,Incidence,44.7227098554877
+Florida,Southeast,Parkinson Disease,40.4873768472906,Incidence,56.8970878076551
+Georgia,Southeast,Parkinson Disease,38.5047449584816,Incidence,38.716381514299
+Idaho,West,Parkinson Disease,39.5432098765432,Incidence,46.9131736738209
+Illinois,Midwest,Parkinson Disease,37.9427467509659,Incidence,43.9804117819143
+Indiana,Midwest,Parkinson Disease,38.8993548387097,Incidence,49.374029292763
+Iowa,Midwest,Parkinson Disease,36.5699417152373,Incidence,46.5931187579085
+Kansas,Midwest,Parkinson Disease,36.1031010873943,Incidence,51.2259825295311
+Kentucky,Southeast,Parkinson Disease,38.4985935302391,Incidence,50.3432212129509
+Louisiana,Southeast,Parkinson Disease,34.3602584814217,Incidence,46.7014451667871
+Maine,Northeast,Parkinson Disease,42.6590106007067,Incidence,68.4895294407783
+Maryland,Northeast,Parkinson Disease,38.7948457104103,Incidence,44.883789927729
+Massachusetts,Northeast,Parkinson Disease,43.72157564906,Incidence,50.7856764272573
+Michigan,Midwest,Parkinson Disease,39.2388201712655,Incidence,52.9991930086051
+Minnesota,Midwest,Parkinson Disease,36.618549511855,Incidence,45.8207609871214
+Mississippi,Southeast,Parkinson Disease,36.2871250914411,Incidence,38.2607176036952
+Missouri,Midwest,Parkinson Disease,36.588064516129,Incidence,54.1386108914922
+Montana,West,Parkinson Disease,35.9416309012876,Incidence,54.1639651610159
+Nebraska,Midwest,Parkinson Disease,37.8902538902539,Incidence,39.6195704473452
+Nevada,West,Parkinson Disease,39.424064563463,Incidence,42.4360341702031
+New Hampshire,Northeast,Parkinson Disease,43.9021627188466,Incidence,56.2778037994777
+New Jersey,Northeast,Parkinson Disease,41.4917402996543,Incidence,46.8159487019193
+New Mexico,Southwest,Parkinson Disease,37.9756019261637,Incidence,47.0147227836178
+New York,Northeast,Parkinson Disease,41.508279337653,Incidence,50.5351447894684
+North Carolina,Southeast,Parkinson Disease,38.3549066827213,Incidence,45.3186915842446
+North Dakota,Midwest,Parkinson Disease,35.2691919191919,Incidence,46.3377523014818
+Ohio,Midwest,Parkinson Disease,38.4929099876695,Incidence,52.5493762590309
+Oklahoma,Southwest,Parkinson Disease,35.7518878101402,Incidence,45.1695065135932
+Oregon,West,Parkinson Disease,39.6779407363065,Incidence,50.1947393596782
+Pennsylvania,Northeast,Parkinson Disease,40.1144149967679,Incidence,54.8118599605218
+Rhode Island,Northeast,Parkinson Disease,44.3920086393089,Incidence,48.4082674370117
+South Carolina,Southeast,Parkinson Disease,38.9639291465378,Incidence,46.8225636489553
+South Dakota,Midwest,Parkinson Disease,36.107810253953,Incidence,41.7436666163086
+Tennessee,Southeast,Parkinson Disease,37.8183220234423,Incidence,44.5346294747352
+Texas,Southwest,Parkinson Disease,37.4296429642964,Incidence,39.9441937092265
+Utah,West,Parkinson Disease,38.2576659038902,Incidence,31.6411409125155
+Vermont,Northeast,Parkinson Disease,43.5271765271765,Incidence,63.6610654260619
+Virginia,Southeast,Parkinson Disease,37.7047207651959,Incidence,43.0015602496667
+Washington,West,Parkinson Disease,39.4913043478261,Incidence,48.5559287507574
+West Virginia,Southeast,Parkinson Disease,39.3420553659462,Incidence,59.9114741584512
+Wisconsin,Midwest,Parkinson Disease,38.7411850236278,Incidence,45.7286623275231
+Wyoming,West,Parkinson Disease,37.9268656716418,Incidence,43.1262841847604
+Alabama,Southeast,Parkinson Disease,37.7037404832837,Prevalence,157.216033851898
+Arizona,Southwest,Parkinson Disease,42.4157381615599,Prevalence,188.740329348325
+Arkansas,Southeast,Parkinson Disease,34.7485207100592,Prevalence,135.336189632865
+California,West,Parkinson Disease,39.3757468466475,Prevalence,176.147353196413
+Colorado,West,Parkinson Disease,38.574652124859,Prevalence,179.914550146534
+Connecticut,Northeast,Parkinson Disease,43.1359669269637,Prevalence,206.389320805036
+Delaware,Northeast,Parkinson Disease,42.3183750590458,Prevalence,163.98365002737
+Florida,Southeast,Parkinson Disease,40.272783062289,Prevalence,227.905106035488
+Georgia,Southeast,Parkinson Disease,38.2937352245863,Prevalence,137.57416214212
+Idaho,West,Parkinson Disease,39.5918982256445,Prevalence,176.048310073426
+Illinois,Midwest,Parkinson Disease,37.9802608389144,Prevalence,172.003919516365
+Indiana,Midwest,Parkinson Disease,38.9533678756477,Prevalence,192.91331239643
+Iowa,Midwest,Parkinson Disease,36.6280334728033,Prevalence,183.686630188201
+Kansas,Midwest,Parkinson Disease,35.8376753507014,Prevalence,208.101747504703
+Kentucky,Southeast,Parkinson Disease,38.5381086803105,Prevalence,188.373725234362
+Louisiana,Southeast,Parkinson Disease,34.0915295062224,Prevalence,175.107109521553
+Maine,Northeast,Parkinson Disease,42.6694166175604,Prevalence,276.904965714614
+Maryland,Northeast,Parkinson Disease,38.8323699421965,Prevalence,175.803669970612
+Massachusetts,Northeast,Parkinson Disease,43.72157564906,Prevalence,209.854766051344
+Michigan,Midwest,Parkinson Disease,39.2932187201528,Prevalence,206.560214960874
+Minnesota,Midwest,Parkinson Disease,36.6673669467787,Prevalence,183.284231418775
+Mississippi,Southeast,Parkinson Disease,36.036780772032,Prevalence,125.269319531662
+Missouri,Midwest,Parkinson Disease,36.4065615953683,Prevalence,217.789504291363
+Montana,West,Parkinson Disease,35.9982743744607,Prevalence,201.108197772322
+Nebraska,Midwest,Parkinson Disease,37.9539094650206,Prevalence,150.544389361403
+Nevada,West,Parkinson Disease,39.4452608376194,Prevalence,150.98461046691
+New Hampshire,Northeast,Parkinson Disease,43.9021627188466,Prevalence,220.098634012693
+New Jersey,Northeast,Parkinson Disease,41.5044213763937,Prevalence,192.849516398335
+New Mexico,Southwest,Parkinson Disease,37.752557544757,Prevalence,168.351363536669
+New York,Northeast,Parkinson Disease,41.5201729106628,Prevalence,213.888286523291
+North Carolina,Southeast,Parkinson Disease,38.1521152115212,Prevalence,167.277627621189
+North Dakota,Midwest,Parkinson Disease,35.3318089430894,Prevalence,185.345475043528
+Ohio,Midwest,Parkinson Disease,38.5430074257426,Prevalence,203.814039972354
+Oklahoma,Southwest,Parkinson Disease,35.516290726817,Prevalence,160.98991485369
+Oregon,West,Parkinson Disease,39.7175870348139,Prevalence,186.984991126826
+Pennsylvania,Northeast,Parkinson Disease,40.1535968891769,Prevalence,220.332992807956
+Rhode Island,Northeast,Parkinson Disease,44.3920086393089,Prevalence,191.861127302062
+South Carolina,Southeast,Parkinson Disease,38.74486521181,Prevalence,167.30486066352
+South Dakota,Midwest,Parkinson Disease,36.1720481927711,Prevalence,167.813601381659
+Tennessee,Southeast,Parkinson Disease,37.6084818684696,Prevalence,160.546537812451
+Texas,Southwest,Parkinson Disease,37.2232516437537,Prevalence,155.616632513869
+Utah,West,Parkinson Disease,38.3002754820937,Prevalence,115.854495857215
+Vermont,Northeast,Parkinson Disease,43.5271765271765,Prevalence,253.565179057316
+Virginia,Southeast,Parkinson Disease,37.4990774907749,Prevalence,166.185561493888
+Washington,West,Parkinson Disease,39.5138413685848,Prevalence,189.552394196512
+West Virginia,Southeast,Parkinson Disease,39.3911719939117,Prevalence,223.992918967123
+Wisconsin,Midwest,Parkinson Disease,38.7963503649635,Prevalence,177.236206023257
+Wyoming,West,Parkinson Disease,37.9979989994998,Prevalence,154.988867761039

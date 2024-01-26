@@ -1,0 +1,487 @@
+Type,Disease,Year,variable,value
+SNPs,Alzheimer's Disease,1992,Incidence corr coefficient,0.0509527285440078
+SNPs,Multiple Sclerosis,1992,Incidence corr coefficient,0.439741934398591
+SNPs,Parkinson Disease,1992,Incidence corr coefficient,0.246540573481885
+SNPs,Alzheimer's Disease,1993,Incidence corr coefficient,0.0577997343399697
+SNPs,Multiple Sclerosis,1993,Incidence corr coefficient,0.469842155286425
+SNPs,Parkinson Disease,1993,Incidence corr coefficient,0.260340151985784
+SNPs,Alzheimer's Disease,1994,Incidence corr coefficient,0.111647358956038
+SNPs,Multiple Sclerosis,1994,Incidence corr coefficient,0.520324314112494
+SNPs,Parkinson Disease,1994,Incidence corr coefficient,0.305256232715282
+SNPs,Alzheimer's Disease,1995,Incidence corr coefficient,0.0628176154302676
+SNPs,Multiple Sclerosis,1995,Incidence corr coefficient,0.465904776984712
+SNPs,Parkinson Disease,1995,Incidence corr coefficient,0.292236853234643
+SNPs,Alzheimer's Disease,1996,Incidence corr coefficient,0.0211550391187588
+SNPs,Multiple Sclerosis,1996,Incidence corr coefficient,0.472315863313052
+SNPs,Parkinson Disease,1996,Incidence corr coefficient,0.285942615110239
+SNPs,Alzheimer's Disease,1998,Incidence corr coefficient,-0.00116805447816176
+SNPs,Multiple Sclerosis,1998,Incidence corr coefficient,0.475625980892422
+SNPs,Parkinson Disease,1998,Incidence corr coefficient,0.323770446603991
+SNPs,Alzheimer's Disease,1997,Incidence corr coefficient,-0.00214296552106419
+SNPs,Multiple Sclerosis,1997,Incidence corr coefficient,0.453166854147958
+SNPs,Parkinson Disease,1997,Incidence corr coefficient,0.297310262446011
+SNPs,Alzheimer's Disease,1999,Incidence corr coefficient,0.0288219498722921
+SNPs,Multiple Sclerosis,1999,Incidence corr coefficient,0.483450927037948
+SNPs,Parkinson Disease,1999,Incidence corr coefficient,0.341982119294411
+SNPs,Alzheimer's Disease,2000,Incidence corr coefficient,0.0417898860632266
+SNPs,Multiple Sclerosis,2000,Incidence corr coefficient,0.47627057750364
+SNPs,Parkinson Disease,2000,Incidence corr coefficient,0.353463945374469
+SNPs,Alzheimer's Disease,2001,Incidence corr coefficient,0.0598101774804301
+SNPs,Multiple Sclerosis,2001,Incidence corr coefficient,0.471791122055196
+SNPs,Parkinson Disease,2001,Incidence corr coefficient,0.36276972508705
+SNPs,Alzheimer's Disease,2002,Incidence corr coefficient,0.0707357962900512
+SNPs,Multiple Sclerosis,2002,Incidence corr coefficient,0.465842585852666
+SNPs,Parkinson Disease,2002,Incidence corr coefficient,0.351769401653025
+SNPs,Alzheimer's Disease,2003,Incidence corr coefficient,0.103030301721423
+SNPs,Multiple Sclerosis,2003,Incidence corr coefficient,0.441459172414956
+SNPs,Parkinson Disease,2003,Incidence corr coefficient,0.371799152834386
+SNPs,Alzheimer's Disease,2004,Incidence corr coefficient,0.117191089713552
+SNPs,Multiple Sclerosis,2004,Incidence corr coefficient,0.430587377476309
+SNPs,Parkinson Disease,2004,Incidence corr coefficient,0.368325325623023
+SNPs,Alzheimer's Disease,2005,Incidence corr coefficient,0.133715097523669
+SNPs,Multiple Sclerosis,2005,Incidence corr coefficient,0.42806925930488
+SNPs,Parkinson Disease,2005,Incidence corr coefficient,0.387414092309644
+SNPs,Alzheimer's Disease,2006,Incidence corr coefficient,0.146044647516387
+SNPs,Multiple Sclerosis,2006,Incidence corr coefficient,0.426276074171384
+SNPs,Parkinson Disease,2006,Incidence corr coefficient,0.393903102240595
+SNPs,Alzheimer's Disease,2007,Incidence corr coefficient,0.159283382472358
+SNPs,Multiple Sclerosis,2007,Incidence corr coefficient,0.411240682893427
+SNPs,Parkinson Disease,2007,Incidence corr coefficient,0.399054816237859
+SNPs,Alzheimer's Disease,2008,Incidence corr coefficient,0.187749776177471
+SNPs,Multiple Sclerosis,2008,Incidence corr coefficient,0.41318550902536
+SNPs,Parkinson Disease,2008,Incidence corr coefficient,0.410597132724805
+SNPs,Alzheimer's Disease,2009,Incidence corr coefficient,0.200876694867998
+SNPs,Multiple Sclerosis,2009,Incidence corr coefficient,0.411150555847263
+SNPs,Parkinson Disease,2009,Incidence corr coefficient,0.41247069595759
+SNPs,Alzheimer's Disease,2010,Incidence corr coefficient,0.211422862738148
+SNPs,Multiple Sclerosis,2010,Incidence corr coefficient,0.421385690020983
+SNPs,Parkinson Disease,2010,Incidence corr coefficient,0.422358820022189
+SNPs,Alzheimer's Disease,2011,Incidence corr coefficient,0.213275869793757
+SNPs,Multiple Sclerosis,2011,Incidence corr coefficient,0.434514115233808
+SNPs,Parkinson Disease,2011,Incidence corr coefficient,0.42205214864903
+SNPs,Alzheimer's Disease,2012,Incidence corr coefficient,0.223686568302775
+SNPs,Multiple Sclerosis,2012,Incidence corr coefficient,0.442967932240758
+SNPs,Parkinson Disease,2012,Incidence corr coefficient,0.425784469568386
+SNPs,Alzheimer's Disease,2013,Incidence corr coefficient,0.236293970815554
+SNPs,Multiple Sclerosis,2013,Incidence corr coefficient,0.453510033790624
+SNPs,Parkinson Disease,2013,Incidence corr coefficient,0.434960966682319
+SNPs,Alzheimer's Disease,2014,Incidence corr coefficient,0.249677753998782
+SNPs,Multiple Sclerosis,2014,Incidence corr coefficient,0.457601671675882
+SNPs,Parkinson Disease,2014,Incidence corr coefficient,0.440398663505738
+SNPs,Alzheimer's Disease,2015,Incidence corr coefficient,0.262313218915089
+SNPs,Multiple Sclerosis,2015,Incidence corr coefficient,0.462277721286171
+SNPs,Parkinson Disease,2015,Incidence corr coefficient,0.446168629176494
+SNPs,Alzheimer's Disease,2016,Incidence corr coefficient,0.277132692924856
+SNPs,Multiple Sclerosis,2016,Incidence corr coefficient,0.466369063863071
+SNPs,Parkinson Disease,2016,Incidence corr coefficient,0.442248301368574
+SNPs,Alzheimer's Disease,2017,Incidence corr coefficient,0.29384368539653
+SNPs,Multiple Sclerosis,2017,Incidence corr coefficient,0.469031179941335
+SNPs,Parkinson Disease,2017,Incidence corr coefficient,0.448942983719298
+SNPs,Alzheimer's Disease,2018,Incidence corr coefficient,0.308884634746994
+SNPs,Multiple Sclerosis,2018,Incidence corr coefficient,0.470860562173394
+SNPs,Parkinson Disease,2018,Incidence corr coefficient,0.466575364654353
+SNPs,Alzheimer's Disease,1992,Prevalence corr coefficient,0.0523374004413194
+SNPs,Multiple Sclerosis,1992,Prevalence corr coefficient,0.485073143785823
+SNPs,Parkinson Disease,1992,Prevalence corr coefficient,0.246285132690092
+SNPs,Alzheimer's Disease,1993,Prevalence corr coefficient,0.0525961622427762
+SNPs,Multiple Sclerosis,1993,Prevalence corr coefficient,0.518037193200125
+SNPs,Parkinson Disease,1993,Prevalence corr coefficient,0.25455860605646
+SNPs,Alzheimer's Disease,1994,Prevalence corr coefficient,0.104004491218729
+SNPs,Multiple Sclerosis,1994,Prevalence corr coefficient,0.576303228005455
+SNPs,Parkinson Disease,1994,Prevalence corr coefficient,0.296585077403685
+SNPs,Alzheimer's Disease,1995,Prevalence corr coefficient,0.0533214279046214
+SNPs,Multiple Sclerosis,1995,Prevalence corr coefficient,0.529127673928662
+SNPs,Parkinson Disease,1995,Prevalence corr coefficient,0.276923266831044
+SNPs,Alzheimer's Disease,1996,Prevalence corr coefficient,0.0111872271968567
+SNPs,Multiple Sclerosis,1996,Prevalence corr coefficient,0.537229563744065
+SNPs,Parkinson Disease,1996,Prevalence corr coefficient,0.268893580659045
+SNPs,Alzheimer's Disease,1998,Prevalence corr coefficient,-0.0206780875262235
+SNPs,Multiple Sclerosis,1998,Prevalence corr coefficient,0.56905066847331
+SNPs,Parkinson Disease,1998,Prevalence corr coefficient,0.298927721358886
+SNPs,Alzheimer's Disease,1997,Prevalence corr coefficient,-0.0166810366107499
+SNPs,Multiple Sclerosis,1997,Prevalence corr coefficient,0.535577695629733
+SNPs,Parkinson Disease,1997,Prevalence corr coefficient,0.277198915327206
+SNPs,Alzheimer's Disease,1999,Prevalence corr coefficient,0.00554966785948224
+SNPs,Multiple Sclerosis,1999,Prevalence corr coefficient,0.586766304260018
+SNPs,Parkinson Disease,1999,Prevalence corr coefficient,0.318663762873513
+SNPs,Alzheimer's Disease,2000,Prevalence corr coefficient,0.018697136713607
+SNPs,Multiple Sclerosis,2000,Prevalence corr coefficient,0.590296049066014
+SNPs,Parkinson Disease,2000,Prevalence corr coefficient,0.332110569162372
+SNPs,Alzheimer's Disease,2001,Prevalence corr coefficient,0.0385568443551852
+SNPs,Multiple Sclerosis,2001,Prevalence corr coefficient,0.597250492737229
+SNPs,Parkinson Disease,2001,Prevalence corr coefficient,0.343069495995796
+SNPs,Alzheimer's Disease,2002,Prevalence corr coefficient,0.0504931406596844
+SNPs,Multiple Sclerosis,2002,Prevalence corr coefficient,0.598934998703167
+SNPs,Parkinson Disease,2002,Prevalence corr coefficient,0.334749918786496
+SNPs,Alzheimer's Disease,2003,Prevalence corr coefficient,0.0845537702382218
+SNPs,Multiple Sclerosis,2003,Prevalence corr coefficient,0.589072596980324
+SNPs,Parkinson Disease,2003,Prevalence corr coefficient,0.357841240928616
+SNPs,Alzheimer's Disease,2004,Prevalence corr coefficient,0.0984032399272315
+SNPs,Multiple Sclerosis,2004,Prevalence corr coefficient,0.586356564391297
+SNPs,Parkinson Disease,2004,Prevalence corr coefficient,0.356752641738223
+SNPs,Alzheimer's Disease,2005,Prevalence corr coefficient,0.115190626786793
+SNPs,Multiple Sclerosis,2005,Prevalence corr coefficient,0.58863385733757
+SNPs,Parkinson Disease,2005,Prevalence corr coefficient,0.381701214204072
+SNPs,Alzheimer's Disease,2006,Prevalence corr coefficient,0.125836371608678
+SNPs,Multiple Sclerosis,2006,Prevalence corr coefficient,0.591545640108216
+SNPs,Parkinson Disease,2006,Prevalence corr coefficient,0.39385607308981
+SNPs,Alzheimer's Disease,2007,Prevalence corr coefficient,0.141467609020244
+SNPs,Multiple Sclerosis,2007,Prevalence corr coefficient,0.584107471667521
+SNPs,Parkinson Disease,2007,Prevalence corr coefficient,0.403417072725385
+SNPs,Alzheimer's Disease,2008,Prevalence corr coefficient,0.169220709443262
+SNPs,Multiple Sclerosis,2008,Prevalence corr coefficient,0.58913388555893
+SNPs,Parkinson Disease,2008,Prevalence corr coefficient,0.418000601815175
+SNPs,Alzheimer's Disease,2009,Prevalence corr coefficient,0.183656503241146
+SNPs,Multiple Sclerosis,2009,Prevalence corr coefficient,0.589485033465305
+SNPs,Parkinson Disease,2009,Prevalence corr coefficient,0.423824921447321
+SNPs,Alzheimer's Disease,2010,Prevalence corr coefficient,0.19508704771339
+SNPs,Multiple Sclerosis,2010,Prevalence corr coefficient,0.60023809455464
+SNPs,Parkinson Disease,2010,Prevalence corr coefficient,0.436104045095209
+SNPs,Alzheimer's Disease,2011,Prevalence corr coefficient,0.196570572451105
+SNPs,Multiple Sclerosis,2011,Prevalence corr coefficient,0.611942658792159
+SNPs,Parkinson Disease,2011,Prevalence corr coefficient,0.436352391626405
+SNPs,Alzheimer's Disease,2012,Prevalence corr coefficient,0.206785388017161
+SNPs,Multiple Sclerosis,2012,Prevalence corr coefficient,0.619682564869745
+SNPs,Parkinson Disease,2012,Prevalence corr coefficient,0.443466589804131
+SNPs,Alzheimer's Disease,2013,Prevalence corr coefficient,0.218360856564187
+SNPs,Multiple Sclerosis,2013,Prevalence corr coefficient,0.628870601303426
+SNPs,Parkinson Disease,2013,Prevalence corr coefficient,0.459008866607382
+SNPs,Alzheimer's Disease,2014,Prevalence corr coefficient,0.231636238013845
+SNPs,Multiple Sclerosis,2014,Prevalence corr coefficient,0.631823770090961
+SNPs,Parkinson Disease,2014,Prevalence corr coefficient,0.474158920813481
+SNPs,Alzheimer's Disease,2015,Prevalence corr coefficient,0.244162058554931
+SNPs,Multiple Sclerosis,2015,Prevalence corr coefficient,0.635718364420879
+SNPs,Parkinson Disease,2015,Prevalence corr coefficient,0.486664056901545
+SNPs,Alzheimer's Disease,2016,Prevalence corr coefficient,0.257730085601476
+SNPs,Multiple Sclerosis,2016,Prevalence corr coefficient,0.639110363312483
+SNPs,Parkinson Disease,2016,Prevalence corr coefficient,0.496662358026139
+SNPs,Alzheimer's Disease,2017,Prevalence corr coefficient,0.272804149713723
+SNPs,Multiple Sclerosis,2017,Prevalence corr coefficient,0.639963874337441
+SNPs,Parkinson Disease,2017,Prevalence corr coefficient,0.510467617439188
+SNPs,Alzheimer's Disease,2018,Prevalence corr coefficient,0.285460228997582
+SNPs,Multiple Sclerosis,2018,Prevalence corr coefficient,0.64159358573673
+SNPs,Parkinson Disease,2018,Prevalence corr coefficient,0.524564765686754
+SNPs,Alzheimer's Disease,1992,Incidence p_pe,0.730899590719035
+SNPs,Multiple Sclerosis,1992,Incidence p_pe,0.00176402619460051
+SNPs,Parkinson Disease,1992,Incidence p_pe,0.0911725779785933
+SNPs,Alzheimer's Disease,1993,Incidence p_pe,0.696374525976115
+SNPs,Multiple Sclerosis,1993,Incidence p_pe,0.000753613328845367
+SNPs,Parkinson Disease,1993,Incidence p_pe,0.0739209710740058
+SNPs,Alzheimer's Disease,1994,Incidence p_pe,0.44995346517798
+SNPs,Multiple Sclerosis,1994,Incidence p_pe,0.000150149066352706
+SNPs,Parkinson Disease,1994,Incidence p_pe,0.0348777496971193
+SNPs,Alzheimer's Disease,1995,Incidence p_pe,0.671448794877684
+SNPs,Multiple Sclerosis,1995,Incidence p_pe,0.000846043544715699
+SNPs,Parkinson Disease,1995,Incidence p_pe,0.043847859866859
+SNPs,Alzheimer's Disease,1996,Incidence p_pe,0.886512231741454
+SNPs,Multiple Sclerosis,1996,Incidence p_pe,0.000700284054191004
+SNPs,Parkinson Disease,1996,Incidence p_pe,0.0488155444900768
+SNPs,Alzheimer's Disease,1998,Incidence p_pe,0.993713374054108
+SNPs,Multiple Sclerosis,1998,Incidence p_pe,0.000634230128203803
+SNPs,Parkinson Disease,1998,Incidence p_pe,0.0247767539621058
+SNPs,Alzheimer's Disease,1997,Incidence p_pe,0.98846654500989
+SNPs,Multiple Sclerosis,1997,Incidence p_pe,0.00121871796549918
+SNPs,Parkinson Disease,1997,Incidence p_pe,0.0401511189569561
+SNPs,Alzheimer's Disease,1999,Incidence p_pe,0.845814916825488
+SNPs,Multiple Sclerosis,1999,Incidence p_pe,0.000499799433991563
+SNPs,Parkinson Disease,1999,Incidence p_pe,0.0173554380428597
+SNPs,Alzheimer's Disease,2000,Incidence p_pe,0.777928083915309
+SNPs,Multiple Sclerosis,2000,Incidence p_pe,0.000622038881842571
+SNPs,Parkinson Disease,2000,Incidence p_pe,0.0137224909667625
+SNPs,Alzheimer's Disease,2001,Incidence p_pe,0.686347987145454
+SNPs,Multiple Sclerosis,2001,Incidence p_pe,0.000711304634995914
+SNPs,Parkinson Disease,2001,Incidence p_pe,0.011274726374587
+SNPs,Alzheimer's Disease,2002,Incidence p_pe,0.632826003830067
+SNPs,Multiple Sclerosis,2002,Incidence p_pe,0.000847581624737874
+SNPs,Parkinson Disease,2002,Incidence p_pe,0.014213876116713
+SNPs,Alzheimer's Disease,2003,Incidence p_pe,0.485892393099166
+SNPs,Multiple Sclerosis,2003,Incidence p_pe,0.00168392124754282
+SNPs,Parkinson Disease,2003,Incidence p_pe,0.00926786298498996
+SNPs,Alzheimer's Disease,2004,Incidence p_pe,0.427626017613663
+SNPs,Multiple Sclerosis,2004,Incidence p_pe,0.00225092658422812
+SNPs,Parkinson Disease,2004,Incidence p_pe,0.0100001221157612
+SNPs,Alzheimer's Disease,2005,Incidence p_pe,0.364902146062196
+SNPs,Multiple Sclerosis,2005,Incidence p_pe,0.00240420837799103
+SNPs,Parkinson Disease,2005,Incidence p_pe,0.00651890825638655
+SNPs,Alzheimer's Disease,2006,Incidence p_pe,0.32193995608261
+SNPs,Multiple Sclerosis,2006,Incidence p_pe,0.00251892220597613
+SNPs,Parkinson Disease,2006,Incidence p_pe,0.00560440842335166
+SNPs,Alzheimer's Disease,2007,Incidence p_pe,0.279527821278597
+SNPs,Multiple Sclerosis,2007,Incidence p_pe,0.003687439459935
+SNPs,Parkinson Disease,2007,Incidence p_pe,0.00496013266709219
+SNPs,Alzheimer's Disease,2008,Incidence p_pe,0.201291800191762
+SNPs,Multiple Sclerosis,2008,Incidence p_pe,0.00351345506500988
+SNPs,Parkinson Disease,2008,Incidence p_pe,0.00374665576090626
+SNPs,Alzheimer's Disease,2009,Incidence p_pe,0.170989720414747
+SNPs,Multiple Sclerosis,2009,Incidence p_pe,0.00369568265561584
+SNPs,Parkinson Disease,2009,Incidence p_pe,0.00357654440680599
+SNPs,Alzheimer's Disease,2010,Incidence p_pe,0.14915190004756
+SNPs,Multiple Sclerosis,2010,Incidence p_pe,0.00285673534439265
+SNPs,Parkinson Disease,2010,Incidence p_pe,0.00278649384433241
+SNPs,Alzheimer's Disease,2011,Incidence p_pe,0.145537885309965
+SNPs,Multiple Sclerosis,2011,Incidence p_pe,0.0020291393121498
+SNPs,Parkinson Disease,2011,Incidence p_pe,0.00280846331832332
+SNPs,Alzheimer's Disease,2012,Incidence p_pe,0.126429651122084
+SNPs,Multiple Sclerosis,2012,Incidence p_pe,0.00161622799252707
+SNPs,Parkinson Disease,2012,Incidence p_pe,0.00255120468517181
+SNPs,Alzheimer's Disease,2013,Incidence p_pe,0.105893561318236
+SNPs,Multiple Sclerosis,2013,Incidence p_pe,0.00120701332611196
+SNPs,Parkinson Disease,2013,Incidence p_pe,0.00200517190341751
+SNPs,Alzheimer's Disease,2014,Incidence p_pe,0.086999321927578
+SNPs,Multiple Sclerosis,2014,Incidence p_pe,0.00107499543049435
+SNPs,Parkinson Disease,2014,Incidence p_pe,0.00173300008210425
+SNPs,Alzheimer's Disease,2015,Incidence p_pe,0.0716808707652613
+SNPs,Multiple Sclerosis,2015,Incidence p_pe,0.000940048662051366
+SNPs,Parkinson Disease,2015,Incidence p_pe,0.00148058075088539
+SNPs,Alzheimer's Disease,2016,Incidence p_pe,0.0565260858340016
+SNPs,Multiple Sclerosis,2016,Incidence p_pe,0.000834639870458772
+SNPs,Parkinson Disease,2016,Incidence p_pe,0.00164820749055716
+SNPs,Alzheimer's Disease,2017,Incidence p_pe,0.0426481285404594
+SNPs,Multiple Sclerosis,2017,Incidence p_pe,0.000771873806456119
+SNPs,Parkinson Disease,2017,Incidence p_pe,0.0013713070082409
+SNPs,Alzheimer's Disease,2018,Incidence p_pe,0.0326674501610543
+SNPs,Multiple Sclerosis,2018,Incidence p_pe,0.000731231809772273
+SNPs,Parkinson Disease,2018,Incidence p_pe,0.000829617143151812
+SNPs,Alzheimer's Disease,1992,Prevalence p_pe,0.723872322763519
+SNPs,Multiple Sclerosis,1992,Prevalence p_pe,0.000475377884641913
+SNPs,Parkinson Disease,1992,Prevalence p_pe,0.091519113728285
+SNPs,Alzheimer's Disease,1993,Prevalence p_pe,0.722561567826754
+SNPs,Multiple Sclerosis,1993,Prevalence p_pe,0.000162433046446125
+SNPs,Parkinson Disease,1993,Prevalence p_pe,0.0808047037393115
+SNPs,Alzheimer's Disease,1994,Prevalence p_pe,0.481755588546868
+SNPs,Multiple Sclerosis,1994,Prevalence p_pe,1.81500903045032e-05
+SNPs,Parkinson Disease,1994,Prevalence p_pe,0.0406633093455645
+SNPs,Alzheimer's Disease,1995,Prevalence p_pe,0.718891947360245
+SNPs,Multiple Sclerosis,1995,Prevalence p_pe,0.000110350371862922
+SNPs,Parkinson Disease,1995,Prevalence p_pe,0.0567206539231725
+SNPs,Alzheimer's Disease,1996,Prevalence p_pe,0.939843458143202
+SNPs,Multiple Sclerosis,1996,Prevalence p_pe,8.24861958032202e-05
+SNPs,Parkinson Disease,1996,Prevalence p_pe,0.0645963224655681
+SNPs,Alzheimer's Disease,1998,Prevalence p_pe,0.889054679092268
+SNPs,Multiple Sclerosis,1998,Prevalence p_pe,2.43927922213659e-05
+SNPs,Parkinson Disease,1998,Prevalence p_pe,0.0390277689438533
+SNPs,Alzheimer's Disease,1997,Prevalence p_pe,0.910402405146389
+SNPs,Multiple Sclerosis,1997,Prevalence p_pe,8.75816238100471e-05
+SNPs,Parkinson Disease,1997,Prevalence p_pe,0.056464673558551
+SNPs,Alzheimer's Disease,1999,Prevalence p_pe,0.970137388930722
+SNPs,Multiple Sclerosis,1999,Prevalence p_pe,1.17002824756717e-05
+SNPs,Parkinson Disease,1999,Prevalence p_pe,0.0272811225424584
+SNPs,Alzheimer's Disease,2000,Prevalence p_pe,0.899625906872532
+SNPs,Multiple Sclerosis,2000,Prevalence p_pe,1.00546092322575e-05
+SNPs,Parkinson Disease,2000,Prevalence p_pe,0.0211015395352036
+SNPs,Alzheimer's Disease,2001,Prevalence p_pe,0.794721149413462
+SNPs,Multiple Sclerosis,2001,Prevalence p_pe,7.41942059097991e-06
+SNPs,Parkinson Disease,2001,Prevalence p_pe,0.0169796235282456
+SNPs,Alzheimer's Disease,2002,Prevalence p_pe,0.733236886606541
+SNPs,Multiple Sclerosis,2002,Prevalence p_pe,6.88544385690805e-06
+SNPs,Parkinson Disease,2002,Prevalence p_pe,0.0200387867201681
+SNPs,Alzheimer's Disease,2003,Prevalence p_pe,0.567736085520345
+SNPs,Multiple Sclerosis,2003,Prevalence p_pe,1.05991406648716e-05
+SNPs,Parkinson Disease,2003,Prevalence p_pe,0.0125197825360187
+SNPs,Alzheimer's Disease,2004,Prevalence p_pe,0.505791797138769
+SNPs,Multiple Sclerosis,2004,Prevalence p_pe,1.19066135822691e-05
+SNPs,Parkinson Disease,2004,Prevalence p_pe,0.0128101230612164
+SNPs,Alzheimer's Disease,2005,Prevalence p_pe,0.435610024736693
+SNPs,Multiple Sclerosis,2005,Prevalence p_pe,1.08009519258687e-05
+SNPs,Parkinson Disease,2005,Prevalence p_pe,0.00742876038780833
+SNPs,Alzheimer's Disease,2006,Prevalence p_pe,0.394084226735949
+SNPs,Multiple Sclerosis,2006,Prevalence p_pe,9.52519183670417e-06
+SNPs,Parkinson Disease,2006,Prevalence p_pe,0.00561061107967622
+SNPs,Alzheimer's Disease,2007,Prevalence p_pe,0.337500383435558
+SNPs,Multiple Sclerosis,2007,Prevalence p_pe,1.31001932308997e-05
+SNPs,Parkinson Disease,2007,Prevalence p_pe,0.00446619594432811
+SNPs,Alzheimer's Disease,2008,Prevalence p_pe,0.250223407906184
+SNPs,Multiple Sclerosis,2008,Prevalence p_pe,1.05712277783306e-05
+SNPs,Parkinson Disease,2008,Prevalence p_pe,0.00311339954888408
+SNPs,Alzheimer's Disease,2009,Prevalence p_pe,0.211471349348092
+SNPs,Multiple Sclerosis,2009,Prevalence p_pe,1.04126063489382e-05
+SNPs,Parkinson Disease,2009,Prevalence p_pe,0.0026835474808235
+SNPs,Alzheimer's Disease,2010,Prevalence p_pe,0.183919414942699
+SNPs,Multiple Sclerosis,2010,Prevalence p_pe,6.49698613557095e-06
+SNPs,Parkinson Disease,2010,Prevalence p_pe,0.00194500058421962
+SNPs,Alzheimer's Disease,2011,Prevalence p_pe,0.180541564771633
+SNPs,Multiple Sclerosis,2011,Prevalence p_pe,3.81164423180825e-06
+SNPs,Parkinson Disease,2011,Prevalence p_pe,0.0019321415936706
+SNPs,Alzheimer's Disease,2012,Prevalence p_pe,0.158486230937194
+SNPs,Multiple Sclerosis,2012,Prevalence p_pe,2.64715146668216e-06
+SNPs,Parkinson Disease,2012,Prevalence p_pe,0.00159439325043236
+SNPs,Alzheimer's Disease,2013,Prevalence p_pe,0.135953826453804
+SNPs,Multiple Sclerosis,2013,Prevalence p_pe,1.69514177032738e-06
+SNPs,Parkinson Disease,2013,Prevalence p_pe,0.00103267007083991
+SNPs,Alzheimer's Disease,2014,Prevalence p_pe,0.113159489705682
+SNPs,Multiple Sclerosis,2014,Prevalence p_pe,1.4643686959237e-06
+SNPs,Parkinson Disease,2014,Prevalence p_pe,0.000662781115857994
+SNPs,Alzheimer's Disease,2015,Prevalence p_pe,0.0944390603331625
+SNPs,Multiple Sclerosis,2015,Prevalence p_pe,1.20451162616428e-06
+SNPs,Parkinson Disease,2015,Prevalence p_pe,0.000452477822137497
+SNPs,Alzheimer's Disease,2016,Prevalence p_pe,0.076968883502925
+SNPs,Multiple Sclerosis,2016,Prevalence p_pe,1.01380546635734e-06
+SNPs,Parkinson Disease,2016,Prevalence p_pe,0.000329938548764505
+SNPs,Alzheimer's Disease,2017,Prevalence p_pe,0.0606582697267147
+SNPs,Multiple Sclerosis,2017,Prevalence p_pe,9.7045485593194e-07
+SNPs,Parkinson Disease,2017,Prevalence p_pe,0.000209890110624402
+SNPs,Alzheimer's Disease,2018,Prevalence p_pe,0.0492143785411962
+SNPs,Multiple Sclerosis,2018,Prevalence p_pe,8.92429402380584e-07
+SNPs,Parkinson Disease,2018,Prevalence p_pe,0.000129585510323133
+SNPs,Alzheimer's Disease,1992,Incidence RMSE,27.8987302945641
+SNPs,Multiple Sclerosis,1992,Incidence RMSE,0.711561675633844
+SNPs,Parkinson Disease,1992,Incidence RMSE,1.96962789215629
+SNPs,Alzheimer's Disease,1993,Incidence RMSE,28.0020982712826
+SNPs,Multiple Sclerosis,1993,Incidence RMSE,0.681178869398419
+SNPs,Parkinson Disease,1993,Incidence RMSE,1.98601747706575
+SNPs,Alzheimer's Disease,1994,Incidence RMSE,28.0268764473038
+SNPs,Multiple Sclerosis,1994,Incidence RMSE,0.646474282851897
+SNPs,Parkinson Disease,1994,Incidence RMSE,1.98016449431329
+SNPs,Alzheimer's Disease,1995,Incidence RMSE,28.3761953782624
+SNPs,Multiple Sclerosis,1995,Incidence RMSE,0.662328523449046
+SNPs,Parkinson Disease,1995,Incidence RMSE,2.00534212871534
+SNPs,Alzheimer's Disease,1996,Incidence RMSE,28.8651615634413
+SNPs,Multiple Sclerosis,1996,Incidence RMSE,0.657239332648775
+SNPs,Parkinson Disease,1996,Incidence RMSE,2.04486797142119
+SNPs,Alzheimer's Disease,1998,Incidence RMSE,30.2369995286733
+SNPs,Multiple Sclerosis,1998,Incidence RMSE,0.655857394846385
+SNPs,Parkinson Disease,1998,Incidence RMSE,2.14112344117002
+SNPs,Alzheimer's Disease,1997,Incidence RMSE,29.4929121953145
+SNPs,Multiple Sclerosis,1997,Incidence RMSE,0.663573327964033
+SNPs,Parkinson Disease,1997,Incidence RMSE,2.09420489374031
+SNPs,Alzheimer's Disease,1999,Incidence RMSE,30.838193749789
+SNPs,Multiple Sclerosis,1999,Incidence RMSE,0.654522842996297
+SNPs,Parkinson Disease,1999,Incidence RMSE,2.19154039959712
+SNPs,Alzheimer's Disease,2000,Incidence RMSE,31.1976769184483
+SNPs,Multiple Sclerosis,2000,Incidence RMSE,0.65659622967349
+SNPs,Parkinson Disease,2000,Incidence RMSE,2.23437736743198
+SNPs,Alzheimer's Disease,2001,Incidence RMSE,31.3142889693828
+SNPs,Multiple Sclerosis,2001,Incidence RMSE,0.657595354448256
+SNPs,Parkinson Disease,2001,Incidence RMSE,2.27984495785354
+SNPs,Alzheimer's Disease,2002,Incidence RMSE,31.4229375318374
+SNPs,Multiple Sclerosis,2002,Incidence RMSE,0.659229564076602
+SNPs,Parkinson Disease,2002,Incidence RMSE,2.36695135781707
+SNPs,Alzheimer's Disease,2003,Incidence RMSE,31.4142989641522
+SNPs,Multiple Sclerosis,2003,Incidence RMSE,0.667363400123154
+SNPs,Parkinson Disease,2003,Incidence RMSE,2.43556989957486
+SNPs,Alzheimer's Disease,2004,Incidence RMSE,31.3461382458832
+SNPs,Multiple Sclerosis,2004,Incidence RMSE,0.670102156340113
+SNPs,Parkinson Disease,2004,Incidence RMSE,2.52234440097108
+SNPs,Alzheimer's Disease,2005,Incidence RMSE,31.2682468299848
+SNPs,Multiple Sclerosis,2005,Incidence RMSE,0.668383075583815
+SNPs,Parkinson Disease,2005,Incidence RMSE,2.56548448762543
+SNPs,Alzheimer's Disease,2006,Incidence RMSE,31.2044993718314
+SNPs,Multiple Sclerosis,2006,Incidence RMSE,0.666405216276043
+SNPs,Parkinson Disease,2006,Incidence RMSE,2.59949145441453
+SNPs,Alzheimer's Disease,2007,Incidence RMSE,31.1562140059519
+SNPs,Multiple Sclerosis,2007,Incidence RMSE,0.669227050021743
+SNPs,Parkinson Disease,2007,Incidence RMSE,2.63081981534881
+SNPs,Alzheimer's Disease,2008,Incidence RMSE,31.0277101383445
+SNPs,Multiple Sclerosis,2008,Incidence RMSE,0.667206034573212
+SNPs,Parkinson Disease,2008,Incidence RMSE,2.66012737299281
+SNPs,Alzheimer's Disease,2009,Incidence RMSE,30.8601338859109
+SNPs,Multiple Sclerosis,2009,Incidence RMSE,0.666304357511048
+SNPs,Parkinson Disease,2009,Incidence RMSE,2.70263614068012
+SNPs,Alzheimer's Disease,2010,Incidence RMSE,30.7438557388462
+SNPs,Multiple Sclerosis,2010,Incidence RMSE,0.660726678000255
+SNPs,Parkinson Disease,2010,Incidence RMSE,2.75406139954244
+SNPs,Alzheimer's Disease,2011,Incidence RMSE,30.6828550350089
+SNPs,Multiple Sclerosis,2011,Incidence RMSE,0.654354198476994
+SNPs,Parkinson Disease,2011,Incidence RMSE,2.88572665821295
+SNPs,Alzheimer's Disease,2012,Incidence RMSE,30.6114167892328
+SNPs,Multiple Sclerosis,2012,Incidence RMSE,0.64994007089601
+SNPs,Parkinson Disease,2012,Incidence RMSE,3.12378573512939
+SNPs,Alzheimer's Disease,2013,Incidence RMSE,30.549395367292
+SNPs,Multiple Sclerosis,2013,Incidence RMSE,0.644764751331702
+SNPs,Parkinson Disease,2013,Incidence RMSE,3.44666245605712
+SNPs,Alzheimer's Disease,2014,Incidence RMSE,30.3656535036998
+SNPs,Multiple Sclerosis,2014,Incidence RMSE,0.641917808398723
+SNPs,Parkinson Disease,2014,Incidence RMSE,3.83269611250875
+SNPs,Alzheimer's Disease,2015,Incidence RMSE,30.2214758312027
+SNPs,Multiple Sclerosis,2015,Incidence RMSE,0.638227587494179
+SNPs,Parkinson Disease,2015,Incidence RMSE,4.2510259049574
+SNPs,Alzheimer's Disease,2016,Incidence RMSE,30.0853696508847
+SNPs,Multiple Sclerosis,2016,Incidence RMSE,0.632332859407889
+SNPs,Parkinson Disease,2016,Incidence RMSE,4.97614179469455
+SNPs,Alzheimer's Disease,2017,Incidence RMSE,30.0939431764984
+SNPs,Multiple Sclerosis,2017,Incidence RMSE,0.627482098581898
+SNPs,Parkinson Disease,2017,Incidence RMSE,5.6244491731026
+SNPs,Alzheimer's Disease,2018,Incidence RMSE,30.1890502727655
+SNPs,Multiple Sclerosis,2018,Incidence RMSE,0.625296399693382
+SNPs,Parkinson Disease,2018,Incidence RMSE,5.82064642323839
+SNPs,Alzheimer's Disease,1992,Prevalence RMSE,206.803929376624
+SNPs,Multiple Sclerosis,1992,Prevalence RMSE,21.0783451614751
+SNPs,Parkinson Disease,1992,Prevalence RMSE,18.2980187712482
+SNPs,Alzheimer's Disease,1993,Prevalence RMSE,207.568782868763
+SNPs,Multiple Sclerosis,1993,Prevalence RMSE,20.5455599097497
+SNPs,Parkinson Disease,1993,Prevalence RMSE,18.4300665272039
+SNPs,Alzheimer's Disease,1994,Prevalence RMSE,208.120146427413
+SNPs,Multiple Sclerosis,1994,Prevalence RMSE,19.6280276397728
+SNPs,Parkinson Disease,1994,Prevalence RMSE,18.3607886094445
+SNPs,Alzheimer's Disease,1995,Prevalence RMSE,211.172691550719
+SNPs,Multiple Sclerosis,1995,Prevalence RMSE,20.4495399735795
+SNPs,Parkinson Disease,1995,Prevalence RMSE,18.6350829836556
+SNPs,Alzheimer's Disease,1996,Prevalence RMSE,215.872062200879
+SNPs,Multiple Sclerosis,1996,Prevalence RMSE,20.4592339022016
+SNPs,Parkinson Disease,1996,Prevalence RMSE,19.1997031819366
+SNPs,Alzheimer's Disease,1998,Prevalence RMSE,231.189433457735
+SNPs,Multiple Sclerosis,1998,Prevalence RMSE,20.4081890335487
+SNPs,Parkinson Disease,1998,Prevalence RMSE,21.1883689228608
+SNPs,Alzheimer's Disease,1997,Prevalence RMSE,222.691692122173
+SNPs,Multiple Sclerosis,1997,Prevalence RMSE,20.6807354318678
+SNPs,Parkinson Disease,1997,Prevalence RMSE,20.1443726456394
+SNPs,Alzheimer's Disease,1999,Prevalence RMSE,238.742846558513
+SNPs,Multiple Sclerosis,1999,Prevalence RMSE,20.3881238814135
+SNPs,Parkinson Disease,1999,Prevalence RMSE,22.090693880413
+SNPs,Alzheimer's Disease,2000,Prevalence RMSE,243.083603821826
+SNPs,Multiple Sclerosis,2000,Prevalence RMSE,20.5655428557325
+SNPs,Parkinson Disease,2000,Prevalence RMSE,22.6115413585665
+SNPs,Alzheimer's Disease,2001,Prevalence RMSE,244.630278468831
+SNPs,Multiple Sclerosis,2001,Prevalence RMSE,20.6303705092933
+SNPs,Parkinson Disease,2001,Prevalence RMSE,22.9206797662617
+SNPs,Alzheimer's Disease,2002,Prevalence RMSE,246.060345202126
+SNPs,Multiple Sclerosis,2002,Prevalence RMSE,20.7694009300557
+SNPs,Parkinson Disease,2002,Prevalence RMSE,23.4978645548594
+SNPs,Alzheimer's Disease,2003,Prevalence RMSE,246.80968735566
+SNPs,Multiple Sclerosis,2003,Prevalence RMSE,21.1191536493962
+SNPs,Parkinson Disease,2003,Prevalence RMSE,23.8524867554186
+SNPs,Alzheimer's Disease,2004,Prevalence RMSE,246.998748560061
+SNPs,Multiple Sclerosis,2004,Prevalence RMSE,21.3284460752777
+SNPs,Parkinson Disease,2004,Prevalence RMSE,24.35204563015
+SNPs,Alzheimer's Disease,2005,Prevalence RMSE,247.111316264199
+SNPs,Multiple Sclerosis,2005,Prevalence RMSE,21.4558522487206
+SNPs,Parkinson Disease,2005,Prevalence RMSE,24.3754856563387
+SNPs,Alzheimer's Disease,2006,Prevalence RMSE,247.258892783256
+SNPs,Multiple Sclerosis,2006,Prevalence RMSE,21.5355404786941
+SNPs,Parkinson Disease,2006,Prevalence RMSE,24.3258626261299
+SNPs,Alzheimer's Disease,2007,Prevalence RMSE,247.399771406372
+SNPs,Multiple Sclerosis,2007,Prevalence RMSE,21.8190231782933
+SNPs,Parkinson Disease,2007,Prevalence RMSE,24.3127750409451
+SNPs,Alzheimer's Disease,2008,Prevalence RMSE,246.881593590807
+SNPs,Multiple Sclerosis,2008,Prevalence RMSE,21.8477717093593
+SNPs,Parkinson Disease,2008,Prevalence RMSE,24.2739904779957
+SNPs,Alzheimer's Disease,2009,Prevalence RMSE,245.975093768868
+SNPs,Multiple Sclerosis,2009,Prevalence RMSE,21.9784002408178
+SNPs,Parkinson Disease,2009,Prevalence RMSE,24.2691305054604
+SNPs,Alzheimer's Disease,2010,Prevalence RMSE,245.534917411946
+SNPs,Multiple Sclerosis,2010,Prevalence RMSE,21.9002477156844
+SNPs,Parkinson Disease,2010,Prevalence RMSE,24.2326770566645
+SNPs,Alzheimer's Disease,2011,Prevalence RMSE,245.320021981564
+SNPs,Multiple Sclerosis,2011,Prevalence RMSE,21.7866090742961
+SNPs,Parkinson Disease,2011,Prevalence RMSE,24.3772235128941
+SNPs,Alzheimer's Disease,2012,Prevalence RMSE,244.726847297828
+SNPs,Multiple Sclerosis,2012,Prevalence RMSE,21.7339281757412
+SNPs,Parkinson Disease,2012,Prevalence RMSE,24.554477742638
+SNPs,Alzheimer's Disease,2013,Prevalence RMSE,244.349644246806
+SNPs,Multiple Sclerosis,2013,Prevalence RMSE,21.6352307297135
+SNPs,Parkinson Disease,2013,Prevalence RMSE,24.7311705410692
+SNPs,Alzheimer's Disease,2014,Prevalence RMSE,242.727650715362
+SNPs,Multiple Sclerosis,2014,Prevalence RMSE,21.6766380826313
+SNPs,Parkinson Disease,2014,Prevalence RMSE,24.8747994219375
+SNPs,Alzheimer's Disease,2015,Prevalence RMSE,241.413512780618
+SNPs,Multiple Sclerosis,2015,Prevalence RMSE,21.6965586360227
+SNPs,Parkinson Disease,2015,Prevalence RMSE,25.1005671194557
+SNPs,Alzheimer's Disease,2016,Prevalence RMSE,240.198268604242
+SNPs,Multiple Sclerosis,2016,Prevalence RMSE,21.6418839237697
+SNPs,Parkinson Disease,2016,Prevalence RMSE,25.3827731703357
+SNPs,Alzheimer's Disease,2017,Prevalence RMSE,239.990397648459
+SNPs,Multiple Sclerosis,2017,Prevalence RMSE,21.6377037174714
+SNPs,Parkinson Disease,2017,Prevalence RMSE,25.7661227899006
+SNPs,Alzheimer's Disease,2018,Prevalence RMSE,240.407265821645
+SNPs,Multiple Sclerosis,2018,Prevalence RMSE,21.6760593162828
+SNPs,Parkinson Disease,2018,Prevalence RMSE,26.2317935156938

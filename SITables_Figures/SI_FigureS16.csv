@@ -1,0 +1,865 @@
+State,Region,Disease,PestHits,Incidence,Prevalence,Type
+Alabama,Southeast,Alzheimer's Disease,71,183.651297284712,1389.06505723321,Insecticide
+Alabama,Southeast,Brain Neoplasms,64,9.38198424611772,20.9380427789625,Insecticide
+Alabama,Southeast,Epilepsy,66,40.7511751864933,376.835570863209,Insecticide
+Alabama,Southeast,Migraine Disorders,57,1159.09119640296,17325.9989212514,Insecticide
+Alabama,Southeast,Multiple Sclerosis,68,2.56894680439416,103.561954426802,Insecticide
+Alabama,Southeast,Parkinson Disease,70,45.1086880861181,157.216033851898,Insecticide
+Arizona,Southwest,Alzheimer's Disease,73,191.041043990159,1383.15767569293,Insecticide
+Arizona,Southwest,Brain Neoplasms,65,8.05596016235632,23.5375854233831,Insecticide
+Arizona,Southwest,Epilepsy,68,37.3417064329218,338.500015979158,Insecticide
+Arizona,Southwest,Migraine Disorders,58,1178.73122179909,17188.7009800903,Insecticide
+Arizona,Southwest,Multiple Sclerosis,70,3.10164204097261,118.899274501885,Insecticide
+Arizona,Southwest,Parkinson Disease,72,49.0379557829478,188.740329348325,Insecticide
+Arkansas,Southeast,Alzheimer's Disease,71,192.93033068765,1406.33386592482,Insecticide
+Arkansas,Southeast,Brain Neoplasms,64,9.19819077173685,21.4221052729797,Insecticide
+Arkansas,Southeast,Epilepsy,68,37.162467278242,331.712286808432,Insecticide
+Arkansas,Southeast,Migraine Disorders,57,1161.93446427052,17037.0581138555,Insecticide
+Arkansas,Southeast,Multiple Sclerosis,69,2.50431759472485,95.4348689899128,Insecticide
+Arkansas,Southeast,Parkinson Disease,69,39.7051937086139,135.336189632865,Insecticide
+California,West,Alzheimer's Disease,83,170.890843957619,1209.88363516809,Insecticide
+California,West,Brain Neoplasms,75,7.803850909094,25.9252721594367,Insecticide
+California,West,Epilepsy,78,37.3300058336087,321.690441999979,Insecticide
+California,West,Migraine Disorders,68,1196.96396696966,17606.1321220999,Insecticide
+California,West,Multiple Sclerosis,80,2.60084290609488,92.2794762860933,Insecticide
+California,West,Parkinson Disease,82,42.6570787640437,176.147353196413,Insecticide
+Colorado,West,Alzheimer's Disease,65,178.108974484281,1289.53791677092,Insecticide
+Colorado,West,Brain Neoplasms,58,8.39923138338914,26.2968252733812,Insecticide
+Colorado,West,Epilepsy,62,38.1715344634101,336.635099356869,Insecticide
+Colorado,West,Migraine Disorders,51,1183.70871149194,17482.7816140691,Insecticide
+Colorado,West,Multiple Sclerosis,64,4.43331667508891,170.290931995203,Insecticide
+Colorado,West,Parkinson Disease,65,45.6667030769096,179.914550146534,Insecticide
+Connecticut,Northeast,Alzheimer's Disease,56,242.579338794861,1808.95144112275,Insecticide
+Connecticut,Northeast,Brain Neoplasms,51,9.66163574529406,32.5281770201037,Insecticide
+Connecticut,Northeast,Epilepsy,52,39.0505582164343,364.972025372728,Insecticide
+Connecticut,Northeast,Migraine Disorders,46,1129.27264964717,17434.3597731972,Insecticide
+Connecticut,Northeast,Multiple Sclerosis,54,3.8034519095293,165.742248032351,Insecticide
+Connecticut,Northeast,Parkinson Disease,56,49.0449515483868,206.389320805036,Insecticide
+Delaware,Northeast,Alzheimer's Disease,57,205.001080271807,1498.30846166423,Insecticide
+Delaware,Northeast,Brain Neoplasms,51,8.26335385533047,22.3962114352019,Insecticide
+Delaware,Northeast,Epilepsy,54,42.954996415055,414.652013957094,Insecticide
+Delaware,Northeast,Migraine Disorders,46,1139.28310498526,17332.0269013278,Insecticide
+Delaware,Northeast,Multiple Sclerosis,55,3.46445715634636,145.54817303248,Insecticide
+Delaware,Northeast,Parkinson Disease,57,44.7227098554877,163.98365002737,Insecticide
+Florida,Southeast,Alzheimer's Disease,77,256.464817963793,1902.91733544823,Insecticide
+Florida,Southeast,Brain Neoplasms,70,9.18616342674205,25.733024620455,Insecticide
+Florida,Southeast,Epilepsy,72,39.523502207586,379.345669446678,Insecticide
+Florida,Southeast,Migraine Disorders,63,1099.14138289422,17137.0707346096,Insecticide
+Florida,Southeast,Multiple Sclerosis,74,2.47857251121869,109.60009967049,Insecticide
+Florida,Southeast,Parkinson Disease,76,56.8970878076551,227.905106035488,Insecticide
+Georgia,Southeast,Alzheimer's Disease,76,149.213338507527,1099.74641009135,Insecticide
+Georgia,Southeast,Brain Neoplasms,68,8.08609854412151,23.6427289597396,Insecticide
+Georgia,Southeast,Epilepsy,71,40.7533869417322,361.914542840906,Insecticide
+Georgia,Southeast,Migraine Disorders,61,1219.05029149054,17734.2143877953,Insecticide
+Georgia,Southeast,Multiple Sclerosis,73,2.72550297609724,102.616478193857,Insecticide
+Georgia,Southeast,Parkinson Disease,75,38.716381514299,137.57416214212,Insecticide
+Idaho,West,Alzheimer's Disease,73,166.654811662179,1221.45261046928,Insecticide
+Idaho,West,Brain Neoplasms,65,8.79670706692569,25.6548628184781,Insecticide
+Idaho,West,Epilepsy,69,37.2118832407098,318.024664403898,Insecticide
+Idaho,West,Migraine Disorders,58,1197.35337362898,16803.4627563063,Insecticide
+Idaho,West,Multiple Sclerosis,71,4.36765989078352,160.64010333069,Insecticide
+Idaho,West,Parkinson Disease,72,46.9131736738209,176.048310073426,Insecticide
+Illinois,Midwest,Alzheimer's Disease,68,194.525388477769,1416.30802292335,Insecticide
+Illinois,Midwest,Brain Neoplasms,60,7.95884960109794,22.8600573535641,Insecticide
+Illinois,Midwest,Epilepsy,63,39.5657020878101,354.527679590522,Insecticide
+Illinois,Midwest,Migraine Disorders,53,1173.51431112226,17473.7046435504,Insecticide
+Illinois,Midwest,Multiple Sclerosis,65,3.36281776135228,126.779997782658,Insecticide
+Illinois,Midwest,Parkinson Disease,67,43.9804117819143,172.003919516365,Insecticide
+Indiana,Midwest,Alzheimer's Disease,67,214.833204188008,1640.36485485092,Insecticide
+Indiana,Midwest,Brain Neoplasms,60,8.83666787188063,23.3323332808357,Insecticide
+Indiana,Midwest,Epilepsy,63,41.0913302312354,374.124911273584,Insecticide
+Indiana,Midwest,Migraine Disorders,53,1174.83098154373,17197.5104980886,Insecticide
+Indiana,Midwest,Multiple Sclerosis,65,3.25411021923213,122.015740064721,Insecticide
+Indiana,Midwest,Parkinson Disease,66,49.374029292763,192.91331239643,Insecticide
+Iowa,Midwest,Alzheimer's Disease,56,204.903898403608,1405.84058403825,Insecticide
+Iowa,Midwest,Brain Neoplasms,51,8.83866844387833,18.8117507284709,Insecticide
+Iowa,Midwest,Epilepsy,53,34.6213487652555,293.024327021986,Insecticide
+Iowa,Midwest,Migraine Disorders,45,1140.97173260894,16768.3754785885,Insecticide
+Iowa,Midwest,Multiple Sclerosis,55,3.15516534856936,118.540884196405,Insecticide
+Iowa,Midwest,Parkinson Disease,56,46.5931187579085,183.686630188201,Insecticide
+Kansas,Midwest,Alzheimer's Disease,61,199.60968859069,1469.48113219243,Insecticide
+Kansas,Midwest,Brain Neoplasms,55,9.11342971117137,26.3783184659831,Insecticide
+Kansas,Midwest,Epilepsy,58,39.2077192155195,342.950365807196,Insecticide
+Kansas,Midwest,Migraine Disorders,49,1180.83432649245,16944.82494575,Insecticide
+Kansas,Midwest,Multiple Sclerosis,60,3.28441410018523,119.682952556173,Insecticide
+Kansas,Midwest,Parkinson Disease,60,51.2259825295311,208.101747504703,Insecticide
+Kentucky,Southeast,Alzheimer's Disease,65,202.404492728947,1516.51883977495,Insecticide
+Kentucky,Southeast,Brain Neoplasms,57,9.83311721623363,25.1464510013759,Insecticide
+Kentucky,Southeast,Epilepsy,61,42.3829301931061,393.561658890618,Insecticide
+Kentucky,Southeast,Migraine Disorders,51,1149.61470188107,17156.8321119236,Insecticide
+Kentucky,Southeast,Multiple Sclerosis,62,2.95604387978677,119.968948431635,Insecticide
+Kentucky,Southeast,Parkinson Disease,64,50.3432212129509,188.373725234362,Insecticide
+Louisiana,Southeast,Alzheimer's Disease,66,194.612803801738,1488.53285357638,Insecticide
+Louisiana,Southeast,Brain Neoplasms,60,7.80451027374807,17.4770005488858,Insecticide
+Louisiana,Southeast,Epilepsy,62,42.9666750839048,390.906260307068,Insecticide
+Louisiana,Southeast,Migraine Disorders,53,1174.95245953268,17211.2129132608,Insecticide
+Louisiana,Southeast,Multiple Sclerosis,63,2.2766345884621,86.1513344730687,Insecticide
+Louisiana,Southeast,Parkinson Disease,65,46.7014451667871,175.107109521553,Insecticide
+Maine,Northeast,Alzheimer's Disease,49,254.150005046145,1883.53602751439,Insecticide
+Maine,Northeast,Brain Neoplasms,44,10.6096767432606,27.8411964716589,Insecticide
+Maine,Northeast,Epilepsy,46,37.2507854287971,343.064644178192,Insecticide
+Maine,Northeast,Migraine Disorders,38,1060.60003902106,17004.4641409534,Insecticide
+Maine,Northeast,Multiple Sclerosis,48,3.6221216306249,164.882861289634,Insecticide
+Maine,Northeast,Parkinson Disease,49,68.4895294407783,276.904965714614,Insecticide
+Maryland,Northeast,Alzheimer's Disease,66,202.47957256285,1540.06864073941,Insecticide
+Maryland,Northeast,Brain Neoplasms,58,7.94741612852429,22.5014905226228,Insecticide
+Maryland,Northeast,Epilepsy,62,39.46347745119,353.878574462453,Insecticide
+Maryland,Northeast,Migraine Disorders,52,1167.1181522855,17752.900743255,Insecticide
+Maryland,Northeast,Multiple Sclerosis,64,3.47711656822518,135.474778196827,Insecticide
+Maryland,Northeast,Parkinson Disease,65,44.883789927729,175.803669970612,Insecticide
+Massachusetts,Northeast,Alzheimer's Disease,58,237.057759217269,1775.8541035194,Insecticide
+Massachusetts,Northeast,Brain Neoplasms,53,9.9145269880391,30.377619298294,Insecticide
+Massachusetts,Northeast,Epilepsy,54,40.7778003653311,384.097639558942,Insecticide
+Massachusetts,Northeast,Migraine Disorders,48,1144.15954618357,17688.9244955588,Insecticide
+Massachusetts,Northeast,Multiple Sclerosis,56,3.99874986511203,158.197105214185,Insecticide
+Massachusetts,Northeast,Parkinson Disease,58,50.7856764272573,209.854766051344,Insecticide
+Michigan,Midwest,Alzheimer's Disease,70,233.085800008891,1787.50578490159,Insecticide
+Michigan,Midwest,Brain Neoplasms,62,9.09046549007823,21.3049542221727,Insecticide
+Michigan,Midwest,Epilepsy,65,44.7461980314354,430.492313980339,Insecticide
+Michigan,Midwest,Migraine Disorders,55,1100.07282635307,15962.6906937225,Insecticide
+Michigan,Midwest,Multiple Sclerosis,67,4.0497415166024,164.604201573863,Insecticide
+Michigan,Midwest,Parkinson Disease,69,52.9991930086051,206.560214960874,Insecticide
+Minnesota,Midwest,Alzheimer's Disease,53,191.305688318083,1420.59326101927,Insecticide
+Minnesota,Midwest,Brain Neoplasms,48,9.4191461708931,31.3578432837352,Insecticide
+Minnesota,Midwest,Epilepsy,51,37.494488767748,322.840090241148,Insecticide
+Minnesota,Midwest,Migraine Disorders,42,1152.90559612363,17080.3447603516,Insecticide
+Minnesota,Midwest,Multiple Sclerosis,53,3.78138016519678,143.405887965433,Insecticide
+Minnesota,Midwest,Parkinson Disease,53,45.8207609871214,183.284231418775,Insecticide
+Mississippi,Southeast,Alzheimer's Disease,68,169.385610622705,1236.36904915091,Insecticide
+Mississippi,Southeast,Brain Neoplasms,62,8.78392132795706,19.0960144158632,Insecticide
+Mississippi,Southeast,Epilepsy,64,36.3970932569357,310.849497891316,Insecticide
+Mississippi,Southeast,Migraine Disorders,55,1183.15764229126,17248.0979138891,Insecticide
+Mississippi,Southeast,Multiple Sclerosis,65,2.08189449280306,76.5552283992881,Insecticide
+Mississippi,Southeast,Parkinson Disease,67,38.2607176036952,125.269319531662,Insecticide
+Missouri,Midwest,Alzheimer's Disease,76,222.562573344265,1670.79941311553,Insecticide
+Missouri,Midwest,Brain Neoplasms,68,8.75862991699552,23.502072539434,Insecticide
+Missouri,Midwest,Epilepsy,72,39.8465140826062,363.301599043507,Insecticide
+Missouri,Midwest,Migraine Disorders,61,1151.93968726538,17135.5374427897,Insecticide
+Missouri,Midwest,Multiple Sclerosis,73,3.30878578302412,130.585092387579,Insecticide
+Missouri,Midwest,Parkinson Disease,75,54.1386108914922,217.789504291363,Insecticide
+Montana,West,Alzheimer's Disease,45,226.020560147788,1630.52616702313,Insecticide
+Montana,West,Brain Neoplasms,41,9.54355213167812,25.7592474959409,Insecticide
+Montana,West,Epilepsy,43,40.5323851743432,371.897401387271,Insecticide
+Montana,West,Migraine Disorders,36,1097.02149074877,16661.1997591066,Insecticide
+Montana,West,Multiple Sclerosis,45,4.54811617284947,184.338465418355,Insecticide
+Montana,West,Parkinson Disease,45,54.1639651610159,201.108197772322,Insecticide
+Nebraska,Midwest,Alzheimer's Disease,53,196.090972557107,1436.4984976957,Insecticide
+Nebraska,Midwest,Brain Neoplasms,48,9.32393399866066,28.1530815008694,Insecticide
+Nebraska,Midwest,Epilepsy,51,35.5221218446176,292.473502123433,Insecticide
+Nebraska,Midwest,Migraine Disorders,42,1168.62558499515,16829.9015184492,Insecticide
+Nebraska,Midwest,Multiple Sclerosis,53,3.85416758491753,141.164685288367,Insecticide
+Nebraska,Midwest,Parkinson Disease,53,39.6195704473452,150.544389361403,Insecticide
+Nevada,West,Alzheimer's Disease,70,138.112964584795,977.427242714465,Insecticide
+Nevada,West,Brain Neoplasms,63,7.35310040341174,20.0833988637153,Insecticide
+Nevada,West,Epilepsy,65,39.7481361746944,363.457094919837,Insecticide
+Nevada,West,Migraine Disorders,56,1187.73470493987,17543.0725276925,Insecticide
+Nevada,West,Multiple Sclerosis,67,3.71626374048273,139.702696479683,Insecticide
+Nevada,West,Parkinson Disease,69,42.4360341702031,150.98461046691,Insecticide
+New Hampshire,Northeast,Alzheimer's Disease,51,230.593101614132,1709.58248353359,Insecticide
+New Hampshire,Northeast,Brain Neoplasms,47,10.0895298058054,29.4810257058838,Insecticide
+New Hampshire,Northeast,Epilepsy,48,35.9753590135229,324.595405648681,Insecticide
+New Hampshire,Northeast,Migraine Disorders,42,1097.52995141108,17334.9696085837,Insecticide
+New Hampshire,Northeast,Multiple Sclerosis,49,3.87485410247806,173.412467837696,Insecticide
+New Hampshire,Northeast,Parkinson Disease,51,56.2778037994777,220.098634012693,Insecticide
+New Jersey,Northeast,Alzheimer's Disease,68,211.942200507771,1551.39029609126,Insecticide
+New Jersey,Northeast,Brain Neoplasms,62,10.5417266913429,45.2646187971105,Insecticide
+New Jersey,Northeast,Epilepsy,64,43.1546228309835,400.420909399208,Insecticide
+New Jersey,Northeast,Migraine Disorders,56,1141.61630270974,17403.6903922091,Insecticide
+New Jersey,Northeast,Multiple Sclerosis,66,3.28189398245924,135.141932580486,Insecticide
+New Jersey,Northeast,Parkinson Disease,68,46.8159487019193,192.849516398335,Insecticide
+New Mexico,Southwest,Alzheimer's Disease,74,205.662049525738,1481.98151579545,Insecticide
+New Mexico,Southwest,Brain Neoplasms,66,7.68747160396426,22.5028894389215,Insecticide
+New Mexico,Southwest,Epilepsy,69,42.7228565939195,363.440430860146,Insecticide
+New Mexico,Southwest,Migraine Disorders,59,1158.08543271433,17005.581679644,Insecticide
+New Mexico,Southwest,Multiple Sclerosis,71,3.01079884881167,116.875394709982,Insecticide
+New Mexico,Southwest,Parkinson Disease,73,47.0147227836178,168.351363536669,Insecticide
+New York,Northeast,Alzheimer's Disease,75,225.444833621701,1670.76188227628,Insecticide
+New York,Northeast,Brain Neoplasms,67,7.62609517501325,23.2328864325017,Insecticide
+New York,Northeast,Epilepsy,70,43.5086086525538,408.835774152943,Insecticide
+New York,Northeast,Migraine Disorders,60,1149.86863165371,17601.1249224125,Insecticide
+New York,Northeast,Multiple Sclerosis,72,3.75119215931432,152.421905467364,Insecticide
+New York,Northeast,Parkinson Disease,74,50.5351447894684,213.888286523291,Insecticide
+North Carolina,Southeast,Alzheimer's Disease,75,181.133259107328,1318.74113841672,Insecticide
+North Carolina,Southeast,Brain Neoplasms,67,8.30914076835556,21.758032721612,Insecticide
+North Carolina,Southeast,Epilepsy,71,36.3416834303401,314.960768662457,Insecticide
+North Carolina,Southeast,Migraine Disorders,60,1174.98022018846,17476.7083803161,Insecticide
+North Carolina,Southeast,Multiple Sclerosis,73,3.02481156645244,120.444627612992,Insecticide
+North Carolina,Southeast,Parkinson Disease,74,45.3186915842446,167.277627621189,Insecticide
+North Dakota,Midwest,Alzheimer's Disease,41,243.98553993377,1831.89797416004,Insecticide
+North Dakota,Midwest,Brain Neoplasms,36,9.69006094560804,28.8700675727676,Insecticide
+North Dakota,Midwest,Epilepsy,39,38.3140257002469,330.865396055788,Insecticide
+North Dakota,Midwest,Migraine Disorders,31,1132.63440152179,16678.2597780845,Insecticide
+North Dakota,Midwest,Multiple Sclerosis,40,4.14230958394942,148.997646106916,Insecticide
+North Dakota,Midwest,Parkinson Disease,41,46.3377523014818,185.345475043528,Insecticide
+Ohio,Midwest,Alzheimer's Disease,70,232.944539848321,1765.74700710752,Insecticide
+Ohio,Midwest,Brain Neoplasms,62,9.09452039295945,22.8372600481125,Insecticide
+Ohio,Midwest,Epilepsy,66,42.3518743968742,398.856195918577,Insecticide
+Ohio,Midwest,Migraine Disorders,55,1137.96396529759,17111.5747379893,Insecticide
+Ohio,Midwest,Multiple Sclerosis,68,3.61073632441671,144.657987137699,Insecticide
+Ohio,Midwest,Parkinson Disease,69,52.5493762590309,203.814039972354,Insecticide
+Oklahoma,Southwest,Alzheimer's Disease,68,198.019126217243,1465.00391026505,Insecticide
+Oklahoma,Southwest,Brain Neoplasms,62,8.41896119578026,20.6624320339167,Insecticide
+Oklahoma,Southwest,Epilepsy,65,40.0577826435665,359.530501808576,Insecticide
+Oklahoma,Southwest,Migraine Disorders,56,1176.96200881504,17035.632687883,Insecticide
+Oklahoma,Southwest,Multiple Sclerosis,67,2.6316694725895,94.7401526740191,Insecticide
+Oklahoma,Southwest,Parkinson Disease,66,45.1695065135932,160.98991485369,Insecticide
+Oregon,West,Alzheimer's Disease,74,205.851029637481,1503.89968167694,Insecticide
+Oregon,West,Brain Neoplasms,66,9.88024179003331,29.371961217356,Insecticide
+Oregon,West,Epilepsy,70,36.1066296428649,316.013527009973,Insecticide
+Oregon,West,Migraine Disorders,59,1133.35431162333,17273.1252617715,Insecticide
+Oregon,West,Multiple Sclerosis,72,3.98668055570305,156.093882689611,Insecticide
+Oregon,West,Parkinson Disease,73,50.1947393596782,186.984991126826,Insecticide
+Pennsylvania,Northeast,Alzheimer's Disease,73,244.557059730533,1811.55327706982,Insecticide
+Pennsylvania,Northeast,Brain Neoplasms,65,9.18607152263854,24.6896807701945,Insecticide
+Pennsylvania,Northeast,Epilepsy,68,40.7125319827659,388.793604381985,Insecticide
+Pennsylvania,Northeast,Migraine Disorders,58,1117.389425494,17174.9795189646,Insecticide
+Pennsylvania,Northeast,Multiple Sclerosis,70,3.82373111962932,160.069154132544,Insecticide
+Pennsylvania,Northeast,Parkinson Disease,72,54.8118599605218,220.332992807956,Insecticide
+Rhode Island,Northeast,Alzheimer's Disease,44,255.475970846781,1935.31252831537,Insecticide
+Rhode Island,Northeast,Brain Neoplasms,40,9.34390471869128,27.1289909029092,Insecticide
+Rhode Island,Northeast,Epilepsy,41,42.5170264833088,415.538918364719,Insecticide
+Rhode Island,Northeast,Migraine Disorders,36,1137.3882046368,17631.3482992026,Insecticide
+Rhode Island,Northeast,Multiple Sclerosis,42,4.72786610036684,194.324215924951,Insecticide
+Rhode Island,Northeast,Parkinson Disease,44,48.4082674370117,191.861127302062,Insecticide
+South Carolina,Southeast,Alzheimer's Disease,74,189.565708062693,1382.19257849726,Insecticide
+South Carolina,Southeast,Brain Neoplasms,66,8.73615041003546,20.6866172904784,Insecticide
+South Carolina,Southeast,Epilepsy,70,38.2008665938663,344.068926592577,Insecticide
+South Carolina,Southeast,Migraine Disorders,59,1150.78814758099,17284.7658018775,Insecticide
+South Carolina,Southeast,Multiple Sclerosis,72,2.75116321058522,110.759654020835,Insecticide
+South Carolina,Southeast,Parkinson Disease,73,46.8225636489553,167.30486066352,Insecticide
+South Dakota,Midwest,Alzheimer's Disease,42,195.473008341809,1372.57852137616,Insecticide
+South Dakota,Midwest,Brain Neoplasms,37,10.0122967630153,28.9296126737972,Insecticide
+South Dakota,Midwest,Epilepsy,40,41.8410924450787,380.214653817099,Insecticide
+South Dakota,Midwest,Migraine Disorders,33,1142.23850695376,16478.6541377528,Insecticide
+South Dakota,Midwest,Multiple Sclerosis,42,3.9021813727345,147.803429144902,Insecticide
+South Dakota,Midwest,Parkinson Disease,42,41.7436666163086,167.813601381659,Insecticide
+Tennessee,Southeast,Alzheimer's Disease,74,195.099507502469,1453.85438183995,Insecticide
+Tennessee,Southeast,Brain Neoplasms,66,8.94602965008836,21.82396653317,Insecticide
+Tennessee,Southeast,Epilepsy,70,38.7152442997388,350.189383667798,Insecticide
+Tennessee,Southeast,Migraine Disorders,59,1162.83205061202,17374.2131248891,Insecticide
+Tennessee,Southeast,Multiple Sclerosis,71,2.89071157709392,115.19718362145,Insecticide
+Tennessee,Southeast,Parkinson Disease,73,44.5346294747352,160.546537812451,Insecticide
+Texas,Southwest,Alzheimer's Disease,80,164.678279180272,1237.189887684,Insecticide
+Texas,Southwest,Brain Neoplasms,73,7.32401431298066,21.4114186911242,Insecticide
+Texas,Southwest,Epilepsy,75,37.073241893278,343.893513002163,Insecticide
+Texas,Southwest,Migraine Disorders,66,1238.70225650034,17448.9655046486,Insecticide
+Texas,Southwest,Multiple Sclerosis,77,2.4198645723701,86.4050293947688,Insecticide
+Texas,Southwest,Parkinson Disease,79,39.9441937092265,155.616632513869,Insecticide
+Utah,West,Alzheimer's Disease,57,100.01967729575,709.387167355901,Insecticide
+Utah,West,Brain Neoplasms,52,6.91502624739812,21.3396873204992,Insecticide
+Utah,West,Epilepsy,54,35.9829750443652,288.433247842865,Insecticide
+Utah,West,Migraine Disorders,45,1311.67151783465,17131.3216079828,Insecticide
+Utah,West,Multiple Sclerosis,56,5.35515895682654,168.19507999845,Insecticide
+Utah,West,Parkinson Disease,57,31.6411409125155,115.854495857215,Insecticide
+Vermont,Northeast,Alzheimer's Disease,51,229.170088152368,1649.0958061531,Insecticide
+Vermont,Northeast,Brain Neoplasms,46,9.60533245968774,27.1793228967089,Insecticide
+Vermont,Northeast,Epilepsy,48,36.0463669055615,323.011999477197,Insecticide
+Vermont,Northeast,Migraine Disorders,42,1082.05480781595,17134.7571221261,Insecticide
+Vermont,Northeast,Multiple Sclerosis,49,3.78979775344571,165.813112458995,Insecticide
+Vermont,Northeast,Parkinson Disease,51,63.6610654260619,253.565179057316,Insecticide
+Virginia,Southeast,Alzheimer's Disease,71,186.533443133339,1380.27367930327,Insecticide
+Virginia,Southeast,Brain Neoplasms,63,8.09873086849552,23.7011593177197,Insecticide
+Virginia,Southeast,Epilepsy,67,39.53484077308,355.030911549836,Insecticide
+Virginia,Southeast,Migraine Disorders,56,1169.59539588561,17567.400424516,Insecticide
+Virginia,Southeast,Multiple Sclerosis,68,3.36797909348352,131.870839619281,Insecticide
+Virginia,Southeast,Parkinson Disease,70,43.0015602496667,166.185561493888,Insecticide
+Washington,West,Alzheimer's Disease,71,177.546327658036,1270.29075890444,Insecticide
+Washington,West,Brain Neoplasms,64,8.09282583148802,18.4676159550603,Insecticide
+Washington,West,Epilepsy,68,38.392619954776,335.917487079549,Insecticide
+Washington,West,Migraine Disorders,57,1154.7297999599,17283.0573937232,Insecticide
+Washington,West,Multiple Sclerosis,70,4.22376187673366,160.942139550298,Insecticide
+Washington,West,Parkinson Disease,71,48.5559287507574,189.552394196512,Insecticide
+West Virginia,Southeast,Alzheimer's Disease,68,246.397293208741,1868.78708907877,Insecticide
+West Virginia,Southeast,Brain Neoplasms,60,9.56964721346079,21.1517311637184,Insecticide
+West Virginia,Southeast,Epilepsy,64,41.3973198556138,407.036724015112,Insecticide
+West Virginia,Southeast,Migraine Disorders,53,1086.78437138554,16940.3126224638,Insecticide
+West Virginia,Southeast,Multiple Sclerosis,66,2.89731997929232,124.843511589192,Insecticide
+West Virginia,Southeast,Parkinson Disease,67,59.9114741584512,223.992918967123,Insecticide
+Wisconsin,Midwest,Alzheimer's Disease,60,207.485906784764,1504.62890393489,Insecticide
+Wisconsin,Midwest,Brain Neoplasms,55,9.94590840657885,30.4884052495691,Insecticide
+Wisconsin,Midwest,Epilepsy,56,43.9326962901769,351.657254468725,Insecticide
+Wisconsin,Midwest,Migraine Disorders,48,1139.81088599754,17061.7003150265,Insecticide
+Wisconsin,Midwest,Multiple Sclerosis,58,3.98368275437535,157.514114203157,Insecticide
+Wisconsin,Midwest,Parkinson Disease,60,45.7286623275231,177.236206023257,Insecticide
+Wyoming,West,Alzheimer's Disease,44,173.551599018126,1229.19619872237,Insecticide
+Wyoming,West,Brain Neoplasms,41,8.39136403059217,23.4168901435979,Insecticide
+Wyoming,West,Epilepsy,42,40.1073021983102,351.858148809389,Insecticide
+Wyoming,West,Migraine Disorders,37,1147.05425668036,16758.9145653839,Insecticide
+Wyoming,West,Multiple Sclerosis,44,4.59476158326081,176.010704967762,Insecticide
+Wyoming,West,Parkinson Disease,44,43.1262841847604,154.988867761039,Insecticide
+Alabama,Southeast,Alzheimer's Disease,76,183.651297284712,1389.06505723321,Herbicide
+Alabama,Southeast,Brain Neoplasms,61,9.38198424611772,20.9380427789625,Herbicide
+Alabama,Southeast,Epilepsy,70,40.7511751864933,376.835570863209,Herbicide
+Alabama,Southeast,Migraine Disorders,48,1159.09119640296,17325.9989212514,Herbicide
+Alabama,Southeast,Multiple Sclerosis,70,2.56894680439416,103.561954426802,Herbicide
+Alabama,Southeast,Parkinson Disease,77,45.1086880861181,157.216033851898,Herbicide
+Arizona,Southwest,Alzheimer's Disease,63,191.041043990159,1383.15767569293,Herbicide
+Arizona,Southwest,Brain Neoplasms,52,8.05596016235632,23.5375854233831,Herbicide
+Arizona,Southwest,Epilepsy,57,37.3417064329218,338.500015979158,Herbicide
+Arizona,Southwest,Migraine Disorders,37,1178.73122179909,17188.7009800903,Herbicide
+Arizona,Southwest,Multiple Sclerosis,57,3.10164204097261,118.899274501885,Herbicide
+Arizona,Southwest,Parkinson Disease,64,49.0379557829478,188.740329348325,Herbicide
+Arkansas,Southeast,Alzheimer's Disease,78,192.93033068765,1406.33386592482,Herbicide
+Arkansas,Southeast,Brain Neoplasms,63,9.19819077173685,21.4221052729797,Herbicide
+Arkansas,Southeast,Epilepsy,72,37.162467278242,331.712286808432,Herbicide
+Arkansas,Southeast,Migraine Disorders,49,1161.93446427052,17037.0581138555,Herbicide
+Arkansas,Southeast,Multiple Sclerosis,72,2.50431759472485,95.4348689899128,Herbicide
+Arkansas,Southeast,Parkinson Disease,79,39.7051937086139,135.336189632865,Herbicide
+California,West,Alzheimer's Disease,78,170.890843957619,1209.88363516809,Herbicide
+California,West,Brain Neoplasms,65,7.803850909094,25.9252721594367,Herbicide
+California,West,Epilepsy,72,37.3300058336087,321.690441999979,Herbicide
+California,West,Migraine Disorders,50,1196.96396696966,17606.1321220999,Herbicide
+California,West,Multiple Sclerosis,71,2.60084290609488,92.2794762860933,Herbicide
+California,West,Parkinson Disease,79,42.6570787640437,176.147353196413,Herbicide
+Colorado,West,Alzheimer's Disease,70,178.108974484281,1289.53791677092,Herbicide
+Colorado,West,Brain Neoplasms,56,8.39923138338914,26.2968252733812,Herbicide
+Colorado,West,Epilepsy,64,38.1715344634101,336.635099356869,Herbicide
+Colorado,West,Migraine Disorders,41,1183.70871149194,17482.7816140691,Herbicide
+Colorado,West,Multiple Sclerosis,65,4.43331667508891,170.290931995203,Herbicide
+Colorado,West,Parkinson Disease,70,45.6667030769096,179.914550146534,Herbicide
+Connecticut,Northeast,Alzheimer's Disease,50,242.579338794861,1808.95144112275,Herbicide
+Connecticut,Northeast,Brain Neoplasms,40,9.66163574529406,32.5281770201037,Herbicide
+Connecticut,Northeast,Epilepsy,46,39.0505582164343,364.972025372728,Herbicide
+Connecticut,Northeast,Migraine Disorders,32,1129.27264964717,17434.3597731972,Herbicide
+Connecticut,Northeast,Multiple Sclerosis,46,3.8034519095293,165.742248032351,Herbicide
+Connecticut,Northeast,Parkinson Disease,49,49.0449515483868,206.389320805036,Herbicide
+Delaware,Northeast,Alzheimer's Disease,63,205.001080271807,1498.30846166423,Herbicide
+Delaware,Northeast,Brain Neoplasms,51,8.26335385533047,22.3962114352019,Herbicide
+Delaware,Northeast,Epilepsy,58,42.954996415055,414.652013957094,Herbicide
+Delaware,Northeast,Migraine Disorders,38,1139.28310498526,17332.0269013278,Herbicide
+Delaware,Northeast,Multiple Sclerosis,58,3.46445715634636,145.54817303248,Herbicide
+Delaware,Northeast,Parkinson Disease,63,44.7227098554877,163.98365002737,Herbicide
+Florida,Southeast,Alzheimer's Disease,76,256.464817963793,1902.91733544823,Herbicide
+Florida,Southeast,Brain Neoplasms,62,9.18616342674205,25.733024620455,Herbicide
+Florida,Southeast,Epilepsy,70,39.523502207586,379.345669446678,Herbicide
+Florida,Southeast,Migraine Disorders,49,1099.14138289422,17137.0707346096,Herbicide
+Florida,Southeast,Multiple Sclerosis,70,2.47857251121869,109.60009967049,Herbicide
+Florida,Southeast,Parkinson Disease,77,56.8970878076551,227.905106035488,Herbicide
+Georgia,Southeast,Alzheimer's Disease,78,149.213338507527,1099.74641009135,Herbicide
+Georgia,Southeast,Brain Neoplasms,63,8.08609854412151,23.6427289597396,Herbicide
+Georgia,Southeast,Epilepsy,72,40.7533869417322,361.914542840906,Herbicide
+Georgia,Southeast,Migraine Disorders,50,1219.05029149054,17734.2143877953,Herbicide
+Georgia,Southeast,Multiple Sclerosis,72,2.72550297609724,102.616478193857,Herbicide
+Georgia,Southeast,Parkinson Disease,79,38.716381514299,137.57416214212,Herbicide
+Idaho,West,Alzheimer's Disease,70,166.654811662179,1221.45261046928,Herbicide
+Idaho,West,Brain Neoplasms,56,8.79670706692569,25.6548628184781,Herbicide
+Idaho,West,Epilepsy,64,37.2118832407098,318.024664403898,Herbicide
+Idaho,West,Migraine Disorders,41,1197.35337362898,16803.4627563063,Herbicide
+Idaho,West,Multiple Sclerosis,64,4.36765989078352,160.64010333069,Herbicide
+Idaho,West,Parkinson Disease,70,46.9131736738209,176.048310073426,Herbicide
+Illinois,Midwest,Alzheimer's Disease,73,194.525388477769,1416.30802292335,Herbicide
+Illinois,Midwest,Brain Neoplasms,57,7.95884960109794,22.8600573535641,Herbicide
+Illinois,Midwest,Epilepsy,67,39.5657020878101,354.527679590522,Herbicide
+Illinois,Midwest,Migraine Disorders,43,1173.51431112226,17473.7046435504,Herbicide
+Illinois,Midwest,Multiple Sclerosis,67,3.36281776135228,126.779997782658,Herbicide
+Illinois,Midwest,Parkinson Disease,74,43.9804117819143,172.003919516365,Herbicide
+Indiana,Midwest,Alzheimer's Disease,77,214.833204188008,1640.36485485092,Herbicide
+Indiana,Midwest,Brain Neoplasms,61,8.83666787188063,23.3323332808357,Herbicide
+Indiana,Midwest,Epilepsy,71,41.0913302312354,374.124911273584,Herbicide
+Indiana,Midwest,Migraine Disorders,46,1174.83098154373,17197.5104980886,Herbicide
+Indiana,Midwest,Multiple Sclerosis,71,3.25411021923213,122.015740064721,Herbicide
+Indiana,Midwest,Parkinson Disease,77,49.374029292763,192.91331239643,Herbicide
+Iowa,Midwest,Alzheimer's Disease,73,204.903898403608,1405.84058403825,Herbicide
+Iowa,Midwest,Brain Neoplasms,58,8.83866844387833,18.8117507284709,Herbicide
+Iowa,Midwest,Epilepsy,68,34.6213487652555,293.024327021986,Herbicide
+Iowa,Midwest,Migraine Disorders,42,1140.97173260894,16768.3754785885,Herbicide
+Iowa,Midwest,Multiple Sclerosis,68,3.15516534856936,118.540884196405,Herbicide
+Iowa,Midwest,Parkinson Disease,74,46.5931187579085,183.686630188201,Herbicide
+Kansas,Midwest,Alzheimer's Disease,71,199.60968859069,1469.48113219243,Herbicide
+Kansas,Midwest,Brain Neoplasms,57,9.11342971117137,26.3783184659831,Herbicide
+Kansas,Midwest,Epilepsy,65,39.2077192155195,342.950365807196,Herbicide
+Kansas,Midwest,Migraine Disorders,43,1180.83432649245,16944.82494575,Herbicide
+Kansas,Midwest,Multiple Sclerosis,66,3.28441410018523,119.682952556173,Herbicide
+Kansas,Midwest,Parkinson Disease,72,51.2259825295311,208.101747504703,Herbicide
+Kentucky,Southeast,Alzheimer's Disease,71,202.404492728947,1516.51883977495,Herbicide
+Kentucky,Southeast,Brain Neoplasms,55,9.83311721623363,25.1464510013759,Herbicide
+Kentucky,Southeast,Epilepsy,65,42.3829301931061,393.561658890618,Herbicide
+Kentucky,Southeast,Migraine Disorders,42,1149.61470188107,17156.8321119236,Herbicide
+Kentucky,Southeast,Multiple Sclerosis,65,2.95604387978677,119.968948431635,Herbicide
+Kentucky,Southeast,Parkinson Disease,72,50.3432212129509,188.373725234362,Herbicide
+Louisiana,Southeast,Alzheimer's Disease,75,194.612803801738,1488.53285357638,Herbicide
+Louisiana,Southeast,Brain Neoplasms,60,7.80451027374807,17.4770005488858,Herbicide
+Louisiana,Southeast,Epilepsy,69,42.9666750839048,390.906260307068,Herbicide
+Louisiana,Southeast,Migraine Disorders,47,1174.95245953268,17211.2129132608,Herbicide
+Louisiana,Southeast,Multiple Sclerosis,69,2.2766345884621,86.1513344730687,Herbicide
+Louisiana,Southeast,Parkinson Disease,76,46.7014451667871,175.107109521553,Herbicide
+Maine,Northeast,Alzheimer's Disease,42,254.150005046145,1883.53602751439,Herbicide
+Maine,Northeast,Brain Neoplasms,34,10.6096767432606,27.8411964716589,Herbicide
+Maine,Northeast,Epilepsy,39,37.2507854287971,343.064644178192,Herbicide
+Maine,Northeast,Migraine Disorders,26,1060.60003902106,17004.4641409534,Herbicide
+Maine,Northeast,Multiple Sclerosis,40,3.6221216306249,164.882861289634,Herbicide
+Maine,Northeast,Parkinson Disease,43,68.4895294407783,276.904965714614,Herbicide
+Maryland,Northeast,Alzheimer's Disease,72,202.47957256285,1540.06864073941,Herbicide
+Maryland,Northeast,Brain Neoplasms,57,7.94741612852429,22.5014905226228,Herbicide
+Maryland,Northeast,Epilepsy,66,39.46347745119,353.878574462453,Herbicide
+Maryland,Northeast,Migraine Disorders,42,1167.1181522855,17752.900743255,Herbicide
+Maryland,Northeast,Multiple Sclerosis,67,3.47711656822518,135.474778196827,Herbicide
+Maryland,Northeast,Parkinson Disease,72,44.883789927729,175.803669970612,Herbicide
+Massachusetts,Northeast,Alzheimer's Disease,54,237.057759217269,1775.8541035194,Herbicide
+Massachusetts,Northeast,Brain Neoplasms,43,9.9145269880391,30.377619298294,Herbicide
+Massachusetts,Northeast,Epilepsy,49,40.7778003653311,384.097639558942,Herbicide
+Massachusetts,Northeast,Migraine Disorders,34,1144.15954618357,17688.9244955588,Herbicide
+Massachusetts,Northeast,Multiple Sclerosis,49,3.99874986511203,158.197105214185,Herbicide
+Massachusetts,Northeast,Parkinson Disease,53,50.7856764272573,209.854766051344,Herbicide
+Michigan,Midwest,Alzheimer's Disease,79,233.085800008891,1787.50578490159,Herbicide
+Michigan,Midwest,Brain Neoplasms,63,9.09046549007823,21.3049542221727,Herbicide
+Michigan,Midwest,Epilepsy,73,44.7461980314354,430.492313980339,Herbicide
+Michigan,Midwest,Migraine Disorders,47,1100.07282635307,15962.6906937225,Herbicide
+Michigan,Midwest,Multiple Sclerosis,73,4.0497415166024,164.604201573863,Herbicide
+Michigan,Midwest,Parkinson Disease,79,52.9991930086051,206.560214960874,Herbicide
+Minnesota,Midwest,Alzheimer's Disease,73,191.305688318083,1420.59326101927,Herbicide
+Minnesota,Midwest,Brain Neoplasms,57,9.4191461708931,31.3578432837352,Herbicide
+Minnesota,Midwest,Epilepsy,67,37.494488767748,322.840090241148,Herbicide
+Minnesota,Midwest,Migraine Disorders,41,1152.90559612363,17080.3447603516,Herbicide
+Minnesota,Midwest,Multiple Sclerosis,67,3.78138016519678,143.405887965433,Herbicide
+Minnesota,Midwest,Parkinson Disease,73,45.8207609871214,183.284231418775,Herbicide
+Mississippi,Southeast,Alzheimer's Disease,77,169.385610622705,1236.36904915091,Herbicide
+Mississippi,Southeast,Brain Neoplasms,62,8.78392132795706,19.0960144158632,Herbicide
+Mississippi,Southeast,Epilepsy,71,36.3970932569357,310.849497891316,Herbicide
+Mississippi,Southeast,Migraine Disorders,49,1183.15764229126,17248.0979138891,Herbicide
+Mississippi,Southeast,Multiple Sclerosis,71,2.08189449280306,76.5552283992881,Herbicide
+Mississippi,Southeast,Parkinson Disease,78,38.2607176036952,125.269319531662,Herbicide
+Missouri,Midwest,Alzheimer's Disease,75,222.562573344265,1670.79941311553,Herbicide
+Missouri,Midwest,Brain Neoplasms,60,8.75862991699552,23.502072539434,Herbicide
+Missouri,Midwest,Epilepsy,69,39.8465140826062,363.301599043507,Herbicide
+Missouri,Midwest,Migraine Disorders,47,1151.93968726538,17135.5374427897,Herbicide
+Missouri,Midwest,Multiple Sclerosis,69,3.30878578302412,130.585092387579,Herbicide
+Missouri,Midwest,Parkinson Disease,76,54.1386108914922,217.789504291363,Herbicide
+Montana,West,Alzheimer's Disease,67,226.020560147788,1630.52616702313,Herbicide
+Montana,West,Brain Neoplasms,52,9.54355213167812,25.7592474959409,Herbicide
+Montana,West,Epilepsy,61,40.5323851743432,371.897401387271,Herbicide
+Montana,West,Migraine Disorders,36,1097.02149074877,16661.1997591066,Herbicide
+Montana,West,Multiple Sclerosis,61,4.54811617284947,184.338465418355,Herbicide
+Montana,West,Parkinson Disease,67,54.1639651610159,201.108197772322,Herbicide
+Nebraska,Midwest,Alzheimer's Disease,71,196.090972557107,1436.4984976957,Herbicide
+Nebraska,Midwest,Brain Neoplasms,58,9.32393399866066,28.1530815008694,Herbicide
+Nebraska,Midwest,Epilepsy,66,35.5221218446176,292.473502123433,Herbicide
+Nebraska,Midwest,Migraine Disorders,42,1168.62558499515,16829.9015184492,Herbicide
+Nebraska,Midwest,Multiple Sclerosis,67,3.85416758491753,141.164685288367,Herbicide
+Nebraska,Midwest,Parkinson Disease,72,39.6195704473452,150.544389361403,Herbicide
+Nevada,West,Alzheimer's Disease,60,138.112964584795,977.427242714465,Herbicide
+Nevada,West,Brain Neoplasms,49,7.35310040341174,20.0833988637153,Herbicide
+Nevada,West,Epilepsy,54,39.7481361746944,363.457094919837,Herbicide
+Nevada,West,Migraine Disorders,36,1187.73470493987,17543.0725276925,Herbicide
+Nevada,West,Multiple Sclerosis,55,3.71626374048273,139.702696479683,Herbicide
+Nevada,West,Parkinson Disease,60,42.4360341702031,150.98461046691,Herbicide
+New Hampshire,Northeast,Alzheimer's Disease,45,230.593101614132,1709.58248353359,Herbicide
+New Hampshire,Northeast,Brain Neoplasms,36,10.0895298058054,29.4810257058838,Herbicide
+New Hampshire,Northeast,Epilepsy,42,35.9753590135229,324.595405648681,Herbicide
+New Hampshire,Northeast,Migraine Disorders,28,1097.52995141108,17334.9696085837,Herbicide
+New Hampshire,Northeast,Multiple Sclerosis,42,3.87485410247806,173.412467837696,Herbicide
+New Hampshire,Northeast,Parkinson Disease,45,56.2778037994777,220.098634012693,Herbicide
+New Jersey,Northeast,Alzheimer's Disease,66,211.942200507771,1551.39029609126,Herbicide
+New Jersey,Northeast,Brain Neoplasms,53,10.5417266913429,45.2646187971105,Herbicide
+New Jersey,Northeast,Epilepsy,61,43.1546228309835,400.420909399208,Herbicide
+New Jersey,Northeast,Migraine Disorders,40,1141.61630270974,17403.6903922091,Herbicide
+New Jersey,Northeast,Multiple Sclerosis,61,3.28189398245924,135.141932580486,Herbicide
+New Jersey,Northeast,Parkinson Disease,66,46.8159487019193,192.849516398335,Herbicide
+New Mexico,Southwest,Alzheimer's Disease,74,205.662049525738,1481.98151579545,Herbicide
+New Mexico,Southwest,Brain Neoplasms,60,7.68747160396426,22.5028894389215,Herbicide
+New Mexico,Southwest,Epilepsy,68,42.7228565939195,363.440430860146,Herbicide
+New Mexico,Southwest,Migraine Disorders,47,1158.08543271433,17005.581679644,Herbicide
+New Mexico,Southwest,Multiple Sclerosis,68,3.01079884881167,116.875394709982,Herbicide
+New Mexico,Southwest,Parkinson Disease,75,47.0147227836178,168.351363536669,Herbicide
+New York,Northeast,Alzheimer's Disease,71,225.444833621701,1670.76188227628,Herbicide
+New York,Northeast,Brain Neoplasms,57,7.62609517501325,23.2328864325017,Herbicide
+New York,Northeast,Epilepsy,66,43.5086086525538,408.835774152943,Herbicide
+New York,Northeast,Migraine Disorders,43,1149.86863165371,17601.1249224125,Herbicide
+New York,Northeast,Multiple Sclerosis,66,3.75119215931432,152.421905467364,Herbicide
+New York,Northeast,Parkinson Disease,71,50.5351447894684,213.888286523291,Herbicide
+North Carolina,Southeast,Alzheimer's Disease,76,181.133259107328,1318.74113841672,Herbicide
+North Carolina,Southeast,Brain Neoplasms,60,8.30914076835556,21.758032721612,Herbicide
+North Carolina,Southeast,Epilepsy,70,36.3416834303401,314.960768662457,Herbicide
+North Carolina,Southeast,Migraine Disorders,45,1174.98022018846,17476.7083803161,Herbicide
+North Carolina,Southeast,Multiple Sclerosis,70,3.02481156645244,120.444627612992,Herbicide
+North Carolina,Southeast,Parkinson Disease,77,45.3186915842446,167.277627621189,Herbicide
+North Dakota,Midwest,Alzheimer's Disease,67,243.98553993377,1831.89797416004,Herbicide
+North Dakota,Midwest,Brain Neoplasms,52,9.69006094560804,28.8700675727676,Herbicide
+North Dakota,Midwest,Epilepsy,61,38.3140257002469,330.865396055788,Herbicide
+North Dakota,Midwest,Migraine Disorders,36,1132.63440152179,16678.2597780845,Herbicide
+North Dakota,Midwest,Multiple Sclerosis,61,4.14230958394942,148.997646106916,Herbicide
+North Dakota,Midwest,Parkinson Disease,67,46.3377523014818,185.345475043528,Herbicide
+Ohio,Midwest,Alzheimer's Disease,79,232.944539848321,1765.74700710752,Herbicide
+Ohio,Midwest,Brain Neoplasms,62,9.09452039295945,22.8372600481125,Herbicide
+Ohio,Midwest,Epilepsy,73,42.3518743968742,398.856195918577,Herbicide
+Ohio,Midwest,Migraine Disorders,46,1137.96396529759,17111.5747379893,Herbicide
+Ohio,Midwest,Multiple Sclerosis,72,3.61073632441671,144.657987137699,Herbicide
+Ohio,Midwest,Parkinson Disease,79,52.5493762590309,203.814039972354,Herbicide
+Oklahoma,Southwest,Alzheimer's Disease,75,198.019126217243,1465.00391026505,Herbicide
+Oklahoma,Southwest,Brain Neoplasms,60,8.41896119578026,20.6624320339167,Herbicide
+Oklahoma,Southwest,Epilepsy,69,40.0577826435665,359.530501808576,Herbicide
+Oklahoma,Southwest,Migraine Disorders,44,1176.96200881504,17035.632687883,Herbicide
+Oklahoma,Southwest,Multiple Sclerosis,69,2.6316694725895,94.7401526740191,Herbicide
+Oklahoma,Southwest,Parkinson Disease,76,45.1695065135932,160.98991485369,Herbicide
+Oregon,West,Alzheimer's Disease,72,205.851029637481,1503.89968167694,Herbicide
+Oregon,West,Brain Neoplasms,59,9.88024179003331,29.371961217356,Herbicide
+Oregon,West,Epilepsy,66,36.1066296428649,316.013527009973,Herbicide
+Oregon,West,Migraine Disorders,44,1133.35431162333,17273.1252617715,Herbicide
+Oregon,West,Multiple Sclerosis,66,3.98668055570305,156.093882689611,Herbicide
+Oregon,West,Parkinson Disease,72,50.1947393596782,186.984991126826,Herbicide
+Pennsylvania,Northeast,Alzheimer's Disease,77,244.557059730533,1811.55327706982,Herbicide
+Pennsylvania,Northeast,Brain Neoplasms,61,9.18607152263854,24.6896807701945,Herbicide
+Pennsylvania,Northeast,Epilepsy,71,40.7125319827659,388.793604381985,Herbicide
+Pennsylvania,Northeast,Migraine Disorders,45,1117.389425494,17174.9795189646,Herbicide
+Pennsylvania,Northeast,Multiple Sclerosis,71,3.82373111962932,160.069154132544,Herbicide
+Pennsylvania,Northeast,Parkinson Disease,77,54.8118599605218,220.332992807956,Herbicide
+Rhode Island,Northeast,Alzheimer's Disease,43,255.475970846781,1935.31252831537,Herbicide
+Rhode Island,Northeast,Brain Neoplasms,36,9.34390471869128,27.1289909029092,Herbicide
+Rhode Island,Northeast,Epilepsy,40,42.5170264833088,415.538918364719,Herbicide
+Rhode Island,Northeast,Migraine Disorders,29,1137.3882046368,17631.3482992026,Herbicide
+Rhode Island,Northeast,Multiple Sclerosis,41,4.72786610036684,194.324215924951,Herbicide
+Rhode Island,Northeast,Parkinson Disease,43,48.4082674370117,191.861127302062,Herbicide
+South Carolina,Southeast,Alzheimer's Disease,72,189.565708062693,1382.19257849726,Herbicide
+South Carolina,Southeast,Brain Neoplasms,57,8.73615041003546,20.6866172904784,Herbicide
+South Carolina,Southeast,Epilepsy,66,38.2008665938663,344.068926592577,Herbicide
+South Carolina,Southeast,Migraine Disorders,44,1150.78814758099,17284.7658018775,Herbicide
+South Carolina,Southeast,Multiple Sclerosis,67,2.75116321058522,110.759654020835,Herbicide
+South Carolina,Southeast,Parkinson Disease,73,46.8225636489553,167.30486066352,Herbicide
+South Dakota,Midwest,Alzheimer's Disease,70,195.473008341809,1372.57852137616,Herbicide
+South Dakota,Midwest,Brain Neoplasms,56,10.0122967630153,28.9296126737972,Herbicide
+South Dakota,Midwest,Epilepsy,65,41.8410924450787,380.214653817099,Herbicide
+South Dakota,Midwest,Migraine Disorders,41,1142.23850695376,16478.6541377528,Herbicide
+South Dakota,Midwest,Multiple Sclerosis,66,3.9021813727345,147.803429144902,Herbicide
+South Dakota,Midwest,Parkinson Disease,71,41.7436666163086,167.813601381659,Herbicide
+Tennessee,Southeast,Alzheimer's Disease,74,195.099507502469,1453.85438183995,Herbicide
+Tennessee,Southeast,Brain Neoplasms,59,8.94602965008836,21.82396653317,Herbicide
+Tennessee,Southeast,Epilepsy,69,38.7152442997388,350.189383667798,Herbicide
+Tennessee,Southeast,Migraine Disorders,46,1162.83205061202,17374.2131248891,Herbicide
+Tennessee,Southeast,Multiple Sclerosis,69,2.89071157709392,115.19718362145,Herbicide
+Tennessee,Southeast,Parkinson Disease,76,44.5346294747352,160.546537812451,Herbicide
+Texas,Southwest,Alzheimer's Disease,80,164.678279180272,1237.189887684,Herbicide
+Texas,Southwest,Brain Neoplasms,64,7.32401431298066,21.4114186911242,Herbicide
+Texas,Southwest,Epilepsy,74,37.073241893278,343.893513002163,Herbicide
+Texas,Southwest,Migraine Disorders,49,1238.70225650034,17448.9655046486,Herbicide
+Texas,Southwest,Multiple Sclerosis,73,2.4198645723701,86.4050293947688,Herbicide
+Texas,Southwest,Parkinson Disease,81,39.9441937092265,155.616632513869,Herbicide
+Utah,West,Alzheimer's Disease,61,100.01967729575,709.387167355901,Herbicide
+Utah,West,Brain Neoplasms,51,6.91502624739812,21.3396873204992,Herbicide
+Utah,West,Epilepsy,57,35.9829750443652,288.433247842865,Herbicide
+Utah,West,Migraine Disorders,36,1311.67151783465,17131.3216079828,Herbicide
+Utah,West,Multiple Sclerosis,58,5.35515895682654,168.19507999845,Herbicide
+Utah,West,Parkinson Disease,62,31.6411409125155,115.854495857215,Herbicide
+Vermont,Northeast,Alzheimer's Disease,48,229.170088152368,1649.0958061531,Herbicide
+Vermont,Northeast,Brain Neoplasms,38,9.60533245968774,27.1793228967089,Herbicide
+Vermont,Northeast,Epilepsy,43,36.0463669055615,323.011999477197,Herbicide
+Vermont,Northeast,Migraine Disorders,30,1082.05480781595,17134.7571221261,Herbicide
+Vermont,Northeast,Multiple Sclerosis,43,3.78979775344571,165.813112458995,Herbicide
+Vermont,Northeast,Parkinson Disease,47,63.6610654260619,253.565179057316,Herbicide
+Virginia,Southeast,Alzheimer's Disease,77,186.533443133339,1380.27367930327,Herbicide
+Virginia,Southeast,Brain Neoplasms,62,8.09873086849552,23.7011593177197,Herbicide
+Virginia,Southeast,Epilepsy,72,39.53484077308,355.030911549836,Herbicide
+Virginia,Southeast,Migraine Disorders,46,1169.59539588561,17567.400424516,Herbicide
+Virginia,Southeast,Multiple Sclerosis,72,3.36797909348352,131.870839619281,Herbicide
+Virginia,Southeast,Parkinson Disease,79,43.0015602496667,166.185561493888,Herbicide
+Washington,West,Alzheimer's Disease,75,177.546327658036,1270.29075890444,Herbicide
+Washington,West,Brain Neoplasms,62,8.09282583148802,18.4676159550603,Herbicide
+Washington,West,Epilepsy,69,38.392619954776,335.917487079549,Herbicide
+Washington,West,Migraine Disorders,46,1154.7297999599,17283.0573937232,Herbicide
+Washington,West,Multiple Sclerosis,69,4.22376187673366,160.942139550298,Herbicide
+Washington,West,Parkinson Disease,75,48.5559287507574,189.552394196512,Herbicide
+West Virginia,Southeast,Alzheimer's Disease,64,246.397293208741,1868.78708907877,Herbicide
+West Virginia,Southeast,Brain Neoplasms,50,9.56964721346079,21.1517311637184,Herbicide
+West Virginia,Southeast,Epilepsy,59,41.3973198556138,407.036724015112,Herbicide
+West Virginia,Southeast,Migraine Disorders,39,1086.78437138554,16940.3126224638,Herbicide
+West Virginia,Southeast,Multiple Sclerosis,60,2.89731997929232,124.843511589192,Herbicide
+West Virginia,Southeast,Parkinson Disease,65,59.9114741584512,223.992918967123,Herbicide
+Wisconsin,Midwest,Alzheimer's Disease,68,207.485906784764,1504.62890393489,Herbicide
+Wisconsin,Midwest,Brain Neoplasms,54,9.94590840657885,30.4884052495691,Herbicide
+Wisconsin,Midwest,Epilepsy,63,43.9326962901769,351.657254468725,Herbicide
+Wisconsin,Midwest,Migraine Disorders,41,1139.81088599754,17061.7003150265,Herbicide
+Wisconsin,Midwest,Multiple Sclerosis,63,3.98368275437535,157.514114203157,Herbicide
+Wisconsin,Midwest,Parkinson Disease,69,45.7286623275231,177.236206023257,Herbicide
+Wyoming,West,Alzheimer's Disease,62,173.551599018126,1229.19619872237,Herbicide
+Wyoming,West,Brain Neoplasms,50,8.39136403059217,23.4168901435979,Herbicide
+Wyoming,West,Epilepsy,57,40.1073021983102,351.858148809389,Herbicide
+Wyoming,West,Migraine Disorders,35,1147.05425668036,16758.9145653839,Herbicide
+Wyoming,West,Multiple Sclerosis,57,4.59476158326081,176.010704967762,Herbicide
+Wyoming,West,Parkinson Disease,63,43.1262841847604,154.988867761039,Herbicide
+Alabama,Southeast,Alzheimer's Disease,57,183.651297284712,1389.06505723321,Fungicide
+Alabama,Southeast,Brain Neoplasms,54,9.38198424611772,20.9380427789625,Fungicide
+Alabama,Southeast,Epilepsy,57,40.7511751864933,376.835570863209,Fungicide
+Alabama,Southeast,Migraine Disorders,54,1159.09119640296,17325.9989212514,Fungicide
+Alabama,Southeast,Multiple Sclerosis,57,2.56894680439416,103.561954426802,Fungicide
+Alabama,Southeast,Parkinson Disease,57,45.1086880861181,157.216033851898,Fungicide
+Arizona,Southwest,Alzheimer's Disease,51,191.041043990159,1383.15767569293,Fungicide
+Arizona,Southwest,Brain Neoplasms,48,8.05596016235632,23.5375854233831,Fungicide
+Arizona,Southwest,Epilepsy,51,37.3417064329218,338.500015979158,Fungicide
+Arizona,Southwest,Migraine Disorders,47,1178.73122179909,17188.7009800903,Fungicide
+Arizona,Southwest,Multiple Sclerosis,51,3.10164204097261,118.899274501885,Fungicide
+Arizona,Southwest,Parkinson Disease,51,49.0379557829478,188.740329348325,Fungicide
+Arkansas,Southeast,Alzheimer's Disease,50,192.93033068765,1406.33386592482,Fungicide
+Arkansas,Southeast,Brain Neoplasms,46,9.19819077173685,21.4221052729797,Fungicide
+Arkansas,Southeast,Epilepsy,50,37.162467278242,331.712286808432,Fungicide
+Arkansas,Southeast,Migraine Disorders,46,1161.93446427052,17037.0581138555,Fungicide
+Arkansas,Southeast,Multiple Sclerosis,50,2.50431759472485,95.4348689899128,Fungicide
+Arkansas,Southeast,Parkinson Disease,50,39.7051937086139,135.336189632865,Fungicide
+California,West,Alzheimer's Disease,61,170.890843957619,1209.88363516809,Fungicide
+California,West,Brain Neoplasms,57,7.803850909094,25.9252721594367,Fungicide
+California,West,Epilepsy,61,37.3300058336087,321.690441999979,Fungicide
+California,West,Migraine Disorders,56,1196.96396696966,17606.1321220999,Fungicide
+California,West,Multiple Sclerosis,61,2.60084290609488,92.2794762860933,Fungicide
+California,West,Parkinson Disease,61,42.6570787640437,176.147353196413,Fungicide
+Colorado,West,Alzheimer's Disease,48,178.108974484281,1289.53791677092,Fungicide
+Colorado,West,Brain Neoplasms,45,8.39923138338914,26.2968252733812,Fungicide
+Colorado,West,Epilepsy,48,38.1715344634101,336.635099356869,Fungicide
+Colorado,West,Migraine Disorders,45,1183.70871149194,17482.7816140691,Fungicide
+Colorado,West,Multiple Sclerosis,48,4.43331667508891,170.290931995203,Fungicide
+Colorado,West,Parkinson Disease,48,45.6667030769096,179.914550146534,Fungicide
+Connecticut,Northeast,Alzheimer's Disease,41,242.579338794861,1808.95144112275,Fungicide
+Connecticut,Northeast,Brain Neoplasms,39,9.66163574529406,32.5281770201037,Fungicide
+Connecticut,Northeast,Epilepsy,41,39.0505582164343,364.972025372728,Fungicide
+Connecticut,Northeast,Migraine Disorders,39,1129.27264964717,17434.3597731972,Fungicide
+Connecticut,Northeast,Multiple Sclerosis,41,3.8034519095293,165.742248032351,Fungicide
+Connecticut,Northeast,Parkinson Disease,41,49.0449515483868,206.389320805036,Fungicide
+Delaware,Northeast,Alzheimer's Disease,46,205.001080271807,1498.30846166423,Fungicide
+Delaware,Northeast,Brain Neoplasms,44,8.26335385533047,22.3962114352019,Fungicide
+Delaware,Northeast,Epilepsy,46,42.954996415055,414.652013957094,Fungicide
+Delaware,Northeast,Migraine Disorders,44,1139.28310498526,17332.0269013278,Fungicide
+Delaware,Northeast,Multiple Sclerosis,46,3.46445715634636,145.54817303248,Fungicide
+Delaware,Northeast,Parkinson Disease,46,44.7227098554877,163.98365002737,Fungicide
+Florida,Southeast,Alzheimer's Disease,59,256.464817963793,1902.91733544823,Fungicide
+Florida,Southeast,Brain Neoplasms,55,9.18616342674205,25.733024620455,Fungicide
+Florida,Southeast,Epilepsy,59,39.523502207586,379.345669446678,Fungicide
+Florida,Southeast,Migraine Disorders,54,1099.14138289422,17137.0707346096,Fungicide
+Florida,Southeast,Multiple Sclerosis,59,2.47857251121869,109.60009967049,Fungicide
+Florida,Southeast,Parkinson Disease,59,56.8970878076551,227.905106035488,Fungicide
+Georgia,Southeast,Alzheimer's Disease,59,149.213338507527,1099.74641009135,Fungicide
+Georgia,Southeast,Brain Neoplasms,55,8.08609854412151,23.6427289597396,Fungicide
+Georgia,Southeast,Epilepsy,59,40.7533869417322,361.914542840906,Fungicide
+Georgia,Southeast,Migraine Disorders,54,1219.05029149054,17734.2143877953,Fungicide
+Georgia,Southeast,Multiple Sclerosis,59,2.72550297609724,102.616478193857,Fungicide
+Georgia,Southeast,Parkinson Disease,59,38.716381514299,137.57416214212,Fungicide
+Idaho,West,Alzheimer's Disease,55,166.654811662179,1221.45261046928,Fungicide
+Idaho,West,Brain Neoplasms,53,8.79670706692569,25.6548628184781,Fungicide
+Idaho,West,Epilepsy,55,37.2118832407098,318.024664403898,Fungicide
+Idaho,West,Migraine Disorders,52,1197.35337362898,16803.4627563063,Fungicide
+Idaho,West,Multiple Sclerosis,55,4.36765989078352,160.64010333069,Fungicide
+Idaho,West,Parkinson Disease,55,46.9131736738209,176.048310073426,Fungicide
+Illinois,Midwest,Alzheimer's Disease,55,194.525388477769,1416.30802292335,Fungicide
+Illinois,Midwest,Brain Neoplasms,53,7.95884960109794,22.8600573535641,Fungicide
+Illinois,Midwest,Epilepsy,55,39.5657020878101,354.527679590522,Fungicide
+Illinois,Midwest,Migraine Disorders,53,1173.51431112226,17473.7046435504,Fungicide
+Illinois,Midwest,Multiple Sclerosis,55,3.36281776135228,126.779997782658,Fungicide
+Illinois,Midwest,Parkinson Disease,55,43.9804117819143,172.003919516365,Fungicide
+Indiana,Midwest,Alzheimer's Disease,58,214.833204188008,1640.36485485092,Fungicide
+Indiana,Midwest,Brain Neoplasms,55,8.83666787188063,23.3323332808357,Fungicide
+Indiana,Midwest,Epilepsy,58,41.0913302312354,374.124911273584,Fungicide
+Indiana,Midwest,Migraine Disorders,54,1174.83098154373,17197.5104980886,Fungicide
+Indiana,Midwest,Multiple Sclerosis,58,3.25411021923213,122.015740064721,Fungicide
+Indiana,Midwest,Parkinson Disease,58,49.374029292763,192.91331239643,Fungicide
+Iowa,Midwest,Alzheimer's Disease,51,204.903898403608,1405.84058403825,Fungicide
+Iowa,Midwest,Brain Neoplasms,48,8.83866844387833,18.8117507284709,Fungicide
+Iowa,Midwest,Epilepsy,51,34.6213487652555,293.024327021986,Fungicide
+Iowa,Midwest,Migraine Disorders,48,1140.97173260894,16768.3754785885,Fungicide
+Iowa,Midwest,Multiple Sclerosis,51,3.15516534856936,118.540884196405,Fungicide
+Iowa,Midwest,Parkinson Disease,51,46.5931187579085,183.686630188201,Fungicide
+Kansas,Midwest,Alzheimer's Disease,40,199.60968859069,1469.48113219243,Fungicide
+Kansas,Midwest,Brain Neoplasms,38,9.11342971117137,26.3783184659831,Fungicide
+Kansas,Midwest,Epilepsy,40,39.2077192155195,342.950365807196,Fungicide
+Kansas,Midwest,Migraine Disorders,38,1180.83432649245,16944.82494575,Fungicide
+Kansas,Midwest,Multiple Sclerosis,40,3.28441410018523,119.682952556173,Fungicide
+Kansas,Midwest,Parkinson Disease,40,51.2259825295311,208.101747504703,Fungicide
+Kentucky,Southeast,Alzheimer's Disease,55,202.404492728947,1516.51883977495,Fungicide
+Kentucky,Southeast,Brain Neoplasms,52,9.83311721623363,25.1464510013759,Fungicide
+Kentucky,Southeast,Epilepsy,55,42.3829301931061,393.561658890618,Fungicide
+Kentucky,Southeast,Migraine Disorders,51,1149.61470188107,17156.8321119236,Fungicide
+Kentucky,Southeast,Multiple Sclerosis,55,2.95604387978677,119.968948431635,Fungicide
+Kentucky,Southeast,Parkinson Disease,55,50.3432212129509,188.373725234362,Fungicide
+Louisiana,Southeast,Alzheimer's Disease,41,194.612803801738,1488.53285357638,Fungicide
+Louisiana,Southeast,Brain Neoplasms,38,7.80451027374807,17.4770005488858,Fungicide
+Louisiana,Southeast,Epilepsy,41,42.9666750839048,390.906260307068,Fungicide
+Louisiana,Southeast,Migraine Disorders,38,1174.95245953268,17211.2129132608,Fungicide
+Louisiana,Southeast,Multiple Sclerosis,41,2.2766345884621,86.1513344730687,Fungicide
+Louisiana,Southeast,Parkinson Disease,41,46.7014451667871,175.107109521553,Fungicide
+Maine,Northeast,Alzheimer's Disease,40,254.150005046145,1883.53602751439,Fungicide
+Maine,Northeast,Brain Neoplasms,38,10.6096767432606,27.8411964716589,Fungicide
+Maine,Northeast,Epilepsy,40,37.2507854287971,343.064644178192,Fungicide
+Maine,Northeast,Migraine Disorders,37,1060.60003902106,17004.4641409534,Fungicide
+Maine,Northeast,Multiple Sclerosis,40,3.6221216306249,164.882861289634,Fungicide
+Maine,Northeast,Parkinson Disease,40,68.4895294407783,276.904965714614,Fungicide
+Maryland,Northeast,Alzheimer's Disease,50,202.47957256285,1540.06864073941,Fungicide
+Maryland,Northeast,Brain Neoplasms,48,7.94741612852429,22.5014905226228,Fungicide
+Maryland,Northeast,Epilepsy,50,39.46347745119,353.878574462453,Fungicide
+Maryland,Northeast,Migraine Disorders,48,1167.1181522855,17752.900743255,Fungicide
+Maryland,Northeast,Multiple Sclerosis,50,3.47711656822518,135.474778196827,Fungicide
+Maryland,Northeast,Parkinson Disease,50,44.883789927729,175.803669970612,Fungicide
+Massachusetts,Northeast,Alzheimer's Disease,41,237.057759217269,1775.8541035194,Fungicide
+Massachusetts,Northeast,Brain Neoplasms,39,9.9145269880391,30.377619298294,Fungicide
+Massachusetts,Northeast,Epilepsy,41,40.7778003653311,384.097639558942,Fungicide
+Massachusetts,Northeast,Migraine Disorders,39,1144.15954618357,17688.9244955588,Fungicide
+Massachusetts,Northeast,Multiple Sclerosis,41,3.99874986511203,158.197105214185,Fungicide
+Massachusetts,Northeast,Parkinson Disease,41,50.7856764272573,209.854766051344,Fungicide
+Michigan,Midwest,Alzheimer's Disease,62,233.085800008891,1787.50578490159,Fungicide
+Michigan,Midwest,Brain Neoplasms,59,9.09046549007823,21.3049542221727,Fungicide
+Michigan,Midwest,Epilepsy,62,44.7461980314354,430.492313980339,Fungicide
+Michigan,Midwest,Migraine Disorders,58,1100.07282635307,15962.6906937225,Fungicide
+Michigan,Midwest,Multiple Sclerosis,62,4.0497415166024,164.604201573863,Fungicide
+Michigan,Midwest,Parkinson Disease,62,52.9991930086051,206.560214960874,Fungicide
+Minnesota,Midwest,Alzheimer's Disease,52,191.305688318083,1420.59326101927,Fungicide
+Minnesota,Midwest,Brain Neoplasms,50,9.4191461708931,31.3578432837352,Fungicide
+Minnesota,Midwest,Epilepsy,52,37.494488767748,322.840090241148,Fungicide
+Minnesota,Midwest,Migraine Disorders,49,1152.90559612363,17080.3447603516,Fungicide
+Minnesota,Midwest,Multiple Sclerosis,52,3.78138016519678,143.405887965433,Fungicide
+Minnesota,Midwest,Parkinson Disease,52,45.8207609871214,183.284231418775,Fungicide
+Mississippi,Southeast,Alzheimer's Disease,45,169.385610622705,1236.36904915091,Fungicide
+Mississippi,Southeast,Brain Neoplasms,42,8.78392132795706,19.0960144158632,Fungicide
+Mississippi,Southeast,Epilepsy,45,36.3970932569357,310.849497891316,Fungicide
+Mississippi,Southeast,Migraine Disorders,42,1183.15764229126,17248.0979138891,Fungicide
+Mississippi,Southeast,Multiple Sclerosis,45,2.08189449280306,76.5552283992881,Fungicide
+Mississippi,Southeast,Parkinson Disease,45,38.2607176036952,125.269319531662,Fungicide
+Missouri,Midwest,Alzheimer's Disease,54,222.562573344265,1670.79941311553,Fungicide
+Missouri,Midwest,Brain Neoplasms,52,8.75862991699552,23.502072539434,Fungicide
+Missouri,Midwest,Epilepsy,54,39.8465140826062,363.301599043507,Fungicide
+Missouri,Midwest,Migraine Disorders,52,1151.93968726538,17135.5374427897,Fungicide
+Missouri,Midwest,Multiple Sclerosis,54,3.30878578302412,130.585092387579,Fungicide
+Missouri,Midwest,Parkinson Disease,54,54.1386108914922,217.789504291363,Fungicide
+Montana,West,Alzheimer's Disease,51,226.020560147788,1630.52616702313,Fungicide
+Montana,West,Brain Neoplasms,49,9.54355213167812,25.7592474959409,Fungicide
+Montana,West,Epilepsy,51,40.5323851743432,371.897401387271,Fungicide
+Montana,West,Migraine Disorders,48,1097.02149074877,16661.1997591066,Fungicide
+Montana,West,Multiple Sclerosis,51,4.54811617284947,184.338465418355,Fungicide
+Montana,West,Parkinson Disease,51,54.1639651610159,201.108197772322,Fungicide
+Nebraska,Midwest,Alzheimer's Disease,41,196.090972557107,1436.4984976957,Fungicide
+Nebraska,Midwest,Brain Neoplasms,39,9.32393399866066,28.1530815008694,Fungicide
+Nebraska,Midwest,Epilepsy,41,35.5221218446176,292.473502123433,Fungicide
+Nebraska,Midwest,Migraine Disorders,39,1168.62558499515,16829.9015184492,Fungicide
+Nebraska,Midwest,Multiple Sclerosis,41,3.85416758491753,141.164685288367,Fungicide
+Nebraska,Midwest,Parkinson Disease,41,39.6195704473452,150.544389361403,Fungicide
+Nevada,West,Alzheimer's Disease,53,138.112964584795,977.427242714465,Fungicide
+Nevada,West,Brain Neoplasms,51,7.35310040341174,20.0833988637153,Fungicide
+Nevada,West,Epilepsy,53,39.7481361746944,363.457094919837,Fungicide
+Nevada,West,Migraine Disorders,50,1187.73470493987,17543.0725276925,Fungicide
+Nevada,West,Multiple Sclerosis,53,3.71626374048273,139.702696479683,Fungicide
+Nevada,West,Parkinson Disease,53,42.4360341702031,150.98461046691,Fungicide
+New Hampshire,Northeast,Alzheimer's Disease,41,230.593101614132,1709.58248353359,Fungicide
+New Hampshire,Northeast,Brain Neoplasms,39,10.0895298058054,29.4810257058838,Fungicide
+New Hampshire,Northeast,Epilepsy,41,35.9753590135229,324.595405648681,Fungicide
+New Hampshire,Northeast,Migraine Disorders,39,1097.52995141108,17334.9696085837,Fungicide
+New Hampshire,Northeast,Multiple Sclerosis,41,3.87485410247806,173.412467837696,Fungicide
+New Hampshire,Northeast,Parkinson Disease,41,56.2778037994777,220.098634012693,Fungicide
+New Jersey,Northeast,Alzheimer's Disease,45,211.942200507771,1551.39029609126,Fungicide
+New Jersey,Northeast,Brain Neoplasms,43,10.5417266913429,45.2646187971105,Fungicide
+New Jersey,Northeast,Epilepsy,45,43.1546228309835,400.420909399208,Fungicide
+New Jersey,Northeast,Migraine Disorders,43,1141.61630270974,17403.6903922091,Fungicide
+New Jersey,Northeast,Multiple Sclerosis,45,3.28189398245924,135.141932580486,Fungicide
+New Jersey,Northeast,Parkinson Disease,45,46.8159487019193,192.849516398335,Fungicide
+New Mexico,Southwest,Alzheimer's Disease,58,205.662049525738,1481.98151579545,Fungicide
+New Mexico,Southwest,Brain Neoplasms,54,7.68747160396426,22.5028894389215,Fungicide
+New Mexico,Southwest,Epilepsy,58,42.7228565939195,363.440430860146,Fungicide
+New Mexico,Southwest,Migraine Disorders,53,1158.08543271433,17005.581679644,Fungicide
+New Mexico,Southwest,Multiple Sclerosis,58,3.01079884881167,116.875394709982,Fungicide
+New Mexico,Southwest,Parkinson Disease,58,47.0147227836178,168.351363536669,Fungicide
+New York,Northeast,Alzheimer's Disease,53,225.444833621701,1670.76188227628,Fungicide
+New York,Northeast,Brain Neoplasms,51,7.62609517501325,23.2328864325017,Fungicide
+New York,Northeast,Epilepsy,53,43.5086086525538,408.835774152943,Fungicide
+New York,Northeast,Migraine Disorders,51,1149.86863165371,17601.1249224125,Fungicide
+New York,Northeast,Multiple Sclerosis,53,3.75119215931432,152.421905467364,Fungicide
+New York,Northeast,Parkinson Disease,53,50.5351447894684,213.888286523291,Fungicide
+North Carolina,Southeast,Alzheimer's Disease,57,181.133259107328,1318.74113841672,Fungicide
+North Carolina,Southeast,Brain Neoplasms,53,8.30914076835556,21.758032721612,Fungicide
+North Carolina,Southeast,Epilepsy,57,36.3416834303401,314.960768662457,Fungicide
+North Carolina,Southeast,Migraine Disorders,52,1174.98022018846,17476.7083803161,Fungicide
+North Carolina,Southeast,Multiple Sclerosis,57,3.02481156645244,120.444627612992,Fungicide
+North Carolina,Southeast,Parkinson Disease,57,45.3186915842446,167.277627621189,Fungicide
+North Dakota,Midwest,Alzheimer's Disease,43,243.98553993377,1831.89797416004,Fungicide
+North Dakota,Midwest,Brain Neoplasms,42,9.69006094560804,28.8700675727676,Fungicide
+North Dakota,Midwest,Epilepsy,43,38.3140257002469,330.865396055788,Fungicide
+North Dakota,Midwest,Migraine Disorders,41,1132.63440152179,16678.2597780845,Fungicide
+North Dakota,Midwest,Multiple Sclerosis,43,4.14230958394942,148.997646106916,Fungicide
+North Dakota,Midwest,Parkinson Disease,43,46.3377523014818,185.345475043528,Fungicide
+Ohio,Midwest,Alzheimer's Disease,58,232.944539848321,1765.74700710752,Fungicide
+Ohio,Midwest,Brain Neoplasms,55,9.09452039295945,22.8372600481125,Fungicide
+Ohio,Midwest,Epilepsy,58,42.3518743968742,398.856195918577,Fungicide
+Ohio,Midwest,Migraine Disorders,54,1137.96396529759,17111.5747379893,Fungicide
+Ohio,Midwest,Multiple Sclerosis,58,3.61073632441671,144.657987137699,Fungicide
+Ohio,Midwest,Parkinson Disease,58,52.5493762590309,203.814039972354,Fungicide
+Oklahoma,Southwest,Alzheimer's Disease,52,198.019126217243,1465.00391026505,Fungicide
+Oklahoma,Southwest,Brain Neoplasms,48,8.41896119578026,20.6624320339167,Fungicide
+Oklahoma,Southwest,Epilepsy,52,40.0577826435665,359.530501808576,Fungicide
+Oklahoma,Southwest,Migraine Disorders,48,1176.96200881504,17035.632687883,Fungicide
+Oklahoma,Southwest,Multiple Sclerosis,52,2.6316694725895,94.7401526740191,Fungicide
+Oklahoma,Southwest,Parkinson Disease,52,45.1695065135932,160.98991485369,Fungicide
+Oregon,West,Alzheimer's Disease,53,205.851029637481,1503.89968167694,Fungicide
+Oregon,West,Brain Neoplasms,51,9.88024179003331,29.371961217356,Fungicide
+Oregon,West,Epilepsy,53,36.1066296428649,316.013527009973,Fungicide
+Oregon,West,Migraine Disorders,50,1133.35431162333,17273.1252617715,Fungicide
+Oregon,West,Multiple Sclerosis,53,3.98668055570305,156.093882689611,Fungicide
+Oregon,West,Parkinson Disease,53,50.1947393596782,186.984991126826,Fungicide
+Pennsylvania,Northeast,Alzheimer's Disease,54,244.557059730533,1811.55327706982,Fungicide
+Pennsylvania,Northeast,Brain Neoplasms,51,9.18607152263854,24.6896807701945,Fungicide
+Pennsylvania,Northeast,Epilepsy,54,40.7125319827659,388.793604381985,Fungicide
+Pennsylvania,Northeast,Migraine Disorders,51,1117.389425494,17174.9795189646,Fungicide
+Pennsylvania,Northeast,Multiple Sclerosis,54,3.82373111962932,160.069154132544,Fungicide
+Pennsylvania,Northeast,Parkinson Disease,54,54.8118599605218,220.332992807956,Fungicide
+Rhode Island,Northeast,Alzheimer's Disease,36,255.475970846781,1935.31252831537,Fungicide
+Rhode Island,Northeast,Brain Neoplasms,34,9.34390471869128,27.1289909029092,Fungicide
+Rhode Island,Northeast,Epilepsy,36,42.5170264833088,415.538918364719,Fungicide
+Rhode Island,Northeast,Migraine Disorders,34,1137.3882046368,17631.3482992026,Fungicide
+Rhode Island,Northeast,Multiple Sclerosis,36,4.72786610036684,194.324215924951,Fungicide
+Rhode Island,Northeast,Parkinson Disease,36,48.4082674370117,191.861127302062,Fungicide
+South Carolina,Southeast,Alzheimer's Disease,54,189.565708062693,1382.19257849726,Fungicide
+South Carolina,Southeast,Brain Neoplasms,52,8.73615041003546,20.6866172904784,Fungicide
+South Carolina,Southeast,Epilepsy,54,38.2008665938663,344.068926592577,Fungicide
+South Carolina,Southeast,Migraine Disorders,52,1150.78814758099,17284.7658018775,Fungicide
+South Carolina,Southeast,Multiple Sclerosis,54,2.75116321058522,110.759654020835,Fungicide
+South Carolina,Southeast,Parkinson Disease,54,46.8225636489553,167.30486066352,Fungicide
+South Dakota,Midwest,Alzheimer's Disease,39,195.473008341809,1372.57852137616,Fungicide
+South Dakota,Midwest,Brain Neoplasms,38,10.0122967630153,28.9296126737972,Fungicide
+South Dakota,Midwest,Epilepsy,39,41.8410924450787,380.214653817099,Fungicide
+South Dakota,Midwest,Migraine Disorders,37,1142.23850695376,16478.6541377528,Fungicide
+South Dakota,Midwest,Multiple Sclerosis,39,3.9021813727345,147.803429144902,Fungicide
+South Dakota,Midwest,Parkinson Disease,39,41.7436666163086,167.813601381659,Fungicide
+Tennessee,Southeast,Alzheimer's Disease,58,195.099507502469,1453.85438183995,Fungicide
+Tennessee,Southeast,Brain Neoplasms,54,8.94602965008836,21.82396653317,Fungicide
+Tennessee,Southeast,Epilepsy,58,38.7152442997388,350.189383667798,Fungicide
+Tennessee,Southeast,Migraine Disorders,53,1162.83205061202,17374.2131248891,Fungicide
+Tennessee,Southeast,Multiple Sclerosis,58,2.89071157709392,115.19718362145,Fungicide
+Tennessee,Southeast,Parkinson Disease,58,44.5346294747352,160.546537812451,Fungicide
+Texas,Southwest,Alzheimer's Disease,57,164.678279180272,1237.189887684,Fungicide
+Texas,Southwest,Brain Neoplasms,53,7.32401431298066,21.4114186911242,Fungicide
+Texas,Southwest,Epilepsy,57,37.073241893278,343.893513002163,Fungicide
+Texas,Southwest,Migraine Disorders,53,1238.70225650034,17448.9655046486,Fungicide
+Texas,Southwest,Multiple Sclerosis,57,2.4198645723701,86.4050293947688,Fungicide
+Texas,Southwest,Parkinson Disease,57,39.9441937092265,155.616632513869,Fungicide
+Utah,West,Alzheimer's Disease,51,100.01967729575,709.387167355901,Fungicide
+Utah,West,Brain Neoplasms,49,6.91502624739812,21.3396873204992,Fungicide
+Utah,West,Epilepsy,51,35.9829750443652,288.433247842865,Fungicide
+Utah,West,Migraine Disorders,48,1311.67151783465,17131.3216079828,Fungicide
+Utah,West,Multiple Sclerosis,51,5.35515895682654,168.19507999845,Fungicide
+Utah,West,Parkinson Disease,51,31.6411409125155,115.854495857215,Fungicide
+Vermont,Northeast,Alzheimer's Disease,41,229.170088152368,1649.0958061531,Fungicide
+Vermont,Northeast,Brain Neoplasms,39,9.60533245968774,27.1793228967089,Fungicide
+Vermont,Northeast,Epilepsy,41,36.0463669055615,323.011999477197,Fungicide
+Vermont,Northeast,Migraine Disorders,39,1082.05480781595,17134.7571221261,Fungicide
+Vermont,Northeast,Multiple Sclerosis,41,3.78979775344571,165.813112458995,Fungicide
+Vermont,Northeast,Parkinson Disease,41,63.6610654260619,253.565179057316,Fungicide
+Virginia,Southeast,Alzheimer's Disease,59,186.533443133339,1380.27367930327,Fungicide
+Virginia,Southeast,Brain Neoplasms,55,8.09873086849552,23.7011593177197,Fungicide
+Virginia,Southeast,Epilepsy,59,39.53484077308,355.030911549836,Fungicide
+Virginia,Southeast,Migraine Disorders,54,1169.59539588561,17567.400424516,Fungicide
+Virginia,Southeast,Multiple Sclerosis,59,3.36797909348352,131.870839619281,Fungicide
+Virginia,Southeast,Parkinson Disease,59,43.0015602496667,166.185561493888,Fungicide
+Washington,West,Alzheimer's Disease,54,177.546327658036,1270.29075890444,Fungicide
+Washington,West,Brain Neoplasms,52,8.09282583148802,18.4676159550603,Fungicide
+Washington,West,Epilepsy,54,38.392619954776,335.917487079549,Fungicide
+Washington,West,Migraine Disorders,52,1154.7297999599,17283.0573937232,Fungicide
+Washington,West,Multiple Sclerosis,54,4.22376187673366,160.942139550298,Fungicide
+Washington,West,Parkinson Disease,54,48.5559287507574,189.552394196512,Fungicide
+West Virginia,Southeast,Alzheimer's Disease,49,246.397293208741,1868.78708907877,Fungicide
+West Virginia,Southeast,Brain Neoplasms,47,9.56964721346079,21.1517311637184,Fungicide
+West Virginia,Southeast,Epilepsy,49,41.3973198556138,407.036724015112,Fungicide
+West Virginia,Southeast,Migraine Disorders,47,1086.78437138554,16940.3126224638,Fungicide
+West Virginia,Southeast,Multiple Sclerosis,49,2.89731997929232,124.843511589192,Fungicide
+West Virginia,Southeast,Parkinson Disease,49,59.9114741584512,223.992918967123,Fungicide
+Wisconsin,Midwest,Alzheimer's Disease,55,207.485906784764,1504.62890393489,Fungicide
+Wisconsin,Midwest,Brain Neoplasms,53,9.94590840657885,30.4884052495691,Fungicide
+Wisconsin,Midwest,Epilepsy,55,43.9326962901769,351.657254468725,Fungicide
+Wisconsin,Midwest,Migraine Disorders,53,1139.81088599754,17061.7003150265,Fungicide
+Wisconsin,Midwest,Multiple Sclerosis,55,3.98368275437535,157.514114203157,Fungicide
+Wisconsin,Midwest,Parkinson Disease,55,45.7286623275231,177.236206023257,Fungicide
+Wyoming,West,Alzheimer's Disease,42,173.551599018126,1229.19619872237,Fungicide
+Wyoming,West,Brain Neoplasms,41,8.39136403059217,23.4168901435979,Fungicide
+Wyoming,West,Epilepsy,42,40.1073021983102,351.858148809389,Fungicide
+Wyoming,West,Migraine Disorders,41,1147.05425668036,16758.9145653839,Fungicide
+Wyoming,West,Multiple Sclerosis,42,4.59476158326081,176.010704967762,Fungicide
+Wyoming,West,Parkinson Disease,42,43.1262841847604,154.988867761039,Fungicide

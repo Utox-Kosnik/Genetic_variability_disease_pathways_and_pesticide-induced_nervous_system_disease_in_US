@@ -1,0 +1,487 @@
+Type,Disease,Year,variable,value
+55+ years,Alzheimer's Disease,1992,Incidence corr coefficient,0.0333801323721333
+55+ years,Multiple Sclerosis,1992,Incidence corr coefficient,0.404757731307698
+55+ years,Parkinson Disease,1992,Incidence corr coefficient,0.383205249926877
+55+ years,Alzheimer's Disease,1993,Incidence corr coefficient,0.0185756925176667
+55+ years,Multiple Sclerosis,1993,Incidence corr coefficient,0.409026306198839
+55+ years,Parkinson Disease,1993,Incidence corr coefficient,0.40887690276534
+55+ years,Alzheimer's Disease,1994,Incidence corr coefficient,0.0827375618123111
+55+ years,Multiple Sclerosis,1994,Incidence corr coefficient,0.467247481505612
+55+ years,Parkinson Disease,1994,Incidence corr coefficient,0.448156105538974
+55+ years,Alzheimer's Disease,1996,Incidence corr coefficient,-0.0404715068859618
+55+ years,Multiple Sclerosis,1996,Incidence corr coefficient,0.398780239108654
+55+ years,Parkinson Disease,1996,Incidence corr coefficient,0.403213533003653
+55+ years,Alzheimer's Disease,1995,Incidence corr coefficient,0.0109148235130167
+55+ years,Multiple Sclerosis,1995,Incidence corr coefficient,0.407114325477104
+55+ years,Parkinson Disease,1995,Incidence corr coefficient,0.406530628080552
+55+ years,Alzheimer's Disease,1998,Incidence corr coefficient,-0.0808484003884666
+55+ years,Multiple Sclerosis,1998,Incidence corr coefficient,0.388162444610693
+55+ years,Parkinson Disease,1998,Incidence corr coefficient,0.417657517018315
+55+ years,Alzheimer's Disease,1997,Incidence corr coefficient,-0.0697771698368644
+55+ years,Multiple Sclerosis,1997,Incidence corr coefficient,0.367599579427238
+55+ years,Parkinson Disease,1997,Incidence corr coefficient,0.402975686584789
+55+ years,Alzheimer's Disease,1999,Incidence corr coefficient,-0.0397449478712748
+55+ years,Multiple Sclerosis,1999,Incidence corr coefficient,0.3951086603824
+55+ years,Parkinson Disease,1999,Incidence corr coefficient,0.435780452631825
+55+ years,Alzheimer's Disease,2000,Incidence corr coefficient,-0.0237585353681332
+55+ years,Multiple Sclerosis,2000,Incidence corr coefficient,0.387398469994685
+55+ years,Parkinson Disease,2000,Incidence corr coefficient,0.431871530842182
+55+ years,Alzheimer's Disease,2001,Incidence corr coefficient,-0.00861744524265771
+55+ years,Multiple Sclerosis,2001,Incidence corr coefficient,0.388803592497271
+55+ years,Parkinson Disease,2001,Incidence corr coefficient,0.421849281718717
+55+ years,Alzheimer's Disease,2002,Incidence corr coefficient,0.00349836544017623
+55+ years,Multiple Sclerosis,2002,Incidence corr coefficient,0.390209196890217
+55+ years,Parkinson Disease,2002,Incidence corr coefficient,0.39240791583493
+55+ years,Alzheimer's Disease,2003,Incidence corr coefficient,0.0301116276289242
+55+ years,Multiple Sclerosis,2003,Incidence corr coefficient,0.369990403168601
+55+ years,Parkinson Disease,2003,Incidence corr coefficient,0.373090135850946
+55+ years,Alzheimer's Disease,2004,Incidence corr coefficient,0.0434726304843962
+55+ years,Multiple Sclerosis,2004,Incidence corr coefficient,0.358958915585033
+55+ years,Parkinson Disease,2004,Incidence corr coefficient,0.352375107562885
+55+ years,Alzheimer's Disease,2005,Incidence corr coefficient,0.0634879862681413
+55+ years,Multiple Sclerosis,2005,Incidence corr coefficient,0.355128335275281
+55+ years,Parkinson Disease,2005,Incidence corr coefficient,0.367094409241679
+55+ years,Alzheimer's Disease,2006,Incidence corr coefficient,0.0748567596179977
+55+ years,Multiple Sclerosis,2006,Incidence corr coefficient,0.350119523054963
+55+ years,Parkinson Disease,2006,Incidence corr coefficient,0.365629223039716
+55+ years,Alzheimer's Disease,2007,Incidence corr coefficient,0.0834677788085074
+55+ years,Multiple Sclerosis,2007,Incidence corr coefficient,0.323305331924517
+55+ years,Parkinson Disease,2007,Incidence corr coefficient,0.359442507099364
+55+ years,Alzheimer's Disease,2008,Incidence corr coefficient,0.110337843325133
+55+ years,Multiple Sclerosis,2008,Incidence corr coefficient,0.315384695837928
+55+ years,Parkinson Disease,2008,Incidence corr coefficient,0.355996628059603
+55+ years,Alzheimer's Disease,2009,Incidence corr coefficient,0.121483302093494
+55+ years,Multiple Sclerosis,2009,Incidence corr coefficient,0.308850089166655
+55+ years,Parkinson Disease,2009,Incidence corr coefficient,0.351769224892317
+55+ years,Alzheimer's Disease,2010,Incidence corr coefficient,0.128180613169436
+55+ years,Multiple Sclerosis,2010,Incidence corr coefficient,0.314164321372361
+55+ years,Parkinson Disease,2010,Incidence corr coefficient,0.3576812990991
+55+ years,Alzheimer's Disease,2011,Incidence corr coefficient,0.123916430374924
+55+ years,Multiple Sclerosis,2011,Incidence corr coefficient,0.324105009121202
+55+ years,Parkinson Disease,2011,Incidence corr coefficient,0.351314678242862
+55+ years,Alzheimer's Disease,2012,Incidence corr coefficient,0.122673106696784
+55+ years,Multiple Sclerosis,2012,Incidence corr coefficient,0.333414676878923
+55+ years,Parkinson Disease,2012,Incidence corr coefficient,0.34379912134328
+55+ years,Alzheimer's Disease,2013,Incidence corr coefficient,0.126132052418451
+55+ years,Multiple Sclerosis,2013,Incidence corr coefficient,0.346451056299004
+55+ years,Parkinson Disease,2013,Incidence corr coefficient,0.343843936017736
+55+ years,Alzheimer's Disease,2014,Incidence corr coefficient,0.131027968358351
+55+ years,Multiple Sclerosis,2014,Incidence corr coefficient,0.352520824593823
+55+ years,Parkinson Disease,2014,Incidence corr coefficient,0.337641006846787
+55+ years,Alzheimer's Disease,2015,Incidence corr coefficient,0.131622746333986
+55+ years,Multiple Sclerosis,2015,Incidence corr coefficient,0.357945552631255
+55+ years,Parkinson Disease,2015,Incidence corr coefficient,0.326223671300415
+55+ years,Alzheimer's Disease,2016,Incidence corr coefficient,0.133457791452453
+55+ years,Multiple Sclerosis,2016,Incidence corr coefficient,0.375712673370815
+55+ years,Parkinson Disease,2016,Incidence corr coefficient,0.298091028830544
+55+ years,Alzheimer's Disease,2017,Incidence corr coefficient,0.137002479139739
+55+ years,Multiple Sclerosis,2017,Incidence corr coefficient,0.392014543629863
+55+ years,Parkinson Disease,2017,Incidence corr coefficient,0.286828146852629
+55+ years,Alzheimer's Disease,2018,Incidence corr coefficient,0.140206473180733
+55+ years,Multiple Sclerosis,2018,Incidence corr coefficient,0.399708067899115
+55+ years,Parkinson Disease,2018,Incidence corr coefficient,0.29813599164099
+55+ years,Alzheimer's Disease,1992,Prevalence corr coefficient,0.0353199321823521
+55+ years,Multiple Sclerosis,1992,Prevalence corr coefficient,0.437320960109366
+55+ years,Parkinson Disease,1992,Prevalence corr coefficient,0.352246276058179
+55+ years,Alzheimer's Disease,1993,Prevalence corr coefficient,0.0105074010659764
+55+ years,Multiple Sclerosis,1993,Prevalence corr coefficient,0.475819516878704
+55+ years,Parkinson Disease,1993,Prevalence corr coefficient,0.367271966821478
+55+ years,Alzheimer's Disease,1994,Prevalence corr coefficient,0.06895970864681
+55+ years,Multiple Sclerosis,1994,Prevalence corr coefficient,0.53680723912706
+55+ years,Parkinson Disease,1994,Prevalence corr coefficient,0.403243995909138
+55+ years,Alzheimer's Disease,1996,Prevalence corr coefficient,-0.0534453896925401
+55+ years,Multiple Sclerosis,1996,Prevalence corr coefficient,0.504308835129296
+55+ years,Parkinson Disease,1996,Prevalence corr coefficient,0.348249674748979
+55+ years,Alzheimer's Disease,1995,Prevalence corr coefficient,-0.0024788541005765
+55+ years,Multiple Sclerosis,1995,Prevalence corr coefficient,0.490795099825672
+55+ years,Parkinson Disease,1995,Prevalence corr coefficient,0.356034097892443
+55+ years,Alzheimer's Disease,1998,Prevalence corr coefficient,-0.10619818115168
+55+ years,Multiple Sclerosis,1998,Prevalence corr coefficient,0.534511016484541
+55+ years,Parkinson Disease,1998,Prevalence corr coefficient,0.35220652574825
+55+ years,Alzheimer's Disease,1997,Prevalence corr coefficient,-0.0889295603268307
+55+ years,Multiple Sclerosis,1997,Prevalence corr coefficient,0.498862869224971
+55+ years,Parkinson Disease,1997,Prevalence corr coefficient,0.344300609891394
+55+ years,Alzheimer's Disease,1999,Prevalence corr coefficient,-0.0715826488220429
+55+ years,Multiple Sclerosis,1999,Prevalence corr coefficient,0.551379326643561
+55+ years,Parkinson Disease,1999,Prevalence corr coefficient,0.372352566798994
+55+ years,Alzheimer's Disease,2000,Prevalence corr coefficient,-0.0556477432622118
+55+ years,Multiple Sclerosis,2000,Prevalence corr coefficient,0.555626989857605
+55+ years,Parkinson Disease,2000,Prevalence corr coefficient,0.37376548209922
+55+ years,Alzheimer's Disease,2001,Prevalence corr coefficient,-0.0379011748178853
+55+ years,Multiple Sclerosis,2001,Prevalence corr coefficient,0.560548704238049
+55+ years,Parkinson Disease,2001,Prevalence corr coefficient,0.368659017678034
+55+ years,Alzheimer's Disease,2002,Prevalence corr coefficient,-0.0241824598069105
+55+ years,Multiple Sclerosis,2002,Prevalence corr coefficient,0.561059885173358
+55+ years,Parkinson Disease,2002,Prevalence corr coefficient,0.344633014508146
+55+ years,Alzheimer's Disease,2003,Prevalence corr coefficient,0.00554105729230323
+55+ years,Multiple Sclerosis,2003,Prevalence corr coefficient,0.54558227800135
+55+ years,Parkinson Disease,2003,Prevalence corr coefficient,0.336459520280431
+55+ years,Alzheimer's Disease,2004,Prevalence corr coefficient,0.0188201127859621
+55+ years,Multiple Sclerosis,2004,Prevalence corr coefficient,0.540123519776145
+55+ years,Parkinson Disease,2004,Prevalence corr coefficient,0.322353020748929
+55+ years,Alzheimer's Disease,2005,Prevalence corr coefficient,0.0388619451135921
+55+ years,Multiple Sclerosis,2005,Prevalence corr coefficient,0.541010134423692
+55+ years,Parkinson Disease,2005,Prevalence corr coefficient,0.345021854233032
+55+ years,Alzheimer's Disease,2006,Prevalence corr coefficient,0.0483948340259636
+55+ years,Multiple Sclerosis,2006,Prevalence corr coefficient,0.542022455659148
+55+ years,Parkinson Disease,2006,Prevalence corr coefficient,0.352722330887742
+55+ years,Alzheimer's Disease,2007,Prevalence corr coefficient,0.0605829816593986
+55+ years,Multiple Sclerosis,2007,Prevalence corr coefficient,0.530595067573416
+55+ years,Parkinson Disease,2007,Prevalence corr coefficient,0.354586019237587
+55+ years,Alzheimer's Disease,2008,Prevalence corr coefficient,0.0863580205173688
+55+ years,Multiple Sclerosis,2008,Prevalence corr coefficient,0.533577279512315
+55+ years,Parkinson Disease,2008,Prevalence corr coefficient,0.358271064042664
+55+ years,Alzheimer's Disease,2009,Prevalence corr coefficient,0.0993804642674277
+55+ years,Multiple Sclerosis,2009,Prevalence corr coefficient,0.531681689703478
+55+ years,Parkinson Disease,2009,Prevalence corr coefficient,0.360474357314994
+55+ years,Alzheimer's Disease,2010,Prevalence corr coefficient,0.107492805356191
+55+ years,Multiple Sclerosis,2010,Prevalence corr coefficient,0.540645087066341
+55+ years,Parkinson Disease,2010,Prevalence corr coefficient,0.370160103403971
+55+ years,Alzheimer's Disease,2011,Prevalence corr coefficient,0.103262226000611
+55+ years,Multiple Sclerosis,2011,Prevalence corr coefficient,0.551746203974764
+55+ years,Parkinson Disease,2011,Prevalence corr coefficient,0.365238845014902
+55+ years,Alzheimer's Disease,2012,Prevalence corr coefficient,0.1026715074301
+55+ years,Multiple Sclerosis,2012,Prevalence corr coefficient,0.558600038213047
+55+ years,Parkinson Disease,2012,Prevalence corr coefficient,0.363967513416079
+55+ years,Alzheimer's Disease,2013,Prevalence corr coefficient,0.105214048320543
+55+ years,Multiple Sclerosis,2013,Prevalence corr coefficient,0.566692122822133
+55+ years,Parkinson Disease,2013,Prevalence corr coefficient,0.373743468909949
+55+ years,Alzheimer's Disease,2014,Prevalence corr coefficient,0.11014458288769
+55+ years,Multiple Sclerosis,2014,Prevalence corr coefficient,0.568130090609795
+55+ years,Parkinson Disease,2014,Prevalence corr coefficient,0.384343958865483
+55+ years,Alzheimer's Disease,2015,Prevalence corr coefficient,0.111062219924557
+55+ years,Multiple Sclerosis,2015,Prevalence corr coefficient,0.56974025893031
+55+ years,Parkinson Disease,2015,Prevalence corr coefficient,0.388408178190417
+55+ years,Alzheimer's Disease,2016,Prevalence corr coefficient,0.111623075056075
+55+ years,Multiple Sclerosis,2016,Prevalence corr coefficient,0.572590514755091
+55+ years,Parkinson Disease,2016,Prevalence corr coefficient,0.389282548741264
+55+ years,Alzheimer's Disease,2017,Prevalence corr coefficient,0.113105002757425
+55+ years,Multiple Sclerosis,2017,Prevalence corr coefficient,0.574059996053284
+55+ years,Parkinson Disease,2017,Prevalence corr coefficient,0.39503813930622
+55+ years,Alzheimer's Disease,2018,Prevalence corr coefficient,0.112801775999537
+55+ years,Multiple Sclerosis,2018,Prevalence corr coefficient,0.575031152864214
+55+ years,Parkinson Disease,2018,Prevalence corr coefficient,0.403635950683652
+55+ years,Alzheimer's Disease,1992,Incidence p_pe,0.821799594905168
+55+ years,Multiple Sclerosis,1992,Incidence p_pe,0.00432331412313692
+55+ years,Parkinson Disease,1992,Incidence p_pe,0.00717914191730092
+55+ years,Alzheimer's Disease,1993,Incidence p_pe,0.900274566129247
+55+ years,Multiple Sclerosis,1993,Incidence p_pe,0.00389471724606339
+55+ years,Parkinson Disease,1993,Incidence p_pe,0.00390906355619132
+55+ years,Alzheimer's Disease,1994,Incidence p_pe,0.57611212849049
+55+ years,Multiple Sclerosis,1994,Incidence p_pe,0.000813440796269243
+55+ years,Parkinson Disease,1994,Incidence p_pe,0.00140154472962081
+55+ years,Alzheimer's Disease,1996,Incidence p_pe,0.784764375664926
+55+ years,Multiple Sclerosis,1996,Incidence p_pe,0.00499276135343818
+55+ years,Parkinson Disease,1996,Incidence p_pe,0.00448824611052729
+55+ years,Alzheimer's Disease,1995,Incidence p_pe,0.94130565171802
+55+ years,Multiple Sclerosis,1995,Incidence p_pe,0.00408184851569388
+55+ years,Parkinson Disease,1995,Incidence p_pe,0.00414052670041557
+55+ years,Alzheimer's Disease,1998,Incidence p_pe,0.584883969892902
+55+ years,Multiple Sclerosis,1998,Incidence p_pe,0.00640721800984962
+55+ years,Parkinson Disease,1998,Incidence p_pe,0.00314051382200868
+55+ years,Alzheimer's Disease,1997,Incidence p_pe,0.637453331623454
+55+ years,Multiple Sclerosis,1997,Incidence p_pe,0.0101592409468447
+55+ years,Parkinson Disease,1997,Incidence p_pe,0.00451413359912122
+55+ years,Alzheimer's Disease,1999,Incidence p_pe,0.788538767569514
+55+ years,Multiple Sclerosis,1999,Incidence p_pe,0.00544743634383414
+55+ years,Parkinson Disease,1999,Incidence p_pe,0.00196186961660407
+55+ years,Alzheimer's Disease,2000,Incidence p_pe,0.872654538939174
+55+ years,Multiple Sclerosis,2000,Incidence p_pe,0.00652125778406916
+55+ years,Parkinson Disease,2000,Incidence p_pe,0.00217614242472275
+55+ years,Alzheimer's Disease,2001,Incidence p_pe,0.953644535268292
+55+ years,Multiple Sclerosis,2001,Incidence p_pe,0.00631285546445167
+55+ years,Parkinson Disease,2001,Incidence p_pe,0.0028230802937231
+55+ years,Alzheimer's Disease,2002,Incidence p_pe,0.981172829109559
+55+ years,Multiple Sclerosis,2002,Incidence p_pe,0.00611020352390942
+55+ years,Parkinson Disease,2002,Incidence p_pe,0.00580456160406985
+55+ years,Alzheimer's Disease,2003,Incidence p_pe,0.839005042114119
+55+ years,Multiple Sclerosis,2003,Incidence p_pe,0.00964314488076007
+55+ years,Parkinson Disease,2003,Incidence p_pe,0.00900777542956806
+55+ years,Alzheimer's Disease,2004,Incidence p_pe,0.769226574358053
+55+ years,Multiple Sclerosis,2004,Incidence p_pe,0.0122275663970679
+55+ years,Parkinson Disease,2004,Incidence p_pe,0.0140365368727912
+55+ years,Alzheimer's Disease,2005,Incidence p_pe,0.668144402660746
+55+ years,Multiple Sclerosis,2005,Incidence p_pe,0.0132540432440675
+55+ years,Parkinson Disease,2005,Incidence p_pe,0.0102712808781619
+55+ years,Alzheimer's Disease,2006,Incidence p_pe,0.613093581503635
+55+ years,Multiple Sclerosis,2006,Incidence p_pe,0.014706651242067
+55+ years,Parkinson Disease,2006,Incidence p_pe,0.0106022731321267
+55+ years,Alzheimer's Disease,2007,Incidence p_pe,0.572737718407679
+55+ years,Multiple Sclerosis,2007,Incidence p_pe,0.0249965786537888
+55+ years,Parkinson Disease,2007,Incidence p_pe,0.0121029537373375
+55+ years,Alzheimer's Disease,2008,Incidence p_pe,0.455319244685078
+55+ years,Multiple Sclerosis,2008,Incidence p_pe,0.0289979381913277
+55+ years,Parkinson Disease,2008,Incidence p_pe,0.013015132105628
+55+ years,Alzheimer's Disease,2009,Incidence p_pe,0.410776511044969
+55+ years,Multiple Sclerosis,2009,Incidence p_pe,0.0326879337598668
+55+ years,Parkinson Disease,2009,Incidence p_pe,0.0142139281465336
+55+ years,Alzheimer's Disease,2010,Incidence p_pe,0.385261996047682
+55+ years,Multiple Sclerosis,2010,Incidence p_pe,0.0296594262963497
+55+ years,Parkinson Disease,2010,Incidence p_pe,0.0125620843537878
+55+ years,Alzheimer's Disease,2011,Incidence p_pe,0.40139693469363
+55+ years,Multiple Sclerosis,2011,Incidence p_pe,0.0246196344078444
+55+ years,Parkinson Disease,2011,Incidence p_pe,0.0143482632130298
+55+ years,Alzheimer's Disease,2012,Incidence p_pe,0.406174250898986
+55+ years,Multiple Sclerosis,2012,Incidence p_pe,0.0205706446591823
+55+ years,Parkinson Disease,2012,Incidence p_pe,0.0167313430105717
+55+ years,Alzheimer's Disease,2013,Incidence p_pe,0.392965003503892
+55+ years,Multiple Sclerosis,2013,Incidence p_pe,0.0158547176279176
+55+ years,Parkinson Disease,2013,Incidence p_pe,0.016716194229048
+55+ years,Alzheimer's Disease,2014,Incidence p_pe,0.374704855486901
+55+ years,Multiple Sclerosis,2014,Incidence p_pe,0.0139941565277236
+55+ years,Parkinson Disease,2014,Incidence p_pe,0.0189268567305474
+55+ years,Alzheimer's Disease,2015,Incidence p_pe,0.372521641445434
+55+ years,Multiple Sclerosis,2015,Incidence p_pe,0.0124922596591128
+55+ years,Parkinson Disease,2015,Incidence p_pe,0.0236439098343278
+55+ years,Alzheimer's Disease,2016,Incidence p_pe,0.365834039600796
+55+ years,Multiple Sclerosis,2016,Incidence p_pe,0.00849876857338421
+55+ years,Parkinson Disease,2016,Incidence p_pe,0.0396055985600528
+55+ years,Alzheimer's Disease,2017,Incidence p_pe,0.353122659472057
+55+ years,Multiple Sclerosis,2017,Incidence p_pe,0.00585824440835545
+55+ years,Parkinson Disease,2017,Incidence p_pe,0.0480902218614329
+55+ years,Alzheimer's Disease,2018,Incidence p_pe,0.341868578559752
+55+ years,Multiple Sclerosis,2018,Incidence p_pe,0.00488325343009804
+55+ years,Parkinson Disease,2018,Incidence p_pe,0.0395743692430905
+55+ years,Alzheimer's Disease,1992,Prevalence p_pe,0.811626977586942
+55+ years,Multiple Sclerosis,1992,Prevalence p_pe,0.00188270866597533
+55+ years,Parkinson Disease,1992,Prevalence p_pe,0.014074097396032
+55+ years,Alzheimer's Disease,1993,Prevalence p_pe,0.943492947220556
+55+ years,Multiple Sclerosis,1993,Prevalence p_pe,0.000630547411425151
+55+ years,Parkinson Disease,1993,Prevalence p_pe,0.0102317804287822
+55+ years,Alzheimer's Disease,1994,Prevalence p_pe,0.641410081950008
+55+ years,Multiple Sclerosis,1994,Prevalence p_pe,8.37624876560327e-05
+55+ years,Parkinson Disease,1994,Prevalence p_pe,0.00448493990286532
+55+ years,Alzheimer's Disease,1996,Prevalence p_pe,0.718265362964946
+55+ years,Multiple Sclerosis,1996,Prevalence p_pe,0.000257430526270761
+55+ years,Parkinson Disease,1996,Prevalence p_pe,0.0152826517798569
+55+ years,Alzheimer's Disease,1995,Prevalence p_pe,0.986658942269823
+55+ years,Multiple Sclerosis,1995,Prevalence p_pe,0.000397587136922452
+55+ years,Parkinson Disease,1995,Prevalence p_pe,0.0130049056956708
+55+ years,Alzheimer's Disease,1998,Prevalence p_pe,0.472508537549038
+55+ years,Multiple Sclerosis,1998,Prevalence p_pe,9.10229572210998e-05
+55+ years,Parkinson Disease,1998,Prevalence p_pe,0.0140857038030115
+55+ years,Alzheimer's Disease,1997,Prevalence p_pe,0.547790625722857
+55+ years,Multiple Sclerosis,1997,Prevalence p_pe,0.000307380955927389
+55+ years,Parkinson Disease,1997,Prevalence p_pe,0.016562486621377
+55+ years,Alzheimer's Disease,1999,Prevalence p_pe,0.628749734146642
+55+ years,Multiple Sclerosis,1999,Prevalence p_pe,4.87228115481846e-05
+55+ years,Parkinson Disease,1999,Prevalence p_pe,0.00915558689631834
+55+ years,Alzheimer's Disease,2000,Prevalence p_pe,0.70716409873169
+55+ years,Multiple Sclerosis,2000,Prevalence p_pe,4.14056266167772e-05
+55+ years,Parkinson Disease,2000,Prevalence p_pe,0.0088742448409745
+55+ years,Alzheimer's Disease,2001,Prevalence p_pe,0.798138345317895
+55+ years,Multiple Sclerosis,2001,Prevalence p_pe,3.41946725074751e-05
+55+ years,Parkinson Disease,2001,Prevalence p_pe,0.0099276837674544
+55+ years,Alzheimer's Disease,2002,Prevalence p_pe,0.870401567191642
+55+ years,Multiple Sclerosis,2002,Prevalence p_pe,3.35159646864036e-05
+55+ years,Parkinson Disease,2002,Prevalence p_pe,0.0164513617382121
+55+ years,Alzheimer's Disease,2003,Prevalence p_pe,0.970183701279972
+55+ years,Multiple Sclerosis,2003,Prevalence p_pe,6.0624917763101e-05
+55+ years,Parkinson Disease,2003,Prevalence p_pe,0.0193747933289688
+55+ years,Alzheimer's Disease,2004,Prevalence p_pe,0.898969131598177
+55+ years,Multiple Sclerosis,2004,Prevalence p_pe,7.42074251393063e-05
+55+ years,Parkinson Disease,2004,Prevalence p_pe,0.0254517605175702
+55+ years,Alzheimer's Disease,2005,Prevalence p_pe,0.793132329214794
+55+ years,Multiple Sclerosis,2005,Prevalence p_pe,7.18274531981778e-05
+55+ years,Parkinson Disease,2005,Prevalence p_pe,0.0163221744043353
+55+ years,Alzheimer's Disease,2006,Prevalence p_pe,0.743938226562461
+55+ years,Multiple Sclerosis,2006,Prevalence p_pe,6.91954844699351e-05
+55+ years,Parkinson Disease,2006,Prevalence p_pe,0.0139357303668608
+55+ years,Alzheimer's Disease,2007,Prevalence p_pe,0.682507881555322
+55+ years,Multiple Sclerosis,2007,Prevalence p_pe,0.000104741719326058
+55+ years,Parkinson Disease,2007,Prevalence p_pe,0.0134051553189447
+55+ years,Alzheimer's Disease,2008,Prevalence p_pe,0.559471439795709
+55+ years,Multiple Sclerosis,2008,Prevalence p_pe,9.41362255834475e-05
+55+ years,Parkinson Disease,2008,Prevalence p_pe,0.0124067055020212
+55+ years,Alzheimer's Disease,2009,Prevalence p_pe,0.501554842339319
+55+ years,Multiple Sclerosis,2009,Prevalence p_pe,0.000100757359794476
+55+ years,Parkinson Disease,2009,Prevalence p_pe,0.0118406982642223
+55+ years,Alzheimer's Disease,2010,Prevalence p_pe,0.467095999213489
+55+ years,Multiple Sclerosis,2010,Prevalence p_pe,7.27987825568953e-05
+55+ years,Parkinson Disease,2010,Prevalence p_pe,0.00960738718806808
+55+ years,Alzheimer's Disease,2011,Prevalence p_pe,0.484905866267545
+55+ years,Multiple Sclerosis,2011,Prevalence p_pe,4.80469702279859e-05
+55+ years,Parkinson Disease,2011,Prevalence p_pe,0.0106919932797616
+55+ years,Alzheimer's Disease,2012,Prevalence p_pe,0.487420647782786
+55+ years,Multiple Sclerosis,2012,Prevalence p_pe,3.68992968443384e-05
+55+ years,Parkinson Disease,2012,Prevalence p_pe,0.0109887201931366
+55+ years,Alzheimer's Disease,2013,Prevalence p_pe,0.476645214196628
+55+ years,Multiple Sclerosis,2013,Prevalence p_pe,2.68140622645409e-05
+55+ years,Parkinson Disease,2013,Prevalence p_pe,0.0088785702228675
+55+ years,Alzheimer's Disease,2014,Prevalence p_pe,0.456114073635254
+55+ years,Multiple Sclerosis,2014,Prevalence p_pe,2.53128701337957e-05
+55+ years,Parkinson Disease,2014,Prevalence p_pe,0.00699502740098598
+55+ years,Alzheimer's Disease,2015,Prevalence p_pe,0.452346795622946
+55+ years,Multiple Sclerosis,2015,Prevalence p_pe,2.37238282956935e-05
+55+ years,Parkinson Disease,2015,Prevalence p_pe,0.00637090754838964
+55+ years,Alzheimer's Disease,2016,Prevalence p_pe,0.450052652730879
+55+ years,Multiple Sclerosis,2016,Prevalence p_pe,2.11339075191435e-05
+55+ years,Parkinson Disease,2016,Prevalence p_pe,0.00624315513017712
+55+ years,Alzheimer's Disease,2017,Prevalence p_pe,0.444021708667751
+55+ years,Multiple Sclerosis,2017,Prevalence p_pe,1.99027518546977e-05
+55+ years,Parkinson Disease,2017,Prevalence p_pe,0.00545651187618534
+55+ years,Alzheimer's Disease,2018,Prevalence p_pe,0.445252095102605
+55+ years,Multiple Sclerosis,2018,Prevalence p_pe,1.91256955466968e-05
+55+ years,Parkinson Disease,2018,Prevalence p_pe,0.00444259007116811
+55+ years,Alzheimer's Disease,1992,Incidence RMSE,74.5369520698423
+55+ years,Multiple Sclerosis,1992,Incidence RMSE,0.0483137474998213
+55+ years,Parkinson Disease,1992,Incidence RMSE,4.36898412184934
+55+ years,Alzheimer's Disease,1993,Incidence RMSE,75.8611629135115
+55+ years,Multiple Sclerosis,1993,Incidence RMSE,0.0480721886150266
+55+ years,Parkinson Disease,1993,Incidence RMSE,4.42761366361438
+55+ years,Alzheimer's Disease,1994,Incidence RMSE,77.1061591780369
+55+ years,Multiple Sclerosis,1994,Incidence RMSE,0.0466994521282661
+55+ years,Parkinson Disease,1994,Incidence RMSE,4.44973864279249
+55+ years,Alzheimer's Disease,1996,Incidence RMSE,81.4080548407095
+55+ years,Multiple Sclerosis,1996,Incidence RMSE,0.0493105786069902
+55+ years,Parkinson Disease,1996,Incidence RMSE,4.82580201579948
+55+ years,Alzheimer's Disease,1995,Incidence RMSE,78.962317807958
+55+ years,Multiple Sclerosis,1995,Incidence RMSE,0.0486604430968169
+55+ years,Parkinson Disease,1995,Incidence RMSE,4.65990579809748
+55+ years,Alzheimer's Disease,1998,Incidence RMSE,88.3735476232837
+55+ years,Multiple Sclerosis,1998,Incidence RMSE,0.0503621381732839
+55+ years,Parkinson Disease,1998,Incidence RMSE,5.21379818852121
+55+ years,Alzheimer's Disease,1997,Incidence RMSE,84.7934380105251
+55+ years,Multiple Sclerosis,1997,Incidence RMSE,0.0501956300041452
+55+ years,Parkinson Disease,1997,Incidence RMSE,5.04916398446456
+55+ years,Alzheimer's Disease,1999,Incidence RMSE,91.9128322730513
+55+ years,Multiple Sclerosis,1999,Incidence RMSE,0.0507502111215818
+55+ years,Parkinson Disease,1999,Incidence RMSE,5.37093168177682
+55+ years,Alzheimer's Disease,2000,Incidence RMSE,93.9379500404438
+55+ years,Multiple Sclerosis,2000,Incidence RMSE,0.0513150312266114
+55+ years,Parkinson Disease,2000,Incidence RMSE,5.54486570656324
+55+ years,Alzheimer's Disease,2001,Incidence RMSE,94.8962929611259
+55+ years,Multiple Sclerosis,2001,Incidence RMSE,0.0514800409325914
+55+ years,Parkinson Disease,2001,Incidence RMSE,5.76130530959113
+55+ years,Alzheimer's Disease,2002,Incidence RMSE,94.8386077778536
+55+ years,Multiple Sclerosis,2002,Incidence RMSE,0.0525152159879638
+55+ years,Parkinson Disease,2002,Incidence RMSE,6.04964789219437
+55+ years,Alzheimer's Disease,2003,Incidence RMSE,94.514180834401
+55+ years,Multiple Sclerosis,2003,Incidence RMSE,0.053679526892144
+55+ years,Parkinson Disease,2003,Incidence RMSE,6.35672765834005
+55+ years,Alzheimer's Disease,2004,Incidence RMSE,93.8805858777491
+55+ years,Multiple Sclerosis,2004,Incidence RMSE,0.0545498002893188
+55+ years,Parkinson Disease,2004,Incidence RMSE,6.65343602241549
+55+ years,Alzheimer's Disease,2005,Incidence RMSE,92.7845079247322
+55+ years,Multiple Sclerosis,2005,Incidence RMSE,0.0555547647683095
+55+ years,Parkinson Disease,2005,Incidence RMSE,6.72283038395239
+55+ years,Alzheimer's Disease,2006,Incidence RMSE,91.6817154251661
+55+ years,Multiple Sclerosis,2006,Incidence RMSE,0.0566671388466952
+55+ years,Parkinson Disease,2006,Incidence RMSE,6.69973160344324
+55+ years,Alzheimer's Disease,2007,Incidence RMSE,90.2996255096891
+55+ years,Multiple Sclerosis,2007,Incidence RMSE,0.0572834749816356
+55+ years,Parkinson Disease,2007,Incidence RMSE,6.63400197167711
+55+ years,Alzheimer's Disease,2008,Incidence RMSE,88.6100690607473
+55+ years,Multiple Sclerosis,2008,Incidence RMSE,0.0574219013414256
+55+ years,Parkinson Disease,2008,Incidence RMSE,6.542666123964
+55+ years,Alzheimer's Disease,2009,Incidence RMSE,86.5485820530671
+55+ years,Multiple Sclerosis,2009,Incidence RMSE,0.0575645617723605
+55+ years,Parkinson Disease,2009,Incidence RMSE,6.44996209600599
+55+ years,Alzheimer's Disease,2010,Incidence RMSE,84.2201940172637
+55+ years,Multiple Sclerosis,2010,Incidence RMSE,0.0572490694277353
+55+ years,Parkinson Disease,2010,Incidence RMSE,6.3622034397644
+55+ years,Alzheimer's Disease,2011,Incidence RMSE,81.9778000210403
+55+ years,Multiple Sclerosis,2011,Incidence RMSE,0.0568733465367742
+55+ years,Parkinson Disease,2011,Incidence RMSE,6.45492259084047
+55+ years,Alzheimer's Disease,2012,Incidence RMSE,79.7154576150519
+55+ years,Multiple Sclerosis,2012,Incidence RMSE,0.0562327165339349
+55+ years,Parkinson Disease,2012,Incidence RMSE,6.77192675329409
+55+ years,Alzheimer's Disease,2013,Incidence RMSE,77.1501052827115
+55+ years,Multiple Sclerosis,2013,Incidence RMSE,0.0554734991174933
+55+ years,Parkinson Disease,2013,Incidence RMSE,7.24449224871264
+55+ years,Alzheimer's Disease,2014,Incidence RMSE,74.2284164809184
+55+ years,Multiple Sclerosis,2014,Incidence RMSE,0.0548337015115955
+55+ years,Parkinson Disease,2014,Incidence RMSE,7.85186382379482
+55+ years,Alzheimer's Disease,2015,Incidence RMSE,71.4629724831384
+55+ years,Multiple Sclerosis,2015,Incidence RMSE,0.0541694303175946
+55+ years,Parkinson Disease,2015,Incidence RMSE,8.5584565583308
+55+ years,Alzheimer's Disease,2016,Incidence RMSE,69.0613542893169
+55+ years,Multiple Sclerosis,2016,Incidence RMSE,0.0531597705827277
+55+ years,Parkinson Disease,2016,Incidence RMSE,9.83611627472189
+55+ years,Alzheimer's Disease,2017,Incidence RMSE,67.2220361539933
+55+ years,Multiple Sclerosis,2017,Incidence RMSE,0.0522138479953876
+55+ years,Parkinson Disease,2017,Incidence RMSE,11.0112625399632
+55+ years,Alzheimer's Disease,2018,Incidence RMSE,65.6483890489246
+55+ years,Multiple Sclerosis,2018,Incidence RMSE,0.0510280496590303
+55+ years,Parkinson Disease,2018,Incidence RMSE,11.3473283065931
+55+ years,Alzheimer's Disease,1992,Prevalence RMSE,579.704095998005
+55+ years,Multiple Sclerosis,1992,Prevalence RMSE,35.8779984826001
+55+ years,Parkinson Disease,1992,Prevalence RMSE,45.8167943028708
+55+ years,Alzheimer's Disease,1993,Prevalence RMSE,590.574679506916
+55+ years,Multiple Sclerosis,1993,Prevalence RMSE,34.2721156214103
+55+ years,Parkinson Disease,1993,Prevalence RMSE,46.4469145811644
+55+ years,Alzheimer's Disease,1994,Prevalence RMSE,601.526028356358
+55+ years,Multiple Sclerosis,1994,Prevalence RMSE,32.3098238634352
+55+ years,Parkinson Disease,1994,Prevalence RMSE,46.6708680854452
+55+ years,Alzheimer's Disease,1996,Prevalence RMSE,636.382466702052
+55+ years,Multiple Sclerosis,1996,Prevalence RMSE,32.596789387414
+55+ years,Parkinson Disease,1996,Prevalence RMSE,51.0671451278809
+55+ years,Alzheimer's Disease,1995,Prevalence RMSE,615.607270275387
+55+ years,Multiple Sclerosis,1995,Prevalence RMSE,32.998568714585
+55+ years,Parkinson Disease,1995,Prevalence RMSE,48.7109521643451
+55+ years,Alzheimer's Disease,1998,Prevalence RMSE,708.995371288955
+55+ years,Multiple Sclerosis,1998,Prevalence RMSE,32.5045431199253
+55+ years,Parkinson Disease,1998,Prevalence RMSE,58.8652705735282
+55+ years,Alzheimer's Disease,1997,Prevalence RMSE,669.749770983647
+55+ years,Multiple Sclerosis,1997,Prevalence RMSE,32.8930384201081
+55+ years,Parkinson Disease,1997,Prevalence RMSE,54.9890849695456
+55+ years,Alzheimer's Disease,1999,Prevalence RMSE,749.106573288005
+55+ years,Multiple Sclerosis,1999,Prevalence RMSE,32.5846553892401
+55+ years,Parkinson Disease,1999,Prevalence RMSE,62.0465951646221
+55+ years,Alzheimer's Disease,2000,Prevalence RMSE,771.07288594078
+55+ years,Multiple Sclerosis,2000,Prevalence RMSE,32.8154030006863
+55+ years,Parkinson Disease,2000,Prevalence RMSE,64.183011956414
+55+ years,Alzheimer's Disease,2001,Prevalence RMSE,779.967999937326
+55+ years,Multiple Sclerosis,2001,Prevalence RMSE,32.8968817110216
+55+ years,Parkinson Disease,2001,Prevalence RMSE,66.2169904201049
+55+ years,Alzheimer's Disease,2002,Prevalence RMSE,779.452217750472
+55+ years,Multiple Sclerosis,2002,Prevalence RMSE,33.1555241242658
+55+ years,Parkinson Disease,2002,Prevalence RMSE,68.9099818733387
+55+ years,Alzheimer's Disease,2003,Prevalence RMSE,778.093755549972
+55+ years,Multiple Sclerosis,2003,Prevalence RMSE,33.8593707370018
+55+ years,Parkinson Disease,2003,Prevalence RMSE,71.5856217020578
+55+ years,Alzheimer's Disease,2004,Prevalence RMSE,774.09646224207
+55+ years,Multiple Sclerosis,2004,Prevalence RMSE,34.2638549976148
+55+ years,Parkinson Disease,2004,Prevalence RMSE,74.0664769425463
+55+ years,Alzheimer's Disease,2005,Prevalence RMSE,767.171281061451
+55+ years,Multiple Sclerosis,2005,Prevalence RMSE,34.4895023423246
+55+ years,Parkinson Disease,2005,Prevalence RMSE,73.871716565801
+55+ years,Alzheimer's Disease,2006,Prevalence RMSE,759.897828265985
+55+ years,Multiple Sclerosis,2006,Prevalence RMSE,34.6174143171238
+55+ years,Parkinson Disease,2006,Prevalence RMSE,72.8122642587448
+55+ years,Alzheimer's Disease,2007,Prevalence RMSE,750.38860886345
+55+ years,Multiple Sclerosis,2007,Prevalence RMSE,35.0554456788878
+55+ years,Parkinson Disease,2007,Prevalence RMSE,71.6653710067223
+55+ years,Alzheimer's Disease,2008,Prevalence RMSE,738.337871047466
+55+ years,Multiple Sclerosis,2008,Prevalence RMSE,35.1020942894838
+55+ years,Parkinson Disease,2008,Prevalence RMSE,70.4184865543828
+55+ years,Alzheimer's Disease,2009,Prevalence RMSE,722.898446226238
+55+ years,Multiple Sclerosis,2009,Prevalence RMSE,35.2653980676287
+55+ years,Parkinson Disease,2009,Prevalence RMSE,68.9845934961364
+55+ years,Alzheimer's Disease,2010,Prevalence RMSE,705.748378204399
+55+ years,Multiple Sclerosis,2010,Prevalence RMSE,35.1637236606302
+55+ years,Parkinson Disease,2010,Prevalence RMSE,67.2955910767033
+55+ years,Alzheimer's Disease,2011,Prevalence RMSE,688.490561484098
+55+ years,Multiple Sclerosis,2011,Prevalence RMSE,34.976814951481
+55+ years,Parkinson Disease,2011,Prevalence RMSE,66.1342750300706
+55+ years,Alzheimer's Disease,2012,Prevalence RMSE,670.327559088174
+55+ years,Multiple Sclerosis,2012,Prevalence RMSE,34.8566976925958
+55+ years,Parkinson Disease,2012,Prevalence RMSE,65.1630324835997
+55+ years,Alzheimer's Disease,2013,Prevalence RMSE,650.535638895937
+55+ years,Multiple Sclerosis,2013,Prevalence RMSE,34.6773176920766
+55+ years,Parkinson Disease,2013,Prevalence RMSE,64.1294974751541
+55+ years,Alzheimer's Disease,2014,Prevalence RMSE,627.376569202857
+55+ years,Multiple Sclerosis,2014,Prevalence RMSE,34.6844622602149
+55+ years,Parkinson Disease,2014,Prevalence RMSE,63.0636253524491
+55+ years,Alzheimer's Disease,2015,Prevalence RMSE,605.81745305291
+55+ years,Multiple Sclerosis,2015,Prevalence RMSE,34.6783173015055
+55+ years,Parkinson Disease,2015,Prevalence RMSE,62.3866814116503
+55+ years,Alzheimer's Disease,2016,Prevalence RMSE,586.843345119335
+55+ years,Multiple Sclerosis,2016,Prevalence RMSE,34.5422533605408
+55+ years,Parkinson Disease,2016,Prevalence RMSE,61.9256364679626
+55+ years,Alzheimer's Disease,2017,Prevalence RMSE,572.187100367297
+55+ years,Multiple Sclerosis,2017,Prevalence RMSE,34.4011155026149
+55+ years,Parkinson Disease,2017,Prevalence RMSE,61.8300521680478
+55+ years,Alzheimer's Disease,2018,Prevalence RMSE,559.791811185075
+55+ years,Multiple Sclerosis,2018,Prevalence RMSE,34.3269573772906
+55+ years,Parkinson Disease,2018,Prevalence RMSE,61.9377851967669

@@ -1,0 +1,37 @@
+Pest_Type,Label,Pesticides,Category
+Herbicides,Both,111,All
+Insecticide,Both,95,All
+Insecticide,Low States,107,All
+Herbicides,Low States,133,All
+Fungicides,Both,66,All
+Fungicides,Low States,71,All
+Herbicides,High States,110,All
+Insecticide,High States,96,All
+Fungicides,High States,66,All
+Herbicides,Both,50,Alzheimer's Disease
+Insecticide,Both,53,Alzheimer's Disease
+Herbicides,Low States,92,Alzheimer's Disease
+Insecticide,Low States,75,Alzheimer's Disease
+Herbicides,High States,52,Alzheimer's Disease
+Fungicides,Both,35,Alzheimer's Disease
+Fungicides,Low States,48,Alzheimer's Disease
+Insecticide,High States,58,Alzheimer's Disease
+Fungicides,High States,45,Alzheimer's Disease
+Herbicides,Both,50,Multiple Sclerosis
+Insecticide,Both,51,Multiple Sclerosis
+Herbicides,Low States,92,Multiple Sclerosis
+Insecticide,Low States,75,Multiple Sclerosis
+Herbicides,High States,53,Multiple Sclerosis
+Fungicides,Both,33,Multiple Sclerosis
+Fungicides,Low States,45,Multiple Sclerosis
+Insecticide,High States,57,Multiple Sclerosis
+Fungicides,High States,43,Multiple Sclerosis
+Herbicides,Both,50,Parkinson Disease
+Insecticide,Both,52,Parkinson Disease
+Herbicides,Low States,90,Parkinson Disease
+Insecticide,Low States,68,Parkinson Disease
+Herbicides,High States,53,Parkinson Disease
+Fungicides,Both,29,Parkinson Disease
+Fungicides,Low States,41,Parkinson Disease
+Insecticide,High States,61,Parkinson Disease
+Fungicides,High States,44,Parkinson Disease

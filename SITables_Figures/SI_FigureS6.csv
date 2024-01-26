@@ -1,0 +1,487 @@
+Type,Disease,Year,variable,value
+Genes,Alzheimer's Disease,1992,Incidence corr coefficient,0.097399486076641
+Genes,Multiple Sclerosis,1992,Incidence corr coefficient,0.58325148053929
+Genes,Parkinson Disease,1992,Incidence corr coefficient,0.243195035163546
+Genes,Alzheimer's Disease,1993,Incidence corr coefficient,0.0873267354024429
+Genes,Multiple Sclerosis,1993,Incidence corr coefficient,0.603579616482616
+Genes,Parkinson Disease,1993,Incidence corr coefficient,0.24365719073786
+Genes,Alzheimer's Disease,1994,Incidence corr coefficient,0.135644039288573
+Genes,Multiple Sclerosis,1994,Incidence corr coefficient,0.644899658681428
+Genes,Parkinson Disease,1994,Incidence corr coefficient,0.295456655362419
+Genes,Alzheimer's Disease,1995,Incidence corr coefficient,0.092458591512876
+Genes,Multiple Sclerosis,1995,Incidence corr coefficient,0.57730644428904
+Genes,Parkinson Disease,1995,Incidence corr coefficient,0.272664714544092
+Genes,Alzheimer's Disease,1996,Incidence corr coefficient,0.0642808367576139
+Genes,Multiple Sclerosis,1996,Incidence corr coefficient,0.592950192247377
+Genes,Parkinson Disease,1996,Incidence corr coefficient,0.275249846334416
+Genes,Alzheimer's Disease,1998,Incidence corr coefficient,0.0539950928357593
+Genes,Multiple Sclerosis,1998,Incidence corr coefficient,0.626756796721839
+Genes,Parkinson Disease,1998,Incidence corr coefficient,0.317462105975118
+Genes,Alzheimer's Disease,1997,Incidence corr coefficient,0.0474719385871933
+Genes,Multiple Sclerosis,1997,Incidence corr coefficient,0.605712069147699
+Genes,Parkinson Disease,1997,Incidence corr coefficient,0.287886461279149
+Genes,Alzheimer's Disease,1999,Incidence corr coefficient,0.0793361768364428
+Genes,Multiple Sclerosis,1999,Incidence corr coefficient,0.624999018122352
+Genes,Parkinson Disease,1999,Incidence corr coefficient,0.343450013367102
+Genes,Alzheimer's Disease,2000,Incidence corr coefficient,0.087574867218927
+Genes,Multiple Sclerosis,2000,Incidence corr coefficient,0.621434695698818
+Genes,Parkinson Disease,2000,Incidence corr coefficient,0.342588004019731
+Genes,Alzheimer's Disease,2001,Incidence corr coefficient,0.101291457318745
+Genes,Multiple Sclerosis,2001,Incidence corr coefficient,0.61692709663447
+Genes,Parkinson Disease,2001,Incidence corr coefficient,0.350711132477666
+Genes,Alzheimer's Disease,2002,Incidence corr coefficient,0.107905898015414
+Genes,Multiple Sclerosis,2002,Incidence corr coefficient,0.612712258886707
+Genes,Parkinson Disease,2002,Incidence corr coefficient,0.343983109190887
+Genes,Alzheimer's Disease,2003,Incidence corr coefficient,0.139158555911676
+Genes,Multiple Sclerosis,2003,Incidence corr coefficient,0.591892036391897
+Genes,Parkinson Disease,2003,Incidence corr coefficient,0.356010236090379
+Genes,Alzheimer's Disease,2004,Incidence corr coefficient,0.145037317754482
+Genes,Multiple Sclerosis,2004,Incidence corr coefficient,0.579680482902847
+Genes,Parkinson Disease,2004,Incidence corr coefficient,0.34861334089897
+Genes,Alzheimer's Disease,2005,Incidence corr coefficient,0.155761082728858
+Genes,Multiple Sclerosis,2005,Incidence corr coefficient,0.580201718548026
+Genes,Parkinson Disease,2005,Incidence corr coefficient,0.358835547962289
+Genes,Alzheimer's Disease,2006,Incidence corr coefficient,0.165203749798065
+Genes,Multiple Sclerosis,2006,Incidence corr coefficient,0.574304616763159
+Genes,Parkinson Disease,2006,Incidence corr coefficient,0.361206932746382
+Genes,Alzheimer's Disease,2007,Incidence corr coefficient,0.173946506774394
+Genes,Multiple Sclerosis,2007,Incidence corr coefficient,0.55141593398762
+Genes,Parkinson Disease,2007,Incidence corr coefficient,0.363459585516938
+Genes,Alzheimer's Disease,2008,Incidence corr coefficient,0.201626739080553
+Genes,Multiple Sclerosis,2008,Incidence corr coefficient,0.545757810825153
+Genes,Parkinson Disease,2008,Incidence corr coefficient,0.373972585294382
+Genes,Alzheimer's Disease,2009,Incidence corr coefficient,0.209879848565545
+Genes,Multiple Sclerosis,2009,Incidence corr coefficient,0.531258651838861
+Genes,Parkinson Disease,2009,Incidence corr coefficient,0.373043028290501
+Genes,Alzheimer's Disease,2010,Incidence corr coefficient,0.219622351823707
+Genes,Multiple Sclerosis,2010,Incidence corr coefficient,0.533190633314148
+Genes,Parkinson Disease,2010,Incidence corr coefficient,0.381462010279096
+Genes,Alzheimer's Disease,2011,Incidence corr coefficient,0.222463901983763
+Genes,Multiple Sclerosis,2011,Incidence corr coefficient,0.53538021601482
+Genes,Parkinson Disease,2011,Incidence corr coefficient,0.378414237896869
+Genes,Alzheimer's Disease,2012,Incidence corr coefficient,0.231773476315111
+Genes,Multiple Sclerosis,2012,Incidence corr coefficient,0.531359132135043
+Genes,Parkinson Disease,2012,Incidence corr coefficient,0.381144286939554
+Genes,Alzheimer's Disease,2013,Incidence corr coefficient,0.24538436969053
+Genes,Multiple Sclerosis,2013,Incidence corr coefficient,0.533528276055884
+Genes,Parkinson Disease,2013,Incidence corr coefficient,0.38834736101399
+Genes,Alzheimer's Disease,2014,Incidence corr coefficient,0.257948298624905
+Genes,Multiple Sclerosis,2014,Incidence corr coefficient,0.528391018994696
+Genes,Parkinson Disease,2014,Incidence corr coefficient,0.393385579054932
+Genes,Alzheimer's Disease,2015,Incidence corr coefficient,0.271425067598515
+Genes,Multiple Sclerosis,2015,Incidence corr coefficient,0.522828704061588
+Genes,Parkinson Disease,2015,Incidence corr coefficient,0.400635161940746
+Genes,Alzheimer's Disease,2016,Incidence corr coefficient,0.286987679754052
+Genes,Multiple Sclerosis,2016,Incidence corr coefficient,0.517779440473847
+Genes,Parkinson Disease,2016,Incidence corr coefficient,0.400120784904292
+Genes,Alzheimer's Disease,2017,Incidence corr coefficient,0.303154939534922
+Genes,Multiple Sclerosis,2017,Incidence corr coefficient,0.513969995544616
+Genes,Parkinson Disease,2017,Incidence corr coefficient,0.409681844598349
+Genes,Alzheimer's Disease,2018,Incidence corr coefficient,0.317981270910727
+Genes,Multiple Sclerosis,2018,Incidence corr coefficient,0.513788023551644
+Genes,Parkinson Disease,2018,Incidence corr coefficient,0.431754889577772
+Genes,Alzheimer's Disease,1992,Prevalence corr coefficient,0.100183257428128
+Genes,Multiple Sclerosis,1992,Prevalence corr coefficient,0.606405160166335
+Genes,Parkinson Disease,1992,Prevalence corr coefficient,0.233602576827792
+Genes,Alzheimer's Disease,1993,Prevalence corr coefficient,0.084892728182706
+Genes,Multiple Sclerosis,1993,Prevalence corr coefficient,0.629025821600316
+Genes,Parkinson Disease,1993,Prevalence corr coefficient,0.22851997065322
+Genes,Alzheimer's Disease,1994,Prevalence corr coefficient,0.129973417965048
+Genes,Multiple Sclerosis,1994,Prevalence corr coefficient,0.681820440906118
+Genes,Parkinson Disease,1994,Prevalence corr coefficient,0.279534899856568
+Genes,Alzheimer's Disease,1995,Prevalence corr coefficient,0.0847407334843544
+Genes,Multiple Sclerosis,1995,Prevalence corr coefficient,0.621616940857527
+Genes,Parkinson Disease,1995,Prevalence corr coefficient,0.250680214852694
+Genes,Alzheimer's Disease,1996,Prevalence corr coefficient,0.0560174755676462
+Genes,Multiple Sclerosis,1996,Prevalence corr coefficient,0.638940764308232
+Genes,Parkinson Disease,1996,Prevalence corr coefficient,0.25172117937462
+Genes,Alzheimer's Disease,1998,Prevalence corr coefficient,0.0368403142756661
+Genes,Multiple Sclerosis,1998,Prevalence corr coefficient,0.689307842134229
+Genes,Parkinson Disease,1998,Prevalence corr coefficient,0.287534435511899
+Genes,Alzheimer's Disease,1997,Prevalence corr coefficient,0.0351009735399613
+Genes,Multiple Sclerosis,1997,Prevalence corr coefficient,0.660634123363623
+Genes,Parkinson Disease,1997,Prevalence corr coefficient,0.261433750949546
+Genes,Alzheimer's Disease,1999,Prevalence corr coefficient,0.0580368112014526
+Genes,Multiple Sclerosis,1999,Prevalence corr coefficient,0.698638791897199
+Genes,Parkinson Disease,1999,Prevalence corr coefficient,0.314954317744532
+Genes,Alzheimer's Disease,2000,Prevalence corr coefficient,0.0658304772607005
+Genes,Multiple Sclerosis,2000,Prevalence corr coefficient,0.70237333365793
+Genes,Parkinson Disease,2000,Prevalence corr coefficient,0.314856415973982
+Genes,Alzheimer's Disease,2001,Prevalence corr coefficient,0.0805345399832403
+Genes,Multiple Sclerosis,2001,Prevalence corr coefficient,0.709011402631197
+Genes,Parkinson Disease,2001,Prevalence corr coefficient,0.323801894928779
+Genes,Alzheimer's Disease,2002,Prevalence corr coefficient,0.0873056741603111
+Genes,Multiple Sclerosis,2002,Prevalence corr coefficient,0.710764745246436
+Genes,Parkinson Disease,2002,Prevalence corr coefficient,0.319068676497257
+Genes,Alzheimer's Disease,2003,Prevalence corr coefficient,0.119839751914946
+Genes,Multiple Sclerosis,2003,Prevalence corr coefficient,0.70255620804411
+Genes,Parkinson Disease,2003,Prevalence corr coefficient,0.333466865891263
+Genes,Alzheimer's Disease,2004,Prevalence corr coefficient,0.124815263037887
+Genes,Multiple Sclerosis,2004,Prevalence corr coefficient,0.69567028397615
+Genes,Parkinson Disease,2004,Prevalence corr coefficient,0.327413302445654
+Genes,Alzheimer's Disease,2005,Prevalence corr coefficient,0.13513169648444
+Genes,Multiple Sclerosis,2005,Prevalence corr coefficient,0.696882962176263
+Genes,Parkinson Disease,2005,Prevalence corr coefficient,0.342188110188476
+Genes,Alzheimer's Disease,2006,Prevalence corr coefficient,0.142406935207188
+Genes,Multiple Sclerosis,2006,Prevalence corr coefficient,0.693768259490738
+Genes,Parkinson Disease,2006,Prevalence corr coefficient,0.348594275485795
+Genes,Alzheimer's Disease,2007,Prevalence corr coefficient,0.153108381161294
+Genes,Multiple Sclerosis,2007,Prevalence corr coefficient,0.676853900864113
+Genes,Parkinson Disease,2007,Prevalence corr coefficient,0.354120527361368
+Genes,Alzheimer's Disease,2008,Prevalence corr coefficient,0.180235520357952
+Genes,Multiple Sclerosis,2008,Prevalence corr coefficient,0.67888396714547
+Genes,Parkinson Disease,2008,Prevalence corr coefficient,0.367216918655299
+Genes,Alzheimer's Disease,2009,Prevalence corr coefficient,0.190224915494031
+Genes,Multiple Sclerosis,2009,Prevalence corr coefficient,0.670710889011577
+Genes,Parkinson Disease,2009,Prevalence corr coefficient,0.370046583250253
+Genes,Alzheimer's Disease,2010,Prevalence corr coefficient,0.201216967083245
+Genes,Multiple Sclerosis,2010,Prevalence corr coefficient,0.676443503989022
+Genes,Parkinson Disease,2010,Prevalence corr coefficient,0.380779728653527
+Genes,Alzheimer's Disease,2011,Prevalence corr coefficient,0.203793206505022
+Genes,Multiple Sclerosis,2011,Prevalence corr coefficient,0.679319156163229
+Genes,Parkinson Disease,2011,Prevalence corr coefficient,0.379183583784728
+Genes,Alzheimer's Disease,2012,Prevalence corr coefficient,0.21335135047999
+Genes,Multiple Sclerosis,2012,Prevalence corr coefficient,0.679143821374768
+Genes,Parkinson Disease,2012,Prevalence corr coefficient,0.387302901574419
+Genes,Alzheimer's Disease,2013,Prevalence corr coefficient,0.225952944324243
+Genes,Multiple Sclerosis,2013,Prevalence corr coefficient,0.683520431852719
+Genes,Parkinson Disease,2013,Prevalence corr coefficient,0.403559251120709
+Genes,Alzheimer's Disease,2014,Prevalence corr coefficient,0.238686840088084
+Genes,Multiple Sclerosis,2014,Prevalence corr coefficient,0.680876816980645
+Genes,Parkinson Disease,2014,Prevalence corr coefficient,0.419957856343046
+Genes,Alzheimer's Disease,2015,Prevalence corr coefficient,0.252320621532462
+Genes,Multiple Sclerosis,2015,Prevalence corr coefficient,0.678351164415908
+Genes,Parkinson Disease,2015,Prevalence corr coefficient,0.43514540222204
+Genes,Alzheimer's Disease,2016,Prevalence corr coefficient,0.266898706633353
+Genes,Multiple Sclerosis,2016,Prevalence corr coefficient,0.676113338970057
+Genes,Parkinson Disease,2016,Prevalence corr coefficient,0.450617411659831
+Genes,Alzheimer's Disease,2017,Prevalence corr coefficient,0.281606377312187
+Genes,Multiple Sclerosis,2017,Prevalence corr coefficient,0.674091445714293
+Genes,Parkinson Disease,2017,Prevalence corr coefficient,0.467479349763049
+Genes,Alzheimer's Disease,2018,Prevalence corr coefficient,0.294175069882399
+Genes,Multiple Sclerosis,2018,Prevalence corr coefficient,0.675089605285964
+Genes,Parkinson Disease,2018,Prevalence corr coefficient,0.486038791325998
+Genes,Alzheimer's Disease,1992,Incidence p_pe,0.510162661504285
+Genes,Multiple Sclerosis,1992,Incidence p_pe,1.35827393926372e-05
+Genes,Parkinson Disease,1992,Incidence p_pe,0.0957927450453913
+Genes,Alzheimer's Disease,1993,Incidence p_pe,0.555057512226755
+Genes,Multiple Sclerosis,1993,Incidence p_pe,5.59152703720519e-06
+Genes,Parkinson Disease,1993,Incidence p_pe,0.0951439363687696
+Genes,Alzheimer's Disease,1994,Incidence p_pe,0.35796179315894
+Genes,Multiple Sclerosis,1994,Incidence p_pe,7.51742095317678e-07
+Genes,Parkinson Disease,1994,Incidence p_pe,0.0414709403238927
+Genes,Alzheimer's Disease,1995,Incidence p_pe,0.531952882663225
+Genes,Multiple Sclerosis,1995,Incidence p_pe,1.74132261148856e-05
+Genes,Parkinson Disease,1995,Incidence p_pe,0.0607952977136438
+Genes,Alzheimer's Disease,1996,Incidence p_pe,0.664244299893832
+Genes,Multiple Sclerosis,1996,Incidence p_pe,8.960904204332e-06
+Genes,Parkinson Disease,1996,Incidence p_pe,0.058294777981721
+Genes,Alzheimer's Disease,1998,Incidence p_pe,0.715489013799898
+Genes,Multiple Sclerosis,1998,Incidence p_pe,1.88058461887691e-06
+Genes,Parkinson Disease,1998,Incidence p_pe,0.0279001556557356
+Genes,Alzheimer's Disease,1997,Incidence p_pe,0.748660303228134
+Genes,Multiple Sclerosis,1997,Incidence p_pe,5.0762843988217e-06
+Genes,Parkinson Disease,1997,Incidence p_pe,0.0472348854516226
+Genes,Alzheimer's Disease,1999,Incidence p_pe,0.59194854873906
+Genes,Multiple Sclerosis,1999,Incidence p_pe,2.04895149011908e-06
+Genes,Parkinson Disease,1999,Incidence p_pe,0.0168497520141525
+Genes,Alzheimer's Disease,2000,Incidence p_pe,0.553929558680508
+Genes,Multiple Sclerosis,2000,Incidence p_pe,2.43412509219571e-06
+Genes,Parkinson Disease,2000,Incidence p_pe,0.0171451742147573
+Genes,Alzheimer's Disease,2001,Incidence p_pe,0.493322166958303
+Genes,Multiple Sclerosis,2001,Incidence p_pe,3.01739946328135e-06
+Genes,Parkinson Disease,2001,Incidence p_pe,0.0145283048609145
+Genes,Alzheimer's Disease,2002,Incidence p_pe,0.465375974463777
+Genes,Multiple Sclerosis,2002,Incidence p_pe,3.67753933310436e-06
+Genes,Parkinson Disease,2002,Incidence p_pe,0.0166692234776267
+Genes,Alzheimer's Disease,2003,Incidence p_pe,0.345524725886364
+Genes,Multiple Sclerosis,2003,Incidence p_pe,9.38305696907707e-06
+Genes,Parkinson Disease,2003,Incidence p_pe,0.0130114173549896
+Genes,Alzheimer's Disease,2004,Incidence p_pe,0.325325056547283
+Genes,Multiple Sclerosis,2004,Incidence p_pe,1.57778464158501e-05
+Genes,Parkinson Disease,2004,Incidence p_pe,0.0151691455779373
+Genes,Alzheimer's Disease,2005,Incidence p_pe,0.29043512124589
+Genes,Multiple Sclerosis,2005,Incidence p_pe,1.54382809615814e-05
+Genes,Parkinson Disease,2005,Incidence p_pe,0.0122595313440997
+Genes,Alzheimer's Disease,2006,Incidence p_pe,0.261808801300043
+Genes,Multiple Sclerosis,2006,Incidence p_pe,1.97043318087856e-05
+Genes,Parkinson Disease,2006,Incidence p_pe,0.0116574773287121
+Genes,Alzheimer's Disease,2007,Incidence p_pe,0.237043197926441
+Genes,Multiple Sclerosis,2007,Incidence p_pe,4.86549864812675e-05
+Genes,Parkinson Disease,2007,Incidence p_pe,0.0111092322477561
+Genes,Alzheimer's Disease,2008,Incidence p_pe,0.169364122284658
+Genes,Multiple Sclerosis,2008,Incidence p_pe,6.02285873770969e-05
+Genes,Parkinson Disease,2008,Incidence p_pe,0.00883364004885223
+Genes,Alzheimer's Disease,2009,Incidence p_pe,0.152211508059489
+Genes,Multiple Sclerosis,2009,Incidence p_pe,0.000102291794908121
+Genes,Parkinson Disease,2009,Incidence p_pe,0.00901715398337672
+Genes,Alzheimer's Disease,2010,Incidence p_pe,0.133650862459007
+Genes,Multiple Sclerosis,2010,Incidence p_pe,9.54535963638898e-05
+Genes,Parkinson Disease,2010,Incidence p_pe,0.00746914576542479
+Genes,Alzheimer's Disease,2011,Incidence p_pe,0.128570447429984
+Genes,Multiple Sclerosis,2011,Incidence p_pe,8.82096324238519e-05
+Genes,Parkinson Disease,2011,Incidence p_pe,0.00800061257018466
+Genes,Alzheimer's Disease,2012,Incidence p_pe,0.112940108944735
+Genes,Multiple Sclerosis,2012,Incidence p_pe,0.00010192541693485
+Genes,Parkinson Disease,2012,Incidence p_pe,0.00752308198850361
+Genes,Alzheimer's Disease,2013,Incidence p_pe,0.0927492795067359
+Genes,Multiple Sclerosis,2013,Incidence p_pe,9.43022656355071e-05
+Genes,Parkinson Disease,2013,Incidence p_pe,0.00637987739955983
+Genes,Alzheimer's Disease,2014,Incidence p_pe,0.0767103310462689
+Genes,Multiple Sclerosis,2014,Incidence p_pe,0.000113268023197807
+Genes,Parkinson Disease,2014,Incidence p_pe,0.00567299465935459
+Genes,Alzheimer's Disease,2015,Incidence p_pe,0.0620244757637203
+Genes,Multiple Sclerosis,2015,Incidence p_pe,0.000137672358307869
+Genes,Parkinson Disease,2015,Incidence p_pe,0.00477593592011281
+Genes,Alzheimer's Disease,2016,Incidence p_pe,0.0479604868670149
+Genes,Multiple Sclerosis,2016,Incidence p_pe,0.000163873227625818
+Genes,Parkinson Disease,2016,Incidence p_pe,0.00483522092743089
+Genes,Alzheimer's Disease,2017,Incidence p_pe,0.0362132749353831
+Genes,Multiple Sclerosis,2017,Incidence p_pe,0.000186556629200963
+Genes,Parkinson Disease,2017,Incidence p_pe,0.00383231484936863
+Genes,Alzheimer's Disease,2018,Incidence p_pe,0.0276312865957821
+Genes,Multiple Sclerosis,2018,Incidence p_pe,0.000187708346353921
+Genes,Parkinson Disease,2018,Incidence p_pe,0.00218284306248075
+Genes,Alzheimer's Disease,1992,Prevalence p_pe,0.498087816360381
+Genes,Multiple Sclerosis,1992,Prevalence p_pe,4.91851991069191e-06
+Genes,Parkinson Disease,1992,Prevalence p_pe,0.110047073508683
+Genes,Alzheimer's Disease,1993,Prevalence p_pe,0.566179134433723
+Genes,Multiple Sclerosis,1993,Prevalence p_pe,1.68221684745592e-06
+Genes,Parkinson Disease,1993,Prevalence p_pe,0.118228818612867
+Genes,Alzheimer's Disease,1994,Prevalence p_pe,0.378594479007207
+Genes,Multiple Sclerosis,1994,Prevalence p_pe,9.52901876562193e-08
+Genes,Parkinson Disease,1994,Prevalence p_pe,0.0543324935591855
+Genes,Alzheimer's Disease,1995,Prevalence p_pe,0.56687705359008
+Genes,Multiple Sclerosis,1995,Prevalence p_pe,2.41290541610297e-06
+Genes,Parkinson Disease,1995,Prevalence p_pe,0.0856977041086671
+Genes,Alzheimer's Disease,1996,Prevalence p_pe,0.705306227268274
+Genes,Multiple Sclerosis,1996,Prevalence p_pe,1.02263120530075e-06
+Genes,Parkinson Disease,1996,Prevalence p_pe,0.0843622484290954
+Genes,Alzheimer's Disease,1998,Prevalence p_pe,0.803675204395345
+Genes,Multiple Sclerosis,1998,Prevalence p_pe,6.04212979265805e-08
+Genes,Parkinson Disease,1998,Prevalence p_pe,0.0475180110096165
+Genes,Alzheimer's Disease,1997,Prevalence p_pe,0.812773726033218
+Genes,Multiple Sclerosis,1997,Prevalence p_pe,3.22771926087051e-07
+Genes,Parkinson Disease,1997,Prevalence p_pe,0.0726726292910757
+Genes,Alzheimer's Disease,1999,Prevalence p_pe,0.695189457707247
+Genes,Multiple Sclerosis,1999,Prevalence p_pe,3.35925229504891e-08
+Genes,Parkinson Disease,1999,Prevalence p_pe,0.0292298034456084
+Genes,Alzheimer's Disease,2000,Prevalence p_pe,0.656646889176241
+Genes,Multiple Sclerosis,2000,Prevalence p_pe,2.63928446856056e-08
+Genes,Parkinson Disease,2000,Prevalence p_pe,0.0292827625750679
+Genes,Alzheimer's Disease,2001,Prevalence p_pe,0.586347095580333
+Genes,Multiple Sclerosis,2001,Prevalence p_pe,1.70326142003266e-08
+Genes,Parkinson Disease,2001,Prevalence p_pe,0.0247619493196097
+Genes,Alzheimer's Disease,2002,Prevalence p_pe,0.555153302023783
+Genes,Multiple Sclerosis,2002,Prevalence p_pe,1.51413026690774e-08
+Genes,Parkinson Disease,2002,Prevalence p_pe,0.0270751300410067
+Genes,Alzheimer's Disease,2003,Prevalence p_pe,0.417182893054531
+Genes,Multiple Sclerosis,2003,Prevalence p_pe,2.608046881426e-08
+Genes,Parkinson Disease,2003,Prevalence p_pe,0.0205496353186423
+Genes,Alzheimer's Disease,2004,Prevalence p_pe,0.397963688721776
+Genes,Multiple Sclerosis,2004,Prevalence p_pe,4.05870688736522e-08
+Genes,Parkinson Disease,2004,Prevalence p_pe,0.0231104059872798
+Genes,Alzheimer's Disease,2005,Prevalence p_pe,0.35979732575266
+Genes,Multiple Sclerosis,2005,Prevalence p_pe,3.75793328834255e-08
+Genes,Parkinson Disease,2005,Prevalence p_pe,0.017283707841976
+Genes,Alzheimer's Disease,2006,Prevalence p_pe,0.334269483623951
+Genes,Multiple Sclerosis,2006,Prevalence p_pe,4.57622430342428e-08
+Genes,Parkinson Disease,2006,Prevalence p_pe,0.0151750783303336
+Genes,Alzheimer's Disease,2007,Prevalence p_pe,0.298829930930124
+Genes,Multiple Sclerosis,2007,Prevalence p_pe,1.27978422376625e-07
+Genes,Parkinson Disease,2007,Prevalence p_pe,0.0135360325512354
+Genes,Alzheimer's Disease,2008,Prevalence p_pe,0.220250759066899
+Genes,Multiple Sclerosis,2008,Prevalence p_pe,1.1352156486246e-07
+Genes,Parkinson Disease,2008,Prevalence p_pe,0.010244012745205
+Genes,Alzheimer's Disease,2009,Prevalence p_pe,0.195306742876955
+Genes,Multiple Sclerosis,2009,Prevalence p_pe,1.82900263834467e-07
+Genes,Parkinson Disease,2009,Prevalence p_pe,0.0096312944450658
+Genes,Alzheimer's Disease,2010,Prevalence p_pe,0.170250841510217
+Genes,Multiple Sclerosis,2010,Prevalence p_pe,1.31102620113923e-07
+Genes,Parkinson Disease,2010,Prevalence p_pe,0.00758538447189095
+Genes,Alzheimer's Disease,2011,Prevalence p_pe,0.164731642701777
+Genes,Multiple Sclerosis,2011,Prevalence p_pe,1.10628040816469e-07
+Genes,Parkinson Disease,2011,Prevalence p_pe,0.0078634571708111
+Genes,Alzheimer's Disease,2012,Prevalence p_pe,0.145392058208963
+Genes,Multiple Sclerosis,2012,Prevalence p_pe,1.11785429163097e-07
+Genes,Parkinson Disease,2012,Prevalence p_pe,0.00653564689089009
+Genes,Alzheimer's Disease,2013,Prevalence p_pe,0.122532533744208
+Genes,Multiple Sclerosis,2013,Prevalence p_pe,8.60267902307358e-08
+Genes,Parkinson Disease,2013,Prevalence p_pe,0.00445084960953007
+Genes,Alzheimer's Disease,2014,Prevalence p_pe,0.102302667967716
+Genes,Multiple Sclerosis,2014,Prevalence p_pe,1.0082653188828e-07
+Genes,Parkinson Disease,2014,Prevalence p_pe,0.00296262609545726
+Genes,Alzheimer's Disease,2015,Prevalence p_pe,0.0836006437073561
+Genes,Multiple Sclerosis,2015,Prevalence p_pe,1.17160427780482e-07
+Genes,Parkinson Disease,2015,Prevalence p_pe,0.00199535292896417
+Genes,Alzheimer's Disease,2016,Prevalence p_pe,0.0666823607427384
+Genes,Multiple Sclerosis,2016,Prevalence p_pe,1.33667618589426e-07
+Genes,Parkinson Disease,2016,Prevalence p_pe,0.00130889089822566
+Genes,Alzheimer's Disease,2017,Prevalence p_pe,0.0524965216184826
+Genes,Multiple Sclerosis,2017,Prevalence p_pe,1.50426870553874e-07
+Genes,Parkinson Disease,2017,Prevalence p_pe,0.000807926225556295
+Genes,Alzheimer's Disease,2018,Prevalence p_pe,0.0424040716030807
+Genes,Multiple Sclerosis,2018,Prevalence p_pe,1.41922100873222e-07
+Genes,Parkinson Disease,2018,Prevalence p_pe,0.000461356643252104
+Genes,Alzheimer's Disease,1992,Incidence RMSE,27.802910695551
+Genes,Multiple Sclerosis,1992,Incidence RMSE,0.645418706825816
+Genes,Parkinson Disease,1992,Incidence RMSE,1.97341169101602
+Genes,Alzheimer's Disease,1993,Incidence RMSE,27.9455263919728
+Genes,Multiple Sclerosis,1993,Incidence RMSE,0.61537404719859
+Genes,Parkinson Disease,1993,Incidence RMSE,1.99702361055392
+Genes,Alzheimer's Disease,1994,Incidence RMSE,27.9438076740603
+Genes,Multiple Sclerosis,1994,Incidence RMSE,0.579104794646718
+Genes,Parkinson Disease,1994,Incidence RMSE,1.98676094692415
+Genes,Alzheimer's Disease,1995,Incidence RMSE,28.3131008742207
+Genes,Multiple Sclerosis,1995,Incidence RMSE,0.611421609015023
+Genes,Parkinson Disease,1995,Incidence RMSE,2.01747228972161
+Genes,Alzheimer's Disease,1996,Incidence RMSE,28.8173961850869
+Genes,Multiple Sclerosis,1996,Incidence RMSE,0.600295851548356
+Genes,Parkinson Disease,1996,Incidence RMSE,2.05216828768483
+Genes,Alzheimer's Disease,1998,Incidence RMSE,30.1932516546383
+Genes,Multiple Sclerosis,1998,Incidence RMSE,0.580376771380111
+Genes,Parkinson Disease,1998,Incidence RMSE,2.1461041063181
+Genes,Alzheimer's Disease,1997,Incidence RMSE,29.4647453185994
+Genes,Multiple Sclerosis,1997,Incidence RMSE,0.592261377678893
+Genes,Parkinson Disease,1997,Incidence RMSE,2.10145084986973
+Genes,Alzheimer's Disease,1999,Incidence RMSE,30.7558198729172
+Genes,Multiple Sclerosis,1999,Incidence RMSE,0.582651274362864
+Genes,Parkinson Disease,1999,Incidence RMSE,2.19265518653274
+Genes,Alzheimer's Disease,2000,Incidence RMSE,31.1057597517454
+Genes,Multiple Sclerosis,2000,Incidence RMSE,0.584265536722963
+Genes,Parkinson Disease,2000,Incidence RMSE,2.2447629023208
+Genes,Alzheimer's Disease,2001,Incidence RMSE,31.2108697732127
+Genes,Multiple Sclerosis,2001,Incidence RMSE,0.586234400440904
+Genes,Parkinson Disease,2001,Incidence RMSE,2.29107373239757
+Genes,Alzheimer's Disease,2002,Incidence RMSE,31.3160273821791
+Genes,Multiple Sclerosis,2002,Incidence RMSE,0.588256409679815
+Genes,Parkinson Disease,2002,Incidence RMSE,2.37370969859122
+Genes,Alzheimer's Disease,2003,Incidence RMSE,31.2727737189702
+Genes,Multiple Sclerosis,2003,Incidence RMSE,0.599223239787696
+Genes,Parkinson Disease,2003,Incidence RMSE,2.45225613662316
+Genes,Alzheimer's Disease,2004,Incidence RMSE,31.2319382931259
+Genes,Multiple Sclerosis,2004,Incidence RMSE,0.604553914400681
+Genes,Parkinson Disease,2004,Incidence RMSE,2.54285320076727
+Genes,Alzheimer's Disease,2005,Incidence RMSE,31.1784054214254
+Genes,Multiple Sclerosis,2005,Incidence RMSE,0.602252941947913
+Genes,Parkinson Disease,2005,Incidence RMSE,2.59598777299559
+Genes,Alzheimer's Disease,2006,Incidence RMSE,31.1233089881822
+Genes,Multiple Sclerosis,2006,Incidence RMSE,0.603511984170492
+Genes,Parkinson Disease,2006,Incidence RMSE,2.63471955629046
+Genes,Alzheimer's Disease,2007,Incidence RMSE,31.0895058503724
+Genes,Multiple Sclerosis,2007,Incidence RMSE,0.613299589706764
+Genes,Parkinson Disease,2007,Incidence RMSE,2.67005276810372
+Genes,Alzheimer's Disease,2008,Incidence RMSE,30.95406187102
+Genes,Multiple Sclerosis,2008,Incidence RMSE,0.61468132103775
+Genes,Parkinson Disease,2008,Incidence RMSE,2.70241902646339
+Genes,Alzheimer's Disease,2009,Incidence RMSE,30.8083724897159
+Genes,Multiple Sclerosis,2009,Incidence RMSE,0.619608835557422
+Genes,Parkinson Disease,2009,Incidence RMSE,2.74986784897871
+Genes,Alzheimer's Disease,2010,Incidence RMSE,30.6982569865327
+Genes,Multiple Sclerosis,2010,Incidence RMSE,0.616302433621872
+Genes,Parkinson Disease,2010,Incidence RMSE,2.80466729342224
+Genes,Alzheimer's Disease,2011,Incidence RMSE,30.6266157247731
+Genes,Multiple Sclerosis,2011,Incidence RMSE,0.613211335259474
+Genes,Parkinson Disease,2011,Incidence RMSE,2.94239314665576
+Genes,Alzheimer's Disease,2012,Incidence RMSE,30.5584821761583
+Genes,Multiple Sclerosis,2012,Incidence RMSE,0.613647888611512
+Genes,Parkinson Disease,2012,Incidence RMSE,3.1872855259717
+Genes,Alzheimer's Disease,2013,Incidence RMSE,30.4812521777447
+Genes,Multiple Sclerosis,2013,Incidence RMSE,0.611501212901696
+Genes,Parkinson Disease,2013,Incidence RMSE,3.52332098493818
+Genes,Alzheimer's Disease,2014,Incidence RMSE,30.2971721687558
+Genes,Multiple Sclerosis,2014,Incidence RMSE,0.612682691484475
+Genes,Parkinson Disease,2014,Incidence RMSE,3.91859875276912
+Genes,Alzheimer's Disease,2015,Incidence RMSE,30.1418009961561
+Genes,Multiple Sclerosis,2015,Incidence RMSE,0.613286994478783
+Genes,Parkinson Disease,2015,Incidence RMSE,4.34263112716551
+Genes,Alzheimer's Disease,2016,Incidence RMSE,29.9959076879288
+Genes,Multiple Sclerosis,2016,Incidence RMSE,0.611262899606446
+Genes,Parkinson Disease,2016,Incidence RMSE,5.07598726636827
+Genes,Alzheimer's Disease,2017,Incidence RMSE,30.0071156367923
+Genes,Multiple Sclerosis,2017,Incidence RMSE,0.609137409305815
+Genes,Parkinson Disease,2017,Incidence RMSE,5.73507473089632
+Genes,Alzheimer's Disease,2018,Incidence RMSE,30.0996869423497
+Genes,Multiple Sclerosis,2018,Incidence RMSE,0.607506790720985
+Genes,Parkinson Disease,2018,Incidence RMSE,5.93385294633043
+Genes,Alzheimer's Disease,1992,Prevalence RMSE,206.033517591925
+Genes,Multiple Sclerosis,1992,Prevalence RMSE,19.204741945613
+Genes,Parkinson Disease,1992,Prevalence RMSE,18.3713202581141
+Genes,Alzheimer's Disease,1993,Prevalence RMSE,207.12677626154
+Genes,Multiple Sclerosis,1993,Prevalence RMSE,18.6800215782299
+Genes,Parkinson Disease,1993,Prevalence RMSE,18.5970777326251
+Genes,Alzheimer's Disease,1994,Prevalence RMSE,207.48953938647
+Genes,Multiple Sclerosis,1994,Prevalence RMSE,17.5890443588927
+Genes,Parkinson Disease,1994,Prevalence RMSE,18.4794793203481
+Genes,Alzheimer's Disease,1995,Prevalence RMSE,210.729966283199
+Genes,Multiple Sclerosis,1995,Prevalence RMSE,18.8908672727736
+Genes,Parkinson Disease,1995,Prevalence RMSE,18.7851861447115
+Genes,Alzheimer's Disease,1996,Prevalence RMSE,215.580147845219
+Genes,Multiple Sclerosis,1996,Prevalence RMSE,18.6771239711731
+Genes,Parkinson Disease,1996,Prevalence RMSE,19.2997636570465
+Genes,Alzheimer's Disease,1998,Prevalence RMSE,231.090340621646
+Genes,Multiple Sclerosis,1998,Prevalence RMSE,18.0089021359272
+Genes,Parkinson Disease,1998,Prevalence RMSE,21.3157065762775
+Genes,Alzheimer's Disease,1997,Prevalence RMSE,222.607637605354
+Genes,Multiple Sclerosis,1997,Prevalence RMSE,18.4003435272196
+Genes,Parkinson Disease,1997,Prevalence RMSE,20.2546292086199
+Genes,Alzheimer's Disease,1999,Prevalence RMSE,238.355502968227
+Genes,Multiple Sclerosis,1999,Prevalence RMSE,18.026738554907
+Genes,Parkinson Disease,1999,Prevalence RMSE,22.1361038966702
+Genes,Alzheimer's Disease,2000,Prevalence RMSE,242.614984205659
+Genes,Multiple Sclerosis,2000,Prevalence RMSE,18.1425484835264
+Genes,Parkinson Disease,2000,Prevalence RMSE,22.7707797995729
+Genes,Alzheimer's Disease,2001,Prevalence RMSE,244.023585610496
+Genes,Multiple Sclerosis,2001,Prevalence RMSE,18.1351540567809
+Genes,Parkinson Disease,2001,Prevalence RMSE,23.0982316072879
+Genes,Alzheimer's Disease,2002,Prevalence RMSE,245.414764511416
+Genes,Multiple Sclerosis,2002,Prevalence RMSE,18.2346074129582
+Genes,Parkinson Disease,2002,Prevalence RMSE,23.6463872965045
+Genes,Alzheimer's Disease,2003,Prevalence RMSE,245.892185595416
+Genes,Multiple Sclerosis,2003,Prevalence RMSE,18.5876295720034
+Genes,Parkinson Disease,2003,Prevalence RMSE,24.0957871689271
+Genes,Alzheimer's Disease,2004,Prevalence RMSE,246.256122907436
+Genes,Multiple Sclerosis,2004,Prevalence RMSE,18.9047074632981
+Genes,Parkinson Disease,2004,Prevalence RMSE,24.6404932940405
+Genes,Alzheimer's Disease,2005,Prevalence RMSE,246.50431717077
+Genes,Multiple Sclerosis,2005,Prevalence RMSE,19.0177741751342
+Genes,Parkinson Disease,2005,Prevalence RMSE,24.7939491313406
+Genes,Alzheimer's Disease,2006,Prevalence RMSE,246.748790392791
+Genes,Multiple Sclerosis,2006,Prevalence RMSE,19.2324524103382
+Genes,Parkinson Disease,2006,Prevalence RMSE,24.8160597685186
+Genes,Alzheimer's Disease,2007,Prevalence RMSE,247.001136672515
+Genes,Multiple Sclerosis,2007,Prevalence RMSE,19.7773404349786
+Genes,Parkinson Disease,2007,Prevalence RMSE,24.8569937126605
+Genes,Alzheimer's Disease,2008,Prevalence RMSE,246.452001113511
+Genes,Multiple Sclerosis,2008,Prevalence RMSE,19.8453312477865
+Genes,Parkinson Disease,2008,Prevalence RMSE,24.8554775376194
+Genes,Alzheimer's Disease,2009,Prevalence RMSE,245.688434026343
+Genes,Multiple Sclerosis,2009,Prevalence RMSE,20.1704773720111
+Genes,Parkinson Disease,2009,Prevalence RMSE,24.8910085429387
+Genes,Alzheimer's Disease,2010,Prevalence RMSE,245.271580859675
+Genes,Multiple Sclerosis,2010,Prevalence RMSE,20.1558136980908
+Genes,Parkinson Disease,2010,Prevalence RMSE,24.8979394212107
+Genes,Alzheimer's Disease,2011,Prevalence RMSE,244.981426419322
+Genes,Multiple Sclerosis,2011,Prevalence RMSE,20.2028012963363
+Genes,Parkinson Disease,2011,Prevalence RMSE,25.0661713656484
+Genes,Alzheimer's Disease,2012,Prevalence RMSE,244.412187144843
+Genes,Multiple Sclerosis,2012,Prevalence RMSE,20.3134371609247
+Genes,Parkinson Disease,2012,Prevalence RMSE,25.2517125416247
+Genes,Alzheimer's Disease,2013,Prevalence RMSE,243.953073356734
+Genes,Multiple Sclerosis,2013,Prevalence RMSE,20.2991660505067
+Genes,Parkinson Disease,2013,Prevalence RMSE,25.4633906371758
+Genes,Alzheimer's Disease,2014,Prevalence RMSE,242.337940938813
+Genes,Multiple Sclerosis,2014,Prevalence RMSE,20.4695353747883
+Genes,Parkinson Disease,2014,Prevalence RMSE,25.6328198358993
+Genes,Alzheimer's Disease,2015,Prevalence RMSE,240.921067078646
+Genes,Multiple Sclerosis,2015,Prevalence RMSE,20.6390217447533
+Genes,Parkinson Disease,2015,Prevalence RMSE,25.8587324733237
+Genes,Alzheimer's Disease,2016,Prevalence RMSE,239.565944993339
+Genes,Multiple Sclerosis,2016,Prevalence RMSE,20.7201298986526
+Genes,Parkinson Disease,2016,Prevalence RMSE,26.0923653388212
+Genes,Alzheimer's Disease,2017,Prevalence RMSE,239.334125107097
+Genes,Multiple Sclerosis,2017,Prevalence RMSE,20.7884041378837
+Genes,Parkinson Disease,2017,Prevalence RMSE,26.4674504568712
+Genes,Alzheimer's Disease,2018,Prevalence RMSE,239.725289858104
+Genes,Multiple Sclerosis,2018,Prevalence RMSE,20.8377123315475
+Genes,Parkinson Disease,2018,Prevalence RMSE,26.9072442067267

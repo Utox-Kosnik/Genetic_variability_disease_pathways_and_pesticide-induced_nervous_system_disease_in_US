@@ -1,0 +1,193 @@
+state,Variable,Type
+Alabama,2308.19320689388,KG/Area
+Arizona,871.716310986541,KG/Area
+Arkansas,5486.66292097262,KG/Area
+California,11757.3948022137,KG/Area
+Colorado,1791.94258497166,KG/Area
+Connecticut,953.862274892671,KG/Area
+Delaware,12295.5614803106,KG/Area
+Florida,18561.7347032166,KG/Area
+Georgia,6642.70656675504,KG/Area
+Idaho,5449.87705809163,KG/Area
+Illinois,12241.6126283737,KG/Area
+Indiana,10153.3409766641,KG/Area
+Iowa,11410.3373356332,KG/Area
+Kansas,5550.10451270621,KG/Area
+Kentucky,3238.8108281324,KG/Area
+Louisiana,4372.55306913702,KG/Area
+Maine,495.976858335927,KG/Area
+Maryland,5814.4560164924,KG/Area
+Massachusetts,1002.94211225285,KG/Area
+Michigan,4277.37866774735,KG/Area
+Minnesota,5290.22572748961,KG/Area
+Mississippi,4487.94221014824,KG/Area
+Missouri,4398.56404990236,KG/Area
+Montana,906.288663353069,KG/Area
+Nebraska,6438.95631342224,KG/Area
+Nevada,173.462539767525,KG/Area
+New Hampshire,237.049316460786,KG/Area
+New Jersey,2944.84979877087,KG/Area
+New Mexico,327.797761380056,KG/Area
+New York,2378.51158131024,KG/Area
+North Carolina,6638.14259091062,KG/Area
+North Dakota,4569.62189018094,KG/Area
+Ohio,6306.69834326838,KG/Area
+Oklahoma,1639.99795833428,KG/Area
+Oregon,2063.7849861441,KG/Area
+Pennsylvania,2530.56496847461,KG/Area
+Rhode Island,565.538495018862,KG/Area
+South Carolina,4178.55749839259,KG/Area
+South Dakota,3457.80590713403,KG/Area
+Tennessee,3298.03720575964,KG/Area
+Texas,1987.86582925784,KG/Area
+Utah,219.883106157941,KG/Area
+Vermont,635.67158609138,KG/Area
+Virginia,2717.38696600869,KG/Area
+Washington,9471.64685053612,KG/Area
+West Virginia,825.861550600993,KG/Area
+Wisconsin,4093.18713880514,KG/Area
+Wyoming,189.059674812825,KG/Area
+Alabama,353,Pesticides
+Arizona,358,Pesticides
+Arkansas,357,Pesticides
+California,437,Pesticides
+Colorado,317,Pesticides
+Connecticut,243,Pesticides
+Delaware,283,Pesticides
+Florida,396,Pesticides
+Georgia,378,Pesticides
+Idaho,355,Pesticides
+Illinois,353,Pesticides
+Indiana,365,Pesticides
+Iowa,317,Pesticides
+Kansas,307,Pesticides
+Kentucky,333,Pesticides
+Louisiana,323,Pesticides
+Maine,214,Pesticides
+Maryland,334,Pesticides
+Massachusetts,262,Pesticides
+Michigan,388,Pesticides
+Minnesota,330,Pesticides
+Mississippi,343,Pesticides
+Missouri,374,Pesticides
+Montana,291,Pesticides
+Nebraska,289,Pesticides
+Nevada,337,Pesticides
+New Hampshire,213,Pesticides
+New Jersey,311,Pesticides
+New Mexico,367,Pesticides
+New York,344,Pesticides
+North Carolina,375,Pesticides
+North Dakota,278,Pesticides
+Ohio,363,Pesticides
+Oklahoma,349,Pesticides
+Oregon,388,Pesticides
+Pennsylvania,356,Pesticides
+Rhode Island,193,Pesticides
+South Carolina,357,Pesticides
+South Dakota,262,Pesticides
+Tennessee,371,Pesticides
+Texas,393,Pesticides
+Utah,291,Pesticides
+Vermont,239,Pesticides
+Virginia,370,Pesticides
+Washington,381,Pesticides
+West Virginia,309,Pesticides
+Wisconsin,343,Pesticides
+Wyoming,265,Pesticides
+Arizona,553772,SNP Hits
+California,783538,SNP Hits
+Idaho,551168,SNP Hits
+Indiana,548687,SNP Hits
+Michigan,560239,SNP Hits
+Minnesota,492953,SNP Hits
+Montana,406087,SNP Hits
+Nevada,510091,SNP Hits
+New Mexico,540289,SNP Hits
+North Dakota,342018,SNP Hits
+Ohio,568594,SNP Hits
+Oregon,600153,SNP Hits
+South Dakota,363510,SNP Hits
+Utah,409078,SNP Hits
+Florida,586410,SNP Hits
+Georgia,587020,SNP Hits
+Kentucky,509076,SNP Hits
+North Carolina,577008,SNP Hits
+Tennessee,560168,SNP Hits
+Virginia,559260,SNP Hits
+Maine,354201,SNP Hits
+Washington,580812,SNP Hits
+Connecticut,443350,SNP Hits
+Massachusetts,456949,SNP Hits
+New Jersey,494870,SNP Hits
+New York,524325,SNP Hits
+Pennsylvania,557706,SNP Hits
+Colorado,475973,SNP Hits
+West Virginia,481527,SNP Hits
+Maryland,524739,SNP Hits
+Alabama,523387,SNP Hits
+Arkansas,442445,SNP Hits
+Delaware,415032,SNP Hits
+Illinois,502514,SNP Hits
+Iowa,421300,SNP Hits
+Kansas,424867,SNP Hits
+Louisiana,405679,SNP Hits
+Mississippi,458689,SNP Hits
+Missouri,524172,SNP Hits
+Nebraska,432688,SNP Hits
+Oklahoma,461674,SNP Hits
+South Carolina,549359,SNP Hits
+Texas,561508,SNP Hits
+Vermont,428652,SNP Hits
+Wisconsin,496221,SNP Hits
+Wyoming,371709,SNP Hits
+New Hampshire,410267,SNP Hits
+Rhode Island,396117,SNP Hits
+Arizona,123445,Gene Hits
+California,169822,Gene Hits
+Idaho,122729,Gene Hits
+Indiana,122780,Gene Hits
+Michigan,125216,Gene Hits
+Minnesota,110639,Gene Hits
+Montana,90589,Gene Hits
+Nevada,114006,Gene Hits
+New Mexico,120838,Gene Hits
+North Dakota,76255,Gene Hits
+Ohio,126908,Gene Hits
+Oregon,132886,Gene Hits
+South Dakota,81795,Gene Hits
+Utah,92380,Gene Hits
+Florida,130831,Gene Hits
+Georgia,129699,Gene Hits
+Kentucky,113711,Gene Hits
+North Carolina,127951,Gene Hits
+Tennessee,123638,Gene Hits
+Virginia,123742,Gene Hits
+Maine,80911,Gene Hits
+Washington,128954,Gene Hits
+Connecticut,100693,Gene Hits
+Massachusetts,103636,Gene Hits
+New Jersey,112136,Gene Hits
+New York,118545,Gene Hits
+Pennsylvania,125022,Gene Hits
+Colorado,108035,Gene Hits
+West Virginia,107791,Gene Hits
+Maryland,117530,Gene Hits
+Alabama,116408,Gene Hits
+Arkansas,96232,Gene Hits
+Delaware,95668,Gene Hits
+Illinois,112463,Gene Hits
+Iowa,95361,Gene Hits
+Kansas,95957,Gene Hits
+Louisiana,87591,Gene Hits
+Mississippi,100205,Gene Hits
+Missouri,116032,Gene Hits
+Nebraska,99095,Gene Hits
+Oklahoma,102209,Gene Hits
+South Carolina,122124,Gene Hits
+Texas,124433,Gene Hits
+Vermont,97654,Gene Hits
+Wisconsin,111535,Gene Hits
+Wyoming,85115,Gene Hits
+New Hampshire,93491,Gene Hits
+Rhode Island,90606,Gene Hits
